@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T13:10:33.824Z",
+  "generatedAt": "2026-07-21T13:24:36.717Z",
   "issues": [
     {
       "key": "VR-137",
@@ -351,7 +351,7 @@
       "duedate": "2025-11-20",
       "created": "2026-06-16T12:03:16.025-0400",
       "assignee": null,
-      "responsable_action": null,
+      "responsable_action": "Eric Deschenes",
       "date_cible_resolution": "2026-06-18",
       "date_completion_reelle": "2026-06-19",
       "description": null,
@@ -379,7 +379,7 @@
       "duedate": "2025-11-20",
       "created": "2026-06-16T12:03:19.711-0400",
       "assignee": null,
-      "responsable_action": null,
+      "responsable_action": "Eric Deschenes",
       "date_cible_resolution": null,
       "date_completion_reelle": null,
       "description": null,
