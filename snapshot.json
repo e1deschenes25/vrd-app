@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T19:04:25.018Z",
+  "generatedAt": "2026-07-21T19:28:35.705Z",
   "issues": [
     {
       "key": "VR-137",
@@ -2817,7 +2817,7 @@
     },
     {
       "key": "VR-237",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "F-A01 — Analyse impact RPAE — élevages d'insectes nouveaux",
       "status": "Ouvert",
       "priority": "Highest",
@@ -2841,11 +2841,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-238",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "F-A02 — Analyse impact RPAE — nouvelles normes gestion déjections animales",
       "status": "Ouvert",
       "priority": "Highest",
@@ -2869,11 +2869,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-239",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "F-A03 — Analyse impact RPAE — épandage fertilisants nouvelles normes",
       "status": "Ouvert",
       "priority": "High",
@@ -2897,11 +2897,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-240",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "F-A04 — Documenter mémoire consultation 87293 (échéance 10 avril 2026)",
       "status": "Ouvert",
       "priority": "Medium",
@@ -2925,11 +2925,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-241",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "F-A05 — Mapping clients exploitations agricoles (cartographie)",
       "status": "Ouvert",
       "priority": "High",
@@ -2953,11 +2953,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-242",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "F-A06 — Analyse allègements REAFIE — impact services Réglementation",
       "status": "Ouvert",
       "priority": "High",
@@ -2981,11 +2981,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-243",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "F-A07 — Documenter mémoire 87422 (échéance 25 avril 2026)",
       "status": "Ouvert",
       "priority": "Medium",
@@ -3009,11 +3009,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-244",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "F-A08 — BUSINESS CASE — Offre analyses vérification terreaux tout usage",
       "status": "Ouvert",
       "priority": "High",
@@ -3037,11 +3037,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-245",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "F-A09 — BUSINESS CASE — Offre attestations innocuité produits MRF",
       "status": "Ouvert",
       "priority": "High",
@@ -3065,11 +3065,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-246",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "F-A10 — Documenter mémoire 87419 (échéance 25 avril 2026)",
       "status": "Ouvert",
       "priority": "Medium",
@@ -3093,11 +3093,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-247",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "F-A11 — Évaluer impact extension exemptions caractérisation sols contaminés",
       "status": "Ouvert",
       "priority": "High",
@@ -3121,11 +3121,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-248",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "F-A12 — Documenter mémoire 87427 (échéance 25 avril 2026)",
       "status": "Ouvert",
       "priority": "Medium",
@@ -3149,11 +3149,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-249",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "F-A13 — Revue article-par-article harmonisations REA→RPAE",
       "status": "Ouvert",
       "priority": "Medium",
@@ -3177,11 +3177,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-250",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "F-A14 — ** NOUVEAU ** Vérifier portée accréditation Eurofins déchets biomédicaux",
       "status": "Ouvert",
       "priority": "High",
@@ -3205,11 +3205,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-251",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "F-A15 — ** NOUVEAU ** Évaluer impact régime crédits compensatoires biogaz",
       "status": "Ouvert",
       "priority": "Medium",
@@ -3233,11 +3233,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-252",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "F-A16 — POINT D'ÉTAPE — Avancement validations 11 paramètres CEAEQ",
       "status": "Ouvert",
       "priority": "Highest",
@@ -3261,11 +3261,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-253",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "F-A17 — Plan B sous-traitance partielle si capacité insuffisante",
       "status": "Ouvert",
       "priority": "Highest",
@@ -3289,11 +3289,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-254",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "F-A18 — Demande extension délai CEAEQ si requis",
       "status": "Ouvert",
       "priority": "High",
@@ -3317,7 +3317,7 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-255",
@@ -3517,7 +3517,7 @@
     },
     {
       "key": "VR-262",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "M-A01 — Lecture détaillée Décret 368-2026 + Analyse impact réglementaire",
       "status": "Ouvert",
       "priority": "Highest",
@@ -3541,11 +3541,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-263",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "M-A02 — Communication clients — changements PEEIE",
       "status": "Ouvert",
       "priority": "High",
@@ -3569,11 +3569,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-264",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "M-A03 — Mise à jour documentation interne procédures EIE",
       "status": "Ouvert",
       "priority": "Medium",
@@ -3597,11 +3597,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-265",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "M-A04 — Cartographie clients impacts cadre permanent milieux hydriques",
       "status": "Ouvert",
       "priority": "High",
@@ -3625,11 +3625,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-266",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "M-A05 — Veille cartes zones inondables nouvelle génération",
       "status": "Ouvert",
       "priority": "Medium",
@@ -3653,11 +3653,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-267",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "M-A06 — Communication Service Commercial — critères E. coli + entérocoques inchangés",
       "status": "Ouvert",
       "priority": "Low",
@@ -3681,11 +3681,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-268",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "M-A07 — Veille date de reprise essai HLP-04 domaine 606",
       "status": "Ouvert",
       "priority": "Medium",
@@ -3709,11 +3709,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-269",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "M-A08 — ** URGENT ** Point d'étape FINAL avancement 11 paramètres CEAEQ",
       "status": "Ouvert",
       "priority": "Highest",
@@ -3737,11 +3737,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-270",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "M-A09 — ** URGENT ** Soumission données validation au conseiller auditeur CEAEQ",
       "status": "Ouvert",
       "priority": "Highest",
@@ -3765,11 +3765,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-271",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "M-A10 — ** URGENT ** Validation finale refonte SOP Legionella domaine 606",
       "status": "Ouvert",
       "priority": "Highest",
@@ -3793,11 +3793,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-272",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "M-A11 — Bilan veille consultation chlorite/chlorate (close 14 avril 2026)",
       "status": "Ouvert",
       "priority": "Medium",
@@ -3821,11 +3821,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-273",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "M-A12 — Bilan veille consultations AHA6 + Amiante (closes mars 2026)",
       "status": "Ouvert",
       "priority": "Medium",
@@ -3849,11 +3849,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-274",
-      "division": "À régulariser",
+      "division": "Environnement",
       "summary": "M-A13 — Mise en place workflow notification 30j avant date limite consultation",
       "status": "Ouvert",
       "priority": "High",
@@ -3877,7 +3877,7 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-275",
@@ -4387,7 +4387,7 @@
     },
     {
       "key": "VR-291",
-      "division": "À régulariser",
+      "division": "Alimentaires",
       "summary": "Documenter Version 6 CCN dans SQI (tracabilite version)",
       "status": "Ouvert",
       "priority": "Low",
@@ -4411,11 +4411,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-292",
-      "division": "À régulariser",
+      "division": "Alimentaires",
       "summary": "Verification mensuelle prochaine - planifier veille fev 2026 (5 documents CCN)",
       "status": "Ouvert",
       "priority": "Low",
@@ -4439,11 +4439,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-293",
-      "division": "À régulariser",
+      "division": "Alimentaires",
       "summary": "Verification mensuelle prochaine - 25+ docs alimentaires (lois, reglements, methodes)",
       "status": "Ouvert",
       "priority": "Low",
@@ -4467,11 +4467,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-294",
-      "division": "À régulariser",
+      "division": "Alimentaires",
       "summary": "OPPORTUNITE - Evaluation business case analyses nutritionnelles FOP (gras satures, sucres, sodium)",
       "status": "Ouvert",
       "priority": "Medium",
@@ -4495,11 +4495,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-295",
-      "division": "À régulariser",
+      "division": "Alimentaires",
       "summary": "OPPORTUNITE - Evaluation business case analyses aliments supplementes (vitamines, mineraux)",
       "status": "Ouvert",
       "priority": "Medium",
@@ -4523,11 +4523,11 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-296",
-      "division": "À régulariser",
+      "division": "Alimentaires",
       "summary": "Communication interne equipe Alimentaire - resultats vigie janvier 2026",
       "status": "Ouvert",
       "priority": "Low",
@@ -4551,7 +4551,7 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
-      "_anomalieDivision": true
+      "_anomalieDivision": false
     },
     {
       "key": "VR-297",
