@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T14:01:51.824Z",
+  "generatedAt": "2026-07-23T16:00:02.416Z",
   "issues": [
     {
       "key": "VR-137",
@@ -7646,6 +7646,44 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
+      "_anomalieDivision": false
+    },
+    {
+      "key": "VR-388",
+      "division": "Alimentaires",
+      "summary": "Vigie réglementaire Alimentaire – Juin 2026 – STATU QUO (aucun changement pertinent : général + CCN + corpus lois/méthodes)",
+      "status": "À trier",
+      "priority": "Low",
+      "type": "VR - Avis",
+      "subtask": false,
+      "criticite": "Faible",
+      "mois_vigie": "Juin 2026",
+      "date_vigueur": null,
+      "duedate": "2026-08-31",
+      "created": "2026-07-23T10:08:29.328-0400",
+      "assignee": null,
+      "responsable_action": null,
+      "date_cible_resolution": "2026-08-31",
+      "date_completion_reelle": null,
+      "description": "VIGIE MENSUELLE – Division Alimentaire (Eurofins Essais Alimentaires Québec). Source : communication officielle de Lahcen El Badaoui (LELB, Coordonnateur AQ Alimentaire) reçue le 2026-07-03. Vérification systématique effectuée le 2026-07-03.\nTicket consolidé regroupant les 3 volets de la vigie du mois – aucun changement pertinent pour les activités Eurofins (mois statu quo, valeur de preuve d'audit) :\n1. Vigie réglementaire générale alimentaire\nAucun changement pertinent relevé au niveau des documents consultés pour le secteur alimentaire.\n2. Documents d'accréditation CCN-SCC (5 documents – tous inchangés / NA)\nPAL – Aperçu du programme (V3, 2026-04-22)\n\nELD-Lab – Accréditation des laboratoires d'essais (V6, 2026-05-21)\n\nELD-VVMLE – Vérification et validation des méthodes (2021-05-24)\n\nLignes directrices sur la présentation des portées d'accréditation (V7, 2026-06-04)\n\nEssais d'aptitude (laboratoires d'essais, d'étalonnage et médicaux) (V7, 2026-05-21)\n\nLes changements de ces documents avaient été traités lors des vigies précédentes; ils sont ici re-vérifiés et confirmés stables.\n3. Corpus lois, règlements et méthodes – produits alimentaires et agricoles (25+ documents – tous NA)\nCompendium Santé Canada (analyse microbiologique des aliments), USDA Microbiology Laboratory Guidebook, AOAC OMA online, Loi ACIA, Loi/Règlement aliments du bétail, Règlement aliments et drogues, Loi/Règlement emballage-étiquetage produits de consommation, Loi/Règlement engrais, Règlement protection obtentions végétales, Loi/Règlement protection des végétaux, Loi salubrité aliments Canada, Règlement salubrité aliments, Loi santé des animaux, Règlement couvoirs, Règlement santé animaux, Loi/Règlement semences, Arrêté graines de mauvaises herbes, Politique Listeria monocytogenes (aliments prêts-à-manger), BAX System Real-Time PCR STEC, Neogen Petrifilm Enterobacteriaceae, BNQ 3660-950, NF EN 1420, NF EN 1622.\nAucun changement pertinent. Statu quo complet pour les activités Eurofins Alimentaire.\nRapporteur d'origine (source AQ) : Lahcen El Badaoui.\nSource : vigie réglementaire Juin 2026 (Alimentaire).",
+      "evaluation_impact": "Vigie mensuelle Alimentaire - aucun changement pertinent (général, CCN, corpus lois/méthodes). Statu quo complet. Ticket de preuve d'audit.",
+      "comments": [
+        {
+          "author": "Automation for Jira",
+          "created": "2026-07-23T10:08:31.772-0400",
+          "public": false,
+          "text": "Page Confluence de la vigie pour Juin 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        }
+      ],
+      "parent_key": null,
+      "parent_url": null,
+      "jira_url": "https://labenvironex.atlassian.net/browse/VR-388",
+      "phase_pipeline": null,
+      "quadrant": null,
+      "unite_affaires": [
+        "Op-Labo",
+        "AQ"
+      ],
       "_anomalieDivision": false
     }
   ]
