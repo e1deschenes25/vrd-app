@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T21:00:02.940Z",
+  "generatedAt": "2026-07-24T13:00:02.430Z",
   "issues": [
     {
       "key": "VR-137",
@@ -6734,7 +6734,7 @@
       "key": "VR-359",
       "division": "Environnement",
       "summary": "** Suivi critique ** PALA – Avis du 30 janvier 2026 – Statut OUVERT – implantation au maximum le 31 juillet 2026",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Highest",
       "type": "VR - Avis",
       "subtask": false,
@@ -6755,6 +6755,12 @@
           "created": "2026-07-23T09:22:11.193-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Mai 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-23T18:25:23.675-0400",
+          "public": true,
+          "text": "🔒 Fermeture — DOUBLON DE SUIVI (vigie Mai 2026).\nCe ticket est un doublon mensuel du suivi PALA (Avis CEAEQ du 30 janvier 2026). Référence active / canonique : VR-259 (SUIVI CONTINU — PALA).\nMotif : Doublon de suivi\n\nStatut cible : Clôturé – sans impact\n\nSous-tâche VR-364 → Terminé (action déjà tracée sous VR-259)\n\nDécision D1 (conserver le ticket canonique) validée par Eric Deschenes\n\nDocumenté au Registre des fermetures VR (Base 3). (Pilote de validation de la procédure de fermeture — 2026-07-23.)"
         }
       ],
       "parent_key": null,
@@ -6903,7 +6909,7 @@
       "key": "VR-364",
       "division": "Environnement",
       "summary": "** SUIVI CRITIQUE ** Finaliser l'implantation de la modification des champs/domaines d'accréditation (PALA)",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Highest",
       "type": "Sous-tâche",
       "subtask": true,
@@ -6918,7 +6924,14 @@
       "date_completion_reelle": null,
       "description": "Compléter l'implantation des changements de champs et domaines d'accréditation (Avis du 30 janvier 2026) avant l'échéance ferme.\nRéférence : PALA - Avis 30 janvier 2026\n\nCriticité : Critique\n\nÉchéance : 2026-07-31\n\nResponsable proposé : Assurance qualité + Service Accréditation\n\nStatut : URGENT – échéance proche\n\nEffort estimé : 1-2 semaines",
       "evaluation_impact": null,
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-23T18:30:15.250-0400",
+          "public": true,
+          "text": "🔒 Sous-tâche fermée (Terminé) — DOUBLON DE SUIVI.\nAction déjà tracée sous le ticket canonique VR-259 (SUIVI CONTINU — PALA). Fermée dans le cadre de la consolidation de son parent VR-359 (Clôturé – sans impact).\nTraitement : Fermeture (pas de migration — l'action existe déjà sous VR-259)\n\nRéférence active : VR-259\n\nDécision D1 validée par Eric Deschenes\n\n(Documenté au Registre des fermetures VR — Base 3. Pilote de validation — 2026-07-23.)"
+        }
+      ],
       "parent_key": "VR-359",
       "parent_url": "https://labenvironex.atlassian.net/browse/VR-359",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-364",
