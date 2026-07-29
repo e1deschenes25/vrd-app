@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T14:00:37.374Z",
+  "generatedAt": "2026-07-29T16:00:02.845Z",
   "issues": [
     {
       "key": "VR-137",
@@ -16,7 +16,7 @@
       "created": "2026-06-16T11:41:43.988-0400",
       "assignee": null,
       "responsable_action": null,
-      "date_cible_resolution": null,
+      "date_cible_resolution": "2025-12-31",
       "date_completion_reelle": null,
       "description": "Nouveau Code de gestion des matières résiduelles fertilisantes (CGMRF) en vigueur le 1er novembre 2025. CONFIRMÉ par sources officielles : quebec.ca, environnement.gouv.qc.ca. Introduit un encadrement des substances perfluoroalkyliques et polyfluoroalkyliques (SPFA) basé sur plusieurs seuils, totalisant 13 substances. Seuils spécifiques pour PFOS et PFOA + somme de 11 SPFA. Introduit la catégorie I avec valorisation conditionnée; les MRF \"hors catégorie I-HC\" ne peuvent être épandus en agriculture/foresterie. Moratoire interdisant épandage agricole de biosolides importés des USA en vigueur depuis mars 2023; le règlement levant ce moratoire entrera en vigueur le 1er novembre 2028. IMPACT LABO : hausse anticipée demandes analyses SPFA dans matrices solides/biosolides; vérifier portée accréditation (lien direct avec domaines 381 modifié et 187 nouveau — voir VR-NOV-A01).",
       "evaluation_impact": "Encadrement SPFA dans MRF (PFOS, PFOA, somme 11 SPFA) avec catégorie I et critères investigateurs. Hausse anticipée analyses SPFA. Vérifier portée accréditation (domaines 381, 187).",
@@ -33,7 +33,7 @@
       "key": "VR-138",
       "division": "Environnement",
       "summary": "Projet 86717 — REAFIE : Allègement renseignements demandes d'autorisation (consultation 3 jan 2026)",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Medium",
       "type": "VR - Projet",
       "subtask": false,
@@ -48,7 +48,14 @@
       "date_completion_reelle": null,
       "description": "Projet de règlement modifiant le REAFIE publié dans la GOQ II Vol.157 n°47 (19 nov 2025) p.6136. Allègement des renseignements exigés dans les demandes d'autorisation. Art. 16: simplification administrative; Art. 35.1: renouvellement assujetti art. 23-27 LQE; Art. 157.1: DoC lavage fruits/légumes ≥20 ha (MES ≤50 mg/L) — cucurbitacées sans racines; Art. 234: batteries lithium 100k kg. Disposition transitoire jusqu'au 31 déc 2030 lavage F&L. STATUT : consultation publique close, analyse des mémoires en cours par MELCCFP, version finale à paraître.",
       "evaluation_impact": "Allègement renseignements DA. Impact labo: nouvelle norme MES ≤50 mg/L pour lavage F&L.",
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T11:58:27.519-0400",
+          "public": true,
+          "text": "Fermeture — caduc par décret (Plan de fermeture VR, catégorie 1)\nLe projet de règlement 86717 (REAFIE), publié à la Gazette officielle du Québec P.II Vol.157 n°47 du 19 novembre 2025, a été adopté. Le texte final est le décret 841-2026, publié à la Gazette officielle du Québec P.II n°24 du 17 juin 2026 p.3136, en vigueur le 2 juillet 2026.\nObjet du texte adopté : révision de la déclaration du professionnel exigée lors d'une demande d'autorisation ministérielle ; admissibilité à une déclaration de conformité et exemptions pour certaines activités de lavage de fruits et légumes ; déclaration de conformité pour le stockage de bois traité.\nLe suivi se poursuit sous VR-353 (vigie Mai 2026), qui porte le texte adopté. La présente demande devient sans objet.\nSous-tâches migrées vers VR-353 : VR-152 (cartographie projets REAFIE), VR-155 (révision procédures REAFIE).\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
+        }
+      ],
       "parent_key": null,
       "parent_url": null,
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-138",
@@ -61,7 +68,7 @@
       "key": "VR-139",
       "division": "Environnement",
       "summary": "Projet 86718 — REIMR : PFAS/SPFA art. 63.4, phosphore, biogaz, normes lixiviats (CRITIQUE)",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Highest",
       "type": "VR - Projet",
       "subtask": false,
@@ -76,7 +83,14 @@
       "date_completion_reelle": null,
       "description": "Projet de règlement REIMR publié dans GOQ II Vol.157 n°47 p.6139. ART. 63.4 CRITIQUE : PFAS/SPFA ajouté explicitement (trimestriel, effluents LET). 17 paramètres eaux souterraines. Phosphore, biogaz, normes lixiviats renforcés. STATUT : consultation publique close le 3 janvier 2026, analyse mémoires en cours.",
       "evaluation_impact": "PFAS/SPFA trimestriels effluents LET (art. 63.4). 17 paramètres eaux souterraines. Phosphore, biogaz, normes lixiviats renforcés.",
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T11:58:34.546-0400",
+          "public": true,
+          "text": "Fermeture — caduc par décret (Plan de fermeture VR, catégorie 1)\nLe projet de règlement 86718 (REIMR), publié à la Gazette officielle du Québec P.II Vol.157 n°47 du 19 novembre 2025, a été adopté. Le texte final est le décret 842-2026, publié à la Gazette officielle du Québec P.II n°24 du 17 juin 2026 p.3140, en vigueur le 16 août 2026.\nObjet du texte adopté : encadrement des eaux souterraines, des eaux de surface et des rejets de lixiviat dans les lieux d'enfouissement technique ; acquisition de connaissances sur divers paramètres, dont les PFAS/SPFA dans les lixiviats des LET — l'enjeu critique identifié à l'origine de cette vigie (art. 63.4).\nLe suivi se poursuit sous VR-349 (vigie Mai 2026), qui porte le texte adopté.\nSous-tâches : VR-156 (infrastructure labo GC-MS/ICP-MS/LC-MS-MS) migrée vers VR-349 ; VR-157 (mémoires de consultation QC-2025-012 et 015) fermée — livrable échu, la période de consultation étant close.\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
+        }
+      ],
       "parent_key": null,
       "parent_url": null,
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-139",
@@ -89,7 +103,7 @@
       "key": "VR-140",
       "division": "Environnement",
       "summary": "Projet 86719 — RETEURI : Eaux usées résidences isolées — effluents tertiaires → réseau municipal",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Medium",
       "type": "VR - Projet",
       "subtask": false,
@@ -104,7 +118,14 @@
       "date_completion_reelle": null,
       "description": "Projet de règlement RETEURI publié dans GOQ II Vol.157 n°47 p.6148. Art. 7 : systèmes étanches peuvent se raccorder au réseau municipal. Effluents tertiaires acceptés. Disposition transitoire 1er jan 2027. STATUT : consultation publique close le 3 janvier 2026.",
       "evaluation_impact": "Effluents tertiaires → raccordement municipal. Hausse analyses pré-raccordement.",
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T11:58:37.738-0400",
+          "public": true,
+          "text": "Fermeture — caduc par décret (Plan de fermeture VR, catégorie 1)\nLe projet de règlement 86719 (RETEURI), publié à la Gazette officielle du Québec P.II Vol.157 n°47 du 19 novembre 2025, a été adopté. Le texte final est le décret 843-2026, publié à la Gazette officielle du Québec P.II n°24 du 17 juin 2026 p.3150, en vigueur le 17 décembre 2026.\nObjet du texte adopté : possibilité d'acheminer les eaux usées d'un système de traitement tertiaire vers un ouvrage municipal d'assainissement, et mise en cohérence avec le ROMAEU et le RPEP.\nLe suivi se poursuit sous VR-352 (vigie Mai 2026), qui porte le texte adopté. Aucune sous-tâche n'était rattachée à la présente demande.\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
+        }
+      ],
       "parent_key": null,
       "parent_url": null,
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-140",
@@ -117,7 +138,7 @@
       "key": "VR-141",
       "division": "Environnement",
       "summary": "Projet 86720 — ROMAEU : Modernisation stations épuration + Annexe 1 fréquences + Annexe 2 toxicité",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "High",
       "type": "VR - Projet",
       "subtask": false,
@@ -132,7 +153,14 @@
       "date_completion_reelle": null,
       "description": "Projet de règlement ROMAEU publié dans GOQ II Vol.157 n°47 p.6153. Art. 12 : rapport mensuel électronique outil MELCCFP. Annexe 1 : nouvelles fréquences d'analyses. Annexe 2 : SOP toxicité truite. Entrée en vigueur 1er janvier 2027. STATUT : consultation publique close le 3 janvier 2026.",
       "evaluation_impact": "Modernisation ROMAEU. Annexe 1 fréquences + politique rejet. Annexe 2 SOP toxicité truite.",
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T11:58:41.183-0400",
+          "public": true,
+          "text": "Fermeture — caduc par décret (Plan de fermeture VR, catégorie 1)\nLe projet de règlement 86720 (ROMAEU), publié à la Gazette officielle du Québec P.II Vol.157 n°47 du 19 novembre 2025, a été adopté. Le texte final est le décret 844-2026, publié à la Gazette officielle du Québec P.II n°24 du 17 juin 2026 p.3151, en vigueur le 1er janvier 2027.\nObjet du texte adopté : encadrement des dérivations des ouvrages municipaux au même titre que les débordements, et réduction de la fréquence de calibration des appareils de mesure. Pertinent pour la caractérisation initiale liée aux attestations d'assainissement municipales.\nLe suivi se poursuit sous VR-351 (vigie Mai 2026), qui porte le texte adopté. Aucune sous-tâche n'était rattachée à la présente demande.\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
+        }
+      ],
       "parent_key": null,
       "parent_url": null,
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-141",
@@ -145,7 +173,7 @@
       "key": "VR-142",
       "division": "Environnement",
       "summary": "Projet 86721 — RPEP : Ajustements géothermie/installations souterraines + CH4 dissous + δ13C",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "High",
       "type": "VR - Projet",
       "subtask": false,
@@ -160,7 +188,14 @@
       "date_completion_reelle": null,
       "description": "Projet de règlement RPEP publié dans GOQ II Vol.157 n°47 p.6163. Art. 26 : puits d'observation soumis à contrôle débit. Ajustements géothermie et installations souterraines. Annexe 2 : CH4 dissous + signature isotopique δ13C obligatoire. Entrée en vigueur estimée 1er mars 2026. STATUT : consultation publique close le 3 janvier 2026.",
       "evaluation_impact": "Ajustements RPEP. CH4 dissous + δ13C obligatoire. Capacité analytique à valider.",
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T11:58:50.744-0400",
+          "public": true,
+          "text": "Fermeture — caduc par décret (Plan de fermeture VR, catégorie 1)\nLe projet de règlement 86721 (RPEP), publié à la Gazette officielle du Québec P.II Vol.157 n°47 du 19 novembre 2025, a été adopté. Le texte final est le décret 840-2026, publié à la Gazette officielle du Québec P.II n°24 du 17 juin 2026 p.3130, en vigueur le 17 décembre 2026.\nObjet du texte adopté : ajustement et clarification des normes d'aménagement et des conditions d'exploitation des installations de prélèvement d'eau souterraine ; précision des normes de protection des prélèvements destinés à la consommation humaine ou à la transformation alimentaire ; allègement de certaines exigences documentaires.\nLe suivi se poursuit sous VR-350 (vigie Mai 2026), qui porte le texte adopté.\nSous-tâche migrée vers VR-350 : VR-163 (validation de la méthode CH4 dissous + δ13C, RPEP Annexe 2).\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
+        }
+      ],
       "parent_key": null,
       "parent_url": null,
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-142",
@@ -173,7 +208,7 @@
       "key": "VR-143",
       "division": "Environnement",
       "summary": "Projet 86722 — RQEPABA : Piscines/bassins — Coliformes fécaux STOP, E. coli seul, fréq. bi-hebdo",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Medium",
       "type": "VR - Projet",
       "subtask": false,
@@ -188,7 +223,14 @@
       "date_completion_reelle": null,
       "description": "Projet de règlement RQEPABA publié dans GOQ II Vol.157 n°47 p.6169. Art. 4 : nouvelles définitions \"bassin\" (jeux d'eau, spas). Retrait des coliformes fécaux comme paramètre de contrôle; E. coli devient le seul indicateur bactériologique. Chlore résiduel min. 0,5 mg/L / pH 7,0. Fréquences de surveillance bi-hebdomadaires. Entrée en vigueur estimée mars-avril 2026. STATUT : consultation close le 3 janvier 2026.",
       "evaluation_impact": "Retrait coliformes fécaux. E. coli seul. Chlore 0,5/pH 7,0. Calendriers bi-hebdo.",
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T11:58:58.952-0400",
+          "public": true,
+          "text": "Fermeture — caduc par décret (Plan de fermeture VR, catégorie 1)\nLe projet de règlement 86722 (RQEPABA), publié à la Gazette officielle du Québec P.II Vol.157 n°47 du 19 novembre 2025, a été adopté. Le texte final est le décret 846-2026, publié à la Gazette officielle du Québec P.II n°24 du 17 juin 2026 p.3179, en vigueur le 2 juillet 2026.\nObjet du texte adopté : ajustement de certaines définitions, révision des normes de qualité de l'eau protégeant la santé des baigneurs, ajustement des exigences de fermeture et de réouverture d'un bassin, révision des exigences de suivi des exploitants. Le retrait de la norme des coliformes fécaux est confirmé — Escherichia coli devient le seul indicateur microbiologique obligatoire, avec modification des produits LIMS au 2 juillet 2026.\nLe suivi se poursuit sous VR-348 (vigie Mai 2026), qui porte le texte adopté. Aucune sous-tâche n'était rattachée à la présente demande.\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
+        }
+      ],
       "parent_key": null,
       "parent_url": null,
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-143",
@@ -201,7 +243,7 @@
       "key": "VR-144",
       "division": "Environnement",
       "summary": "Projet 86723 — RQEP : Nouvelles normes eau potable — NDMA, Strontium, COV (CRITIQUE)",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Highest",
       "type": "VR - Projet",
       "subtask": false,
@@ -216,7 +258,14 @@
       "date_completion_reelle": null,
       "description": "Projet de règlement RQEP publié dans GOQ II Vol.157 n°47 p.6176. CHANGEMENTS MAJEURS : Nouvelles normes Annexe 1 : NDMA 0,04 µg/L (LC-MS/MS obligatoire), Strontium (ICP-MS), abaissements COV. Fréquences renforcées. Extension accréditation ISO 17025 requise. Mémoire technique à soumettre avant le 3 janvier 2026. STATUT : consultation close, mémoires en analyse.",
       "evaluation_impact": "Nouvelles normes NDMA 0,04 µg/L (LC-MS/MS), Strontium (ICP-MS), abaissements COV. Validation méthodes + Extension ISO 17025 requise.",
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T11:59:01.076-0400",
+          "public": true,
+          "text": "Fermeture — caduc par décret (Plan de fermeture VR, catégorie 1)\nLe projet de règlement 86723 (RQEP), publié à la Gazette officielle du Québec P.II Vol.157 n°47 du 19 novembre 2025, a été adopté. Le texte final est le décret 845-2026, publié à la Gazette officielle du Québec P.II n°24 du 17 juin 2026 p.3161, en vigueur le 2 juillet 2026.\nObjet du texte adopté : ajustement et bonification des normes de qualité de l'eau potable en cohérence avec les recommandations de Santé Canada, ajustement du suivi de la qualité, précision des définitions et de la déclaration du responsable, clarification des obligations des établissements touristiques. Voir la lettre aux laboratoires OR3 (pièce jointe du 2026-06-09). Changements majeurs additionnels à compter du 17 juin 2027.\nLe suivi se poursuit sous VR-347 (vigie Mai 2026), qui porte le texte adopté.\nSous-tâches migrées vers VR-347 : VR-151 (audit de conformité des méthodes), VR-154 (extension d'accréditation ISO 17025 — PFAS, NDMA, strontium), VR-164 (cartographie clients-secteurs).\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
+        }
+      ],
       "parent_key": null,
       "parent_url": null,
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-144",
@@ -229,7 +278,7 @@
       "key": "VR-145",
       "division": "Environnement",
       "summary": "Projet 86724 — RSCTSC : Stockage et centres transfert sols contaminés — SPFA + pesticides renforcés",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "High",
       "type": "VR - Projet",
       "subtask": false,
@@ -244,7 +293,14 @@
       "date_completion_reelle": null,
       "description": "Projet de règlement RSCTSC publié dans GOQ II Vol.157 n°47 p.6192. Ajustements seuils et conditions de stockage; contrôles SPFA renforcés pour sols contaminés; renforcement exigences pesticides. Extension de la gamme d'analyses sols requise. STATUT : consultation close le 3 janvier 2026.",
       "evaluation_impact": "Contrôles SPFA renforcés sols contaminés. Extension gamme analyses.",
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T11:59:05.033-0400",
+          "public": true,
+          "text": "Fermeture — caduc par décret (Plan de fermeture VR, catégorie 1)\nLe projet de règlement 86724 (RSCTSC), publié à la Gazette officielle du Québec P.II Vol.157 n°47 du 19 novembre 2025, a été adopté. Le texte final est le décret 847-2026, publié à la Gazette officielle du Québec P.II n°24 du 17 juin 2026 p.3186, en vigueur le 2 juillet 2026.\nObjet du texte adopté : assouplissement, pour certains cas de valorisation, de l'interdiction de déposer des sols contaminés sur ou dans des sols dont les concentrations en contaminant sont inférieures. Aucun impact AQ direct anticipé ; impacts opérationnels à évaluer sous la demande conservée.\nLe suivi se poursuit sous VR-354 (vigie Mai 2026), qui porte le texte adopté. Aucune sous-tâche n'était rattachée à la présente demande.\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
+        }
+      ],
       "parent_key": null,
       "parent_url": null,
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-145",
@@ -268,7 +324,7 @@
       "created": "2026-06-16T12:02:19.069-0400",
       "assignee": null,
       "responsable_action": null,
-      "date_cible_resolution": null,
+      "date_cible_resolution": "2025-12-31",
       "date_completion_reelle": null,
       "description": "Avis du CEAEQ publié le 27 novembre 2025 (PDF avis-2025-11-28.pdf). CHANGEMENTS CONFIRMÉS : Domaine 381 MODIFIÉ : clarification matrice SPFA biosolides. Domaine 187 NOUVEAU : SPFA eaux usées (11 substances). Domaine 404 RETIRÉ au 31 décembre 2025. MAJ requise : DR-12-CDA, DR-12-CVR, DR-12-VAL dans le système qualité interne. Impact accréditation Longueuil à évaluer.",
       "evaluation_impact": "Domaine 187 ajouté (SPFA eaux usées), 381 modifié (matrice SPFA biosolides), 404 retiré 31 déc 2025. MAJ DR-12-CDA/CVR/VAL requis.",
@@ -296,7 +352,7 @@
       "created": "2026-06-16T12:02:26.357-0400",
       "assignee": null,
       "responsable_action": null,
-      "date_cible_resolution": null,
+      "date_cible_resolution": "2025-12-31",
       "date_completion_reelle": null,
       "description": "Calendrier des essais d'aptitude du CEAEQ pour l'année 2026 publié dans le cadre du PALA. Action requise : intégration dans le planning laboratoire 2026, identification des essais par domaine d'accréditation et coordination des inscriptions avant les dates limites.",
       "evaluation_impact": "Planification essais d’aptitude 2026 par domaine. Coordination labo.",
@@ -313,7 +369,7 @@
       "key": "VR-148",
       "division": "Environnement",
       "summary": "Projet règlement Code de déontologie des chimistes — Vigueur 7 nov 2026 (sous réserve OPQ)",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Low",
       "type": "VR - Avis",
       "subtask": false,
@@ -328,7 +384,14 @@
       "date_completion_reelle": null,
       "description": "Projet de règlement adaptant le Code de déontologie des chimistes à la Loi de modernisation du système professionnel (LQ 2023). Entrée en vigueur prévue le 7 novembre 2026, sous réserve de l'approbation de l'OPQ. Pas d'impact direct organisationnel immédiat. Veille à maintenir via OCQ.",
       "evaluation_impact": "Modification Code déontologie chimistes (vigueur 7 nov 2026). Pas d’impact direct organisationnel.",
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T10:57:11.983-0400",
+          "public": true,
+          "text": "Fermeture — informatif sans action (Plan de fermeture VR, catégorie 3)\nProjet de règlement sur le Code de déontologie des chimistes (Ordre des chimistes du Québec, LQ 2024 c.31), entrée en vigueur prévue le 7 novembre 2026.\nAucune action requise : le texte encadre la déontologie individuelle des chimistes membres de l'Ordre, sans incidence sur les procédures du laboratoire, la portée d'accréditation ISO 17025 ni les méthodes analytiques. La communication aux membres relève de l'OCQ. Criticité évaluée Faible, aucun responsable d'action à désigner.\nSous-tâche VR-162 (veille OCQ) fermée au même motif.\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
+        }
+      ],
       "parent_key": null,
       "parent_url": null,
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-148",
@@ -352,7 +415,7 @@
       "created": "2026-06-16T12:03:16.025-0400",
       "assignee": null,
       "responsable_action": null,
-      "date_cible_resolution": null,
+      "date_cible_resolution": "2025-12-31",
       "date_completion_reelle": null,
       "description": "Validation analytique selon ISO 17025 pour les paramètres critiques issus de CGMRF (VR-137), REIMR (VR-139) et RQEP (VR-144). Parents multiples : D01, P02, P07.",
       "evaluation_impact": null,
@@ -380,7 +443,7 @@
       "created": "2026-06-16T12:03:19.711-0400",
       "assignee": null,
       "responsable_action": null,
-      "date_cible_resolution": null,
+      "date_cible_resolution": "2025-12-31",
       "date_completion_reelle": null,
       "description": "Informer municipalités PFAS/NDMA, agriculture SPFA sols. Ajuster devis. Parents : D01 (VR-137), P07 (VR-144).",
       "evaluation_impact": null,
@@ -408,13 +471,13 @@
       "created": "2026-06-16T12:03:22.942-0400",
       "assignee": null,
       "responsable_action": null,
-      "date_cible_resolution": null,
+      "date_cible_resolution": "2026-07-02",
       "date_completion_reelle": null,
       "description": "Audit interne capacité analytique nouveaux paramètres 86723 (RQEP). Parent : P07 (VR-144).",
       "evaluation_impact": null,
       "comments": [],
-      "parent_key": "VR-144",
-      "parent_url": "https://labenvironex.atlassian.net/browse/VR-144",
+      "parent_key": "VR-347",
+      "parent_url": "https://labenvironex.atlassian.net/browse/VR-347",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-151",
       "phase_pipeline": null,
       "quadrant": null,
@@ -436,13 +499,13 @@
       "created": "2026-06-16T12:03:26.437-0400",
       "assignee": null,
       "responsable_action": null,
-      "date_cible_resolution": null,
+      "date_cible_resolution": "2026-07-02",
       "date_completion_reelle": null,
       "description": "Analyser nouveaux seuils REAFIE. Cartographier projets transitoires. Parent : P01 (VR-138).",
       "evaluation_impact": null,
       "comments": [],
-      "parent_key": "VR-138",
-      "parent_url": "https://labenvironex.atlassian.net/browse/VR-138",
+      "parent_key": "VR-353",
+      "parent_url": "https://labenvironex.atlassian.net/browse/VR-353",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-152",
       "phase_pipeline": null,
       "quadrant": null,
@@ -464,7 +527,7 @@
       "created": "2026-06-16T12:03:39.343-0400",
       "assignee": null,
       "responsable_action": null,
-      "date_cible_resolution": null,
+      "date_cible_resolution": "2025-12-31",
       "date_completion_reelle": null,
       "description": "Intégration CGMRF dans procédures internes. Conformité SPFA. Formation terrain. Parent : D01 (VR-137).",
       "evaluation_impact": null,
@@ -492,13 +555,13 @@
       "created": "2026-06-16T12:03:42.908-0400",
       "assignee": null,
       "responsable_action": null,
-      "date_cible_resolution": null,
+      "date_cible_resolution": "2026-07-02",
       "date_completion_reelle": null,
       "description": "Préparer dossier extension : validations + audit externe + manuel qualité. Parents : P07 (VR-144), A01 (VR-146).",
       "evaluation_impact": null,
       "comments": [],
-      "parent_key": "VR-144",
-      "parent_url": "https://labenvironex.atlassian.net/browse/VR-144",
+      "parent_key": "VR-347",
+      "parent_url": "https://labenvironex.atlassian.net/browse/VR-347",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-154",
       "phase_pipeline": null,
       "quadrant": null,
@@ -520,13 +583,13 @@
       "created": "2026-06-16T12:03:45.882-0400",
       "assignee": null,
       "responsable_action": null,
-      "date_cible_resolution": null,
+      "date_cible_resolution": "2026-07-02",
       "date_completion_reelle": null,
       "description": "Révision processus avec allègements. MAJ guides internes. Parent : P01 (VR-138).",
       "evaluation_impact": null,
       "comments": [],
-      "parent_key": "VR-138",
-      "parent_url": "https://labenvironex.atlassian.net/browse/VR-138",
+      "parent_key": "VR-353",
+      "parent_url": "https://labenvironex.atlassian.net/browse/VR-353",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-155",
       "phase_pipeline": null,
       "quadrant": null,
@@ -548,13 +611,13 @@
       "created": "2026-06-16T12:03:49.732-0400",
       "assignee": null,
       "responsable_action": null,
-      "date_cible_resolution": null,
+      "date_cible_resolution": "2026-08-16",
       "date_completion_reelle": null,
       "description": "Acquisition équipements ~50-75k$. Formation PFAS, NDMA, fluorures. Parents : P02 (VR-139), P07 (VR-144).",
       "evaluation_impact": null,
       "comments": [],
-      "parent_key": "VR-139",
-      "parent_url": "https://labenvironex.atlassian.net/browse/VR-139",
+      "parent_key": "VR-349",
+      "parent_url": "https://labenvironex.atlassian.net/browse/VR-349",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-156",
       "phase_pipeline": null,
       "quadrant": null,
@@ -565,7 +628,7 @@
       "key": "VR-157",
       "division": "Environnement",
       "summary": "A09 — PARTICIPATION CONSULTATIONS — Mémoires QC-2025-012 (86718) et QC-2025-015 (86723)",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Highest",
       "type": "Sous-tâche",
       "subtask": true,
@@ -580,7 +643,14 @@
       "date_completion_reelle": null,
       "description": "Préparer et soumettre mémoires techniques avant le 3 janvier 2026. Parents : P02 (VR-139), P07 (VR-144). STATUT : échue — en retard.",
       "evaluation_impact": null,
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T10:55:34.025-0400",
+          "public": true,
+          "text": "Fermeture — livrable échu (Plan de fermeture VR, cat. 1, D3)\nCette sous-tâche portait la participation aux consultations publiques sur les projets 86718 (REIMR) et 86723 (RQEP), échéance du 3 janvier 2026. La période de consultation est close et les règlements ont été adoptés (décrets 842-2026 et 845-2026, Gazette officielle P.II n°24 du 17 juin 2026). Le livrable n'a plus d'objet.\nDemande parente d'origine VR-139 fermée comme caduque ; suivi assuré par VR-349 (REIMR) et VR-347 (RQEP).\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
+        }
+      ],
       "parent_key": "VR-139",
       "parent_url": "https://labenvironex.atlassian.net/browse/VR-139",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-157",
@@ -705,7 +775,7 @@
       "key": "VR-162",
       "division": "Environnement",
       "summary": "A14 — Veille Code déontologie chimistes (OCQ)",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Low",
       "type": "Sous-tâche",
       "subtask": true,
@@ -720,7 +790,14 @@
       "date_completion_reelle": null,
       "description": "Suivi évolution projet. Communication OCQ aux chimistes membres. Parent : A03 (VR-148).",
       "evaluation_impact": null,
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T10:55:37.694-0400",
+          "public": true,
+          "text": "Fermeture — veille informative sans action (Plan de fermeture VR, cat. 3)\nVeille du projet de Code de déontologie des chimistes (OCQ). Aucun impact organisationnel ni action requise pour le laboratoire ; la communication aux chimistes membres relève de l'OCQ.\nDemande parente VR-148 fermée au même motif (informatif sans action).\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
+        }
+      ],
       "parent_key": "VR-148",
       "parent_url": "https://labenvironex.atlassian.net/browse/VR-148",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-162",
@@ -744,13 +821,13 @@
       "created": "2026-06-16T12:04:34.146-0400",
       "assignee": null,
       "responsable_action": null,
-      "date_cible_resolution": null,
+      "date_cible_resolution": "2026-12-17",
       "date_completion_reelle": null,
       "description": "Validation méthode CH4 dissous + signature isotopique pour RPEP. Parent : P05 (VR-142).",
       "evaluation_impact": null,
       "comments": [],
-      "parent_key": "VR-142",
-      "parent_url": "https://labenvironex.atlassian.net/browse/VR-142",
+      "parent_key": "VR-350",
+      "parent_url": "https://labenvironex.atlassian.net/browse/VR-350",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-163",
       "phase_pipeline": null,
       "quadrant": null,
@@ -772,13 +849,13 @@
       "created": "2026-06-16T12:04:37.452-0400",
       "assignee": null,
       "responsable_action": null,
-      "date_cible_resolution": null,
+      "date_cible_resolution": "2026-07-02",
       "date_completion_reelle": null,
       "description": "Cartographie stratégique clients par secteur impacté par les règlements Nov 2025. Parent principal : P07 (VR-144) — Multi-tickets.",
       "evaluation_impact": null,
       "comments": [],
-      "parent_key": "VR-144",
-      "parent_url": "https://labenvironex.atlassian.net/browse/VR-144",
+      "parent_key": "VR-347",
+      "parent_url": "https://labenvironex.atlassian.net/browse/VR-347",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-164",
       "phase_pipeline": null,
       "quadrant": null,
@@ -6287,6 +6364,12 @@
           "created": "2026-07-23T09:05:43.196-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Mai 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T10:56:45.350-0400",
+          "public": true,
+          "text": "Fermeture — caduc par décret (Plan de fermeture VR, catégorie 1)\nLe projet de règlement 86723 (RQEP), publié à la Gazette officielle du Québec P.II Vol.157 n°47 du 19 novembre 2025, a été adopté. Le texte final est le décret 845-2026, publié à la Gazette officielle du Québec P.II n°24 du 17 juin 2026 p.3161, en vigueur le 2 juillet 2026.\nLe suivi se poursuit sous VR-347 (vigie Mai 2026), qui porte le texte adopté — ajustement des normes de qualité de l'eau potable en cohérence avec les recommandations de Santé Canada. Changements additionnels à compter du 17 juin 2027.\nSous-tâches migrées vers VR-347 : VR-151 (audit conformité méthodes), VR-154 (extension accréditation ISO 17025 — PFAS, NDMA, strontium), VR-164 (cartographie clients-secteurs).\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
         }
       ],
       "parent_key": null,
@@ -6326,6 +6409,12 @@
           "created": "2026-07-23T09:20:46.314-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Mai 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T10:56:39.603-0400",
+          "public": true,
+          "text": "Fermeture — caduc par décret (Plan de fermeture VR, catégorie 1)\nLe projet de règlement 86722 (RQEPABA), publié à la Gazette officielle du Québec P.II Vol.157 n°47 du 19 novembre 2025, a été adopté. Le texte final est le décret 846-2026, publié à la Gazette officielle du Québec P.II n°24 du 17 juin 2026 p.3179, en vigueur le 2 juillet 2026.\nLe suivi se poursuit sous VR-348 (vigie Mai 2026), qui porte le texte adopté — retrait de la norme des coliformes fécaux, E. coli devenant le seul indicateur microbiologique, avec configuration LIMS au 2 juillet 2026. Aucune sous-tâche rattachée.\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
         }
       ],
       "parent_key": null,
@@ -6364,6 +6453,12 @@
           "created": "2026-07-23T09:20:55.879-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Mai 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T10:56:21.022-0400",
+          "public": true,
+          "text": "Fermeture — caduc par décret (Plan de fermeture VR, catégorie 1)\nLe projet de règlement 86718 (REIMR), publié à la Gazette officielle du Québec P.II Vol.157 n°47 du 19 novembre 2025, a été adopté. Le texte final est le décret 842-2026, publié à la Gazette officielle du Québec P.II n°24 du 17 juin 2026 p.3140, en vigueur le 16 août 2026.\nLe suivi se poursuit sous VR-349 (vigie Mai 2026), qui porte le texte adopté — incluant l'acquisition de connaissances sur les PFAS/SPFA dans les lixiviats des LET.\nSous-tâches : VR-156 (infrastructure labo) migrée vers VR-349 ; VR-157 (mémoires de consultation) fermée, livrable échu.\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
         }
       ],
       "parent_key": null,
@@ -6403,6 +6498,12 @@
           "created": "2026-07-23T09:21:02.598-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Mai 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T10:56:35.179-0400",
+          "public": true,
+          "text": "Fermeture — caduc par décret (Plan de fermeture VR, catégorie 1)\nLe projet de règlement 86721 (RPEP), publié à la Gazette officielle du Québec P.II Vol.157 n°47 du 19 novembre 2025, a été adopté. Le texte final est le décret 840-2026, publié à la Gazette officielle du Québec P.II n°24 du 17 juin 2026 p.3130, en vigueur le 17 décembre 2026.\nLe suivi se poursuit sous VR-350 (vigie Mai 2026), qui porte le texte adopté.\nSous-tâche migrée vers VR-350 : VR-163 (validation méthode CH4 dissous + δ13C).\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
         }
       ],
       "parent_key": null,
@@ -6441,6 +6542,12 @@
           "created": "2026-07-23T09:21:09.757-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Mai 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T10:56:27.590-0400",
+          "public": true,
+          "text": "Fermeture — caduc par décret (Plan de fermeture VR, catégorie 1)\nLe projet de règlement 86720 (ROMAEU), publié à la Gazette officielle du Québec P.II Vol.157 n°47 du 19 novembre 2025, a été adopté. Le texte final est le décret 844-2026, publié à la Gazette officielle du Québec P.II n°24 du 17 juin 2026 p.3151, en vigueur le 1er janvier 2027.\nLe suivi se poursuit sous VR-351 (vigie Mai 2026), qui porte le texte adopté. Aucune sous-tâche rattachée.\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
         }
       ],
       "parent_key": null,
@@ -6479,6 +6586,12 @@
           "created": "2026-07-23T09:21:16.150-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Mai 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T10:56:24.795-0400",
+          "public": true,
+          "text": "Fermeture — caduc par décret (Plan de fermeture VR, catégorie 1)\nLe projet de règlement 86719 (RETEURI), publié à la Gazette officielle du Québec P.II Vol.157 n°47 du 19 novembre 2025, a été adopté. Le texte final est le décret 843-2026, publié à la Gazette officielle du Québec P.II n°24 du 17 juin 2026 p.3150, en vigueur le 17 décembre 2026.\nLe suivi se poursuit sous VR-352 (vigie Mai 2026), qui porte le texte adopté. Aucune sous-tâche rattachée.\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
         }
       ],
       "parent_key": null,
@@ -6516,6 +6629,12 @@
           "created": "2026-07-23T09:21:23.738-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Mai 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T10:56:16.291-0400",
+          "public": true,
+          "text": "Fermeture — caduc par décret (Plan de fermeture VR, catégorie 1)\nLe projet de règlement 86717 (REAFIE), publié à la Gazette officielle du Québec P.II Vol.157 n°47 du 19 novembre 2025, a été adopté. Le texte final est le décret 841-2026, publié à la Gazette officielle du Québec P.II n°24 du 17 juin 2026 p.3136, en vigueur le 2 juillet 2026.\nLe suivi se poursuit sous VR-353 (vigie Mai 2026), qui porte le texte adopté. La présente demande devient sans objet.\nSous-tâches migrées vers VR-353 : VR-152 (cartographie projets REAFIE), VR-155 (révision procédures REAFIE).\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
         }
       ],
       "parent_key": null,
@@ -6554,6 +6673,12 @@
           "created": "2026-07-23T09:21:30.068-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Mai 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T10:57:10.393-0400",
+          "public": true,
+          "text": "Fermeture — caduc par décret (Plan de fermeture VR, catégorie 1)\nLe projet de règlement 86724 (RSCTSC), publié à la Gazette officielle du Québec P.II Vol.157 n°47 du 19 novembre 2025, a été adopté. Le texte final est le décret 847-2026, publié à la Gazette officielle du Québec P.II n°24 du 17 juin 2026 p.3186, en vigueur le 2 juillet 2026.\nLe suivi se poursuit sous VR-354 (vigie Mai 2026), qui porte le texte adopté. Aucune sous-tâche rattachée.\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
         }
       ],
       "parent_key": null,
@@ -7689,7 +7814,7 @@
       "key": "VR-389",
       "division": "Environnement",
       "summary": "📋 VR-147 — Enregistrer vigie réglementaire (Criticité: Moyenne)",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Medium",
       "type": "Sous-tâche",
       "subtask": true,
@@ -7704,7 +7829,14 @@
       "date_completion_reelle": null,
       "description": null,
       "evaluation_impact": null,
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T10:55:40.115-0400",
+          "public": true,
+          "text": "Fermeture — doublon d'automation\nSous-tâche générée automatiquement par Automation for Jira le 2026-07-24, sans description et hors de la nomenclature A01-A16 de la vigie Novembre 2025. L'enregistrement de la vigie VR-147 est déjà couvert par la sous-tâche VR-161 (A13).\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
+        }
+      ],
       "parent_key": "VR-147",
       "parent_url": "https://labenvironex.atlassian.net/browse/VR-147",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-389",
@@ -7717,7 +7849,7 @@
       "key": "VR-390",
       "division": "Environnement",
       "summary": "📋 VR-147 — Assigner responsable de veille et confirmer prise en charge",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Medium",
       "type": "Sous-tâche",
       "subtask": true,
@@ -7732,10 +7864,297 @@
       "date_completion_reelle": null,
       "description": null,
       "evaluation_impact": null,
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T10:55:41.980-0400",
+          "public": true,
+          "text": "Fermeture — doublon d'automation\nSous-tâche générée automatiquement par Automation for Jira le 2026-07-24, sans description et hors de la nomenclature A01-A16 de la vigie Novembre 2025. L'assignation d'un responsable de veille n'est pas applicable : la consigne de la vigie Novembre 2025 est de ne pas renseigner le champ « Responsable action » à ce stade.\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
+        }
+      ],
       "parent_key": "VR-147",
       "parent_url": "https://labenvironex.atlassian.net/browse/VR-147",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-390",
+      "phase_pipeline": null,
+      "quadrant": null,
+      "unite_affaires": [],
+      "_anomalieDivision": false
+    },
+    {
+      "key": "VR-391",
+      "division": "Environnement",
+      "summary": "📋 VR-138 — Enregistrer vigie réglementaire (Criticité: Moyenne)",
+      "status": "Terminé",
+      "priority": "Medium",
+      "type": "Sous-tâche",
+      "subtask": true,
+      "criticite": null,
+      "mois_vigie": "Novembre 2025",
+      "date_vigueur": null,
+      "duedate": null,
+      "created": "2026-07-29T10:57:56.483-0400",
+      "assignee": null,
+      "responsable_action": null,
+      "date_cible_resolution": null,
+      "date_completion_reelle": null,
+      "description": null,
+      "evaluation_impact": null,
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T11:59:21.272-0400",
+          "public": true,
+          "text": "Fermeture — doublon d'automation\nSous-tâche générée automatiquement par Automation for Jira le 2026-07-29, lors du passage de la demande parente VR-138 par la transition « Prendre en charge » dans le cadre de sa séquence de fermeture. Sans description et hors de la nomenclature A01-A16 de la vigie Novembre 2025.\nSans objet : la demande parente VR-138 est Clôturée – sans impact (projet 86717 REAFIE rendu caduc par le décret 841-2026). Le suivi se poursuit sous VR-353.\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
+        }
+      ],
+      "parent_key": "VR-138",
+      "parent_url": "https://labenvironex.atlassian.net/browse/VR-138",
+      "jira_url": "https://labenvironex.atlassian.net/browse/VR-391",
+      "phase_pipeline": null,
+      "quadrant": null,
+      "unite_affaires": [],
+      "_anomalieDivision": false
+    },
+    {
+      "key": "VR-392",
+      "division": "Environnement",
+      "summary": "📋 VR-138 — Assigner responsable de veille et confirmer prise en charge",
+      "status": "Terminé",
+      "priority": "Medium",
+      "type": "Sous-tâche",
+      "subtask": true,
+      "criticite": null,
+      "mois_vigie": "Novembre 2025",
+      "date_vigueur": null,
+      "duedate": null,
+      "created": "2026-07-29T10:57:58.401-0400",
+      "assignee": null,
+      "responsable_action": null,
+      "date_cible_resolution": null,
+      "date_completion_reelle": null,
+      "description": null,
+      "evaluation_impact": null,
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T11:59:24.948-0400",
+          "public": true,
+          "text": "Fermeture — doublon d'automation\nSous-tâche générée automatiquement par Automation for Jira le 2026-07-29, lors du passage de la demande parente VR-138 par la transition « Prendre en charge » dans le cadre de sa séquence de fermeture. Sans description et hors de la nomenclature A01-A16 de la vigie Novembre 2025.\nSans objet : la demande parente VR-138 est Clôturée – sans impact (projet 86717 REAFIE rendu caduc par le décret 841-2026). Aucun responsable de veille n'est à désigner sur une demande fermée ; la consigne de la vigie Novembre 2025 est par ailleurs de laisser le champ « Responsable action » vide à ce stade.\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
+        }
+      ],
+      "parent_key": "VR-138",
+      "parent_url": "https://labenvironex.atlassian.net/browse/VR-138",
+      "jira_url": "https://labenvironex.atlassian.net/browse/VR-392",
+      "phase_pipeline": null,
+      "quadrant": null,
+      "unite_affaires": [],
+      "_anomalieDivision": false
+    },
+    {
+      "key": "VR-393",
+      "division": "Environnement",
+      "summary": "📋 VR-140 — Enregistrer vigie réglementaire (Criticité: Moyenne)",
+      "status": "Terminé",
+      "priority": "Medium",
+      "type": "Sous-tâche",
+      "subtask": true,
+      "criticite": null,
+      "mois_vigie": "Novembre 2025",
+      "date_vigueur": null,
+      "duedate": null,
+      "created": "2026-07-29T10:58:02.951-0400",
+      "assignee": null,
+      "responsable_action": null,
+      "date_cible_resolution": null,
+      "date_completion_reelle": null,
+      "description": null,
+      "evaluation_impact": null,
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T11:59:27.863-0400",
+          "public": true,
+          "text": "Fermeture — doublon d'automation\nSous-tâche générée automatiquement par Automation for Jira le 2026-07-29, lors du passage de la demande parente VR-140 par la transition « Prendre en charge » dans le cadre de sa séquence de fermeture. Sans description et hors de la nomenclature A01-A16 de la vigie Novembre 2025.\nSans objet : la demande parente VR-140 est Clôturée – sans impact (projet 86719 RETEURI rendu caduc par le décret 843-2026). Le suivi se poursuit sous VR-352.\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
+        }
+      ],
+      "parent_key": "VR-140",
+      "parent_url": "https://labenvironex.atlassian.net/browse/VR-140",
+      "jira_url": "https://labenvironex.atlassian.net/browse/VR-393",
+      "phase_pipeline": null,
+      "quadrant": null,
+      "unite_affaires": [],
+      "_anomalieDivision": false
+    },
+    {
+      "key": "VR-394",
+      "division": "Environnement",
+      "summary": "📋 VR-140 — Assigner responsable de veille et confirmer prise en charge",
+      "status": "Terminé",
+      "priority": "Medium",
+      "type": "Sous-tâche",
+      "subtask": true,
+      "criticite": null,
+      "mois_vigie": "Novembre 2025",
+      "date_vigueur": null,
+      "duedate": null,
+      "created": "2026-07-29T10:58:04.374-0400",
+      "assignee": null,
+      "responsable_action": null,
+      "date_cible_resolution": null,
+      "date_completion_reelle": null,
+      "description": null,
+      "evaluation_impact": null,
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T11:59:30.724-0400",
+          "public": true,
+          "text": "Fermeture — doublon d'automation\nSous-tâche générée automatiquement par Automation for Jira le 2026-07-29, lors du passage de la demande parente VR-140 par la transition « Prendre en charge » dans le cadre de sa séquence de fermeture. Sans description et hors de la nomenclature A01-A16 de la vigie Novembre 2025.\nSans objet : la demande parente VR-140 est Clôturée – sans impact (projet 86719 RETEURI rendu caduc par le décret 843-2026). Aucun responsable de veille n'est à désigner sur une demande fermée.\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
+        }
+      ],
+      "parent_key": "VR-140",
+      "parent_url": "https://labenvironex.atlassian.net/browse/VR-140",
+      "jira_url": "https://labenvironex.atlassian.net/browse/VR-394",
+      "phase_pipeline": null,
+      "quadrant": null,
+      "unite_affaires": [],
+      "_anomalieDivision": false
+    },
+    {
+      "key": "VR-395",
+      "division": "Environnement",
+      "summary": "📋 VR-143 — Enregistrer vigie réglementaire (Criticité: Moyenne)",
+      "status": "Terminé",
+      "priority": "Medium",
+      "type": "Sous-tâche",
+      "subtask": true,
+      "criticite": null,
+      "mois_vigie": "Novembre 2025",
+      "date_vigueur": null,
+      "duedate": null,
+      "created": "2026-07-29T10:58:12.385-0400",
+      "assignee": null,
+      "responsable_action": null,
+      "date_cible_resolution": null,
+      "date_completion_reelle": null,
+      "description": null,
+      "evaluation_impact": null,
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T11:59:38.887-0400",
+          "public": true,
+          "text": "Fermeture — doublon d'automation\nSous-tâche générée automatiquement par Automation for Jira le 2026-07-29, lors du passage de la demande parente VR-143 par la transition « Prendre en charge » dans le cadre de sa séquence de fermeture. Sans description et hors de la nomenclature A01-A16 de la vigie Novembre 2025.\nSans objet : la demande parente VR-143 est Clôturée – sans impact (projet 86722 RQEPABA rendu caduc par le décret 846-2026). Le suivi se poursuit sous VR-348.\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
+        }
+      ],
+      "parent_key": "VR-143",
+      "parent_url": "https://labenvironex.atlassian.net/browse/VR-143",
+      "jira_url": "https://labenvironex.atlassian.net/browse/VR-395",
+      "phase_pipeline": null,
+      "quadrant": null,
+      "unite_affaires": [],
+      "_anomalieDivision": false
+    },
+    {
+      "key": "VR-396",
+      "division": "Environnement",
+      "summary": "📋 VR-143 — Assigner responsable de veille et confirmer prise en charge",
+      "status": "Terminé",
+      "priority": "Medium",
+      "type": "Sous-tâche",
+      "subtask": true,
+      "criticite": null,
+      "mois_vigie": "Novembre 2025",
+      "date_vigueur": null,
+      "duedate": null,
+      "created": "2026-07-29T10:58:14.231-0400",
+      "assignee": null,
+      "responsable_action": null,
+      "date_cible_resolution": null,
+      "date_completion_reelle": null,
+      "description": null,
+      "evaluation_impact": null,
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T11:59:42.240-0400",
+          "public": true,
+          "text": "Fermeture — doublon d'automation\nSous-tâche générée automatiquement par Automation for Jira le 2026-07-29, lors du passage de la demande parente VR-143 par la transition « Prendre en charge » dans le cadre de sa séquence de fermeture. Sans description et hors de la nomenclature A01-A16 de la vigie Novembre 2025.\nSans objet : la demande parente VR-143 est Clôturée – sans impact (projet 86722 RQEPABA rendu caduc par le décret 846-2026). Aucun responsable de veille n'est à désigner sur une demande fermée.\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
+        }
+      ],
+      "parent_key": "VR-143",
+      "parent_url": "https://labenvironex.atlassian.net/browse/VR-143",
+      "jira_url": "https://labenvironex.atlassian.net/browse/VR-396",
+      "phase_pipeline": null,
+      "quadrant": null,
+      "unite_affaires": [],
+      "_anomalieDivision": false
+    },
+    {
+      "key": "VR-397",
+      "division": "Environnement",
+      "summary": "📋 VR-148 — Enregistrer vigie réglementaire (Criticité: Faible)",
+      "status": "Terminé",
+      "priority": "Medium",
+      "type": "Sous-tâche",
+      "subtask": true,
+      "criticite": null,
+      "mois_vigie": "Novembre 2025",
+      "date_vigueur": null,
+      "duedate": null,
+      "created": "2026-07-29T10:58:16.463-0400",
+      "assignee": null,
+      "responsable_action": null,
+      "date_cible_resolution": null,
+      "date_completion_reelle": null,
+      "description": null,
+      "evaluation_impact": null,
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T11:59:45.439-0400",
+          "public": true,
+          "text": "Fermeture — doublon d'automation\nSous-tâche générée automatiquement par Automation for Jira le 2026-07-29, lors du passage de la demande parente VR-148 par la transition « Prendre en charge » dans le cadre de sa séquence de fermeture. Sans description et hors de la nomenclature A01-A16 de la vigie Novembre 2025.\nSans objet : la demande parente VR-148 est Clôturée – sans impact (Code de déontologie des chimistes — veille informative sans action requise). L'enregistrement de cette vigie était déjà couvert.\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
+        }
+      ],
+      "parent_key": "VR-148",
+      "parent_url": "https://labenvironex.atlassian.net/browse/VR-148",
+      "jira_url": "https://labenvironex.atlassian.net/browse/VR-397",
+      "phase_pipeline": null,
+      "quadrant": null,
+      "unite_affaires": [],
+      "_anomalieDivision": false
+    },
+    {
+      "key": "VR-398",
+      "division": "Environnement",
+      "summary": "📋 VR-148 — Assigner responsable de veille et confirmer prise en charge",
+      "status": "Terminé",
+      "priority": "Medium",
+      "type": "Sous-tâche",
+      "subtask": true,
+      "criticite": null,
+      "mois_vigie": "Novembre 2025",
+      "date_vigueur": null,
+      "duedate": null,
+      "created": "2026-07-29T10:58:17.989-0400",
+      "assignee": null,
+      "responsable_action": null,
+      "date_cible_resolution": null,
+      "date_completion_reelle": null,
+      "description": null,
+      "evaluation_impact": null,
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-07-29T11:59:47.786-0400",
+          "public": true,
+          "text": "Fermeture — doublon d'automation\nSous-tâche générée automatiquement par Automation for Jira le 2026-07-29, lors du passage de la demande parente VR-148 par la transition « Prendre en charge » dans le cadre de sa séquence de fermeture. Sans description et hors de la nomenclature A01-A16 de la vigie Novembre 2025.\nSans objet : la demande parente VR-148 est Clôturée – sans impact (Code de déontologie des chimistes — veille informative sans action requise). Aucun responsable de veille n'est à désigner sur une demande fermée.\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
+        }
+      ],
+      "parent_key": "VR-148",
+      "parent_url": "https://labenvironex.atlassian.net/browse/VR-148",
+      "jira_url": "https://labenvironex.atlassian.net/browse/VR-398",
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
