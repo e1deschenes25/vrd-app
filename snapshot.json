@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T16:00:02.660Z",
+  "generatedAt": "2026-08-13T19:00:02.575Z",
   "issues": [
     {
       "key": "VR-137",
@@ -2924,7 +2924,7 @@
       "key": "VR-236",
       "division": "Environnement",
       "summary": "** NOUVEAU ** — Suivi CEAEQ — Avis méthodes analytiques — 30 janvier 2026",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Highest",
       "type": "VR - Avis",
       "subtask": false,
@@ -2936,10 +2936,17 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": null,
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-13",
       "description": "⚠️ CRITICITÉ : Critique — à saisir manuellement dans JSM\n** NOUVEAU ** — OMIS COMM OFFICIELLE — Ajout vigie proactive. Source : ceaeq.gouv.qc.ca — Avis de méthodes analytiques publié le 30 janvier 2026. SUIVI CEAEQ : Nouvelles méthodes ou modifications aux méthodes analytiques reconnues au Québec. IMPACT EUROFINS : Vérification conformité accréditation CEAEQ. Analyser si nouvelles méthodes requièrent mise à jour portée d'accréditation ou procédures internes. Échéance analyse : 2026-07-31.",
       "evaluation_impact": "Avis méthodes analytiques CEAEQ jan 2026. Vérifier conformité accréditation. Analyser si mise à jour portée ou procédures internes requise.",
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-13T14:29:48.250-0400",
+          "public": true,
+          "text": "Fermeture — doublon de suivi (Plan de fermeture VR, catégorie 2 — décision D9 confirmée)\nCette demande suit l'avis du CEAEQ publié le 30 janvier 2026. Il s'agit du même avis que celui déjà suivi sous VR-206 (vigie Janvier 2026), et non d'un avis distinct.\nÉléments établissant la correspondance :\nMême date d'avis (30 janvier 2026) et même échéance d'implantation (2026-07-31).\n\nLa sous-tâche VR-252 porte sur « l'avancement des validations des 11 paramètres CEAEQ ». Ces 11 paramètres sont exactement ceux ajoutés par l'avis suivi sous VR-206 : domaine 36 (E. coli, 1), domaine 214 (Fer et Sodium, 2), domaine 303 (6 paramètres nitroaromatiques et phénoliques), domaines 320-321 (2-Chloronaphtalène, 1), domaines 340-342 (Hexachlorobutadiène, 1).\n\nLa présente demande ne porte pas de référence de source propre — le champ source pointe la page d'accueil du CEAEQ, alors que VR-206 référence l'avis lui-même (avis-2026-01-30.pdf).\n\nDemande conservée. Le suivi se poursuit sous VR-206 (vigie Janvier 2026), qui porte l'analyse détaillée par domaine ainsi que les 8 sous-tâches de validation VR-207 à VR-214.\nSous-tâches — fermées, non migrées (décision du réviseur, 2026-08-13) :\nVR-252 — F-A16 Point d'étape sur l'avancement des 11 validations. Fermée : le suivi d'avancement est porté par les sous-tâches VR-207 à VR-214 sous VR-206.\n\nVR-253 — F-A17 Plan B de sous-traitance partielle en cas de capacité insuffisante. Fermée.\n\nVR-254 — F-A18 Demande d'extension de délai auprès du CEAEQ si requis. Fermée.\n\nNote d'audit. VR-253 et VR-254 constituaient des options de repli face au risque de non-atteinte de l'échéance du 31 juillet 2026. Cette échéance étant dépassée, leur traitement ne relève plus de l'anticipation : il est reporté à la qualification de l'écart d'implantation conduite sous VR-206. Ces options sont fermées ici en tant qu'actions de vigie, non en tant qu'options écartées sur le fond.\nCriticité. Le niveau Critique de la présente demande découlait du rattachement à l'avis du 30 janvier, non de son contenu propre. La criticité demeure portée par VR-206, de niveau Critique.\nFermeture exécutée dans le cadre de la revue de consolidation inter-mois — 2026-08-13."
+        }
+      ],
       "parent_key": null,
       "parent_url": null,
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-236",
@@ -3372,7 +3379,7 @@
       "key": "VR-252",
       "division": "Environnement",
       "summary": "F-A16 — POINT D'ÉTAPE — Avancement validations 11 paramètres CEAEQ",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Highest",
       "type": "Sous-tâche",
       "subtask": true,
@@ -3400,7 +3407,7 @@
       "key": "VR-253",
       "division": "Environnement",
       "summary": "F-A17 — Plan B sous-traitance partielle si capacité insuffisante",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Highest",
       "type": "Sous-tâche",
       "subtask": true,
@@ -3428,7 +3435,7 @@
       "key": "VR-254",
       "division": "Environnement",
       "summary": "F-A18 — Demande extension délai CEAEQ si requis",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "High",
       "type": "Sous-tâche",
       "subtask": true,
@@ -3568,7 +3575,7 @@
       "key": "VR-259",
       "division": "Environnement",
       "summary": "SUIVI CONTINU — Avis CEAEQ 30 janvier 2026 — Statut OUVERT — Échéance DURE 31 juillet 2026",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Highest",
       "type": "VR - Avis",
       "subtask": false,
@@ -3580,10 +3587,17 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": null,
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-13",
       "description": "⚠️ CRITICITÉ : Critique — à saisir manuellement dans JSM\nSUIVI CONTINU URGENT (Continuité VR-JAN-A01 et VR-FEB-A01). Communication officielle Jennifer Gagné du 8 avril 2026 : statut OUVERT pour les 5 documents qualité mis à jour : DR-12-CDA, DR-12-CVR, DR-12-VAL, DR-12-GCDR, DR-12-MET. Les changements doivent être implantés AU MAXIMUM LE 31 JUILLET 2026. STATUT juin 2026 : ~2 MOIS RESTANTS. ESCALADE DIRECTION URGENTE. Voir sous-tâches F-A16 à F-A18 de février 2026. Lien : VR-FEB-A01 (VR-236).",
       "evaluation_impact": "SUIVI URGENT - 2 mois restants. 11 nouveaux paramètres à valider. ESCALADE DIRECTION. Risque non-conformité accréditation si échec.",
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-13T14:59:00.803-0400",
+          "public": true,
+          "text": "Fermeture — doublon de suivi (Plan de fermeture VR, catégorie 2 — décision D7)\nCette demande est le report mensuel de mars 2026 du suivi de l'avis CEAEQ du 30 janvier 2026 (modification des champs et domaines d'accréditation, PALA).\nDemande conservée — VR-206 (vigie Janvier 2026). Application de la règle R2 : la demande originale et la plus avancée est conservée. VR-206 est au statut En analyse, référence l'avis lui-même (avis-2026-01-30.pdf) et porte les 8 sous-tâches d'implantation VR-207 à VR-214 couvrant les 11 paramètres visés et les 5 documents qualité à mettre à jour.\nCorrection apportée à la chaîne de références. VR-359 (vigie Mai 2026) avait été fermée le 2026-07-23 en référant à la présente demande. La chaîne devient VR-359 → VR-259 → VR-206. Le Registre des fermetures est corrigé pour que toutes les entrées de la grappe PALA renvoient directement à VR-206, sans passer par une demande elle-même fermée.\nInformation portée sur la demande conservée. Aucun élément nouveau : la présente demande ne fait que constater le statut OUVERT du dossier au mois de mars 2026. Le statut réel du dossier est documenté sous VR-206.\nSous-tâches — fermées, non migrées :\nVR-269 — M-A08 Point d'étape final sur l'avancement des 11 paramètres. Fermée : le suivi d'avancement est porté par les sous-tâches VR-207 à VR-211 sous VR-206.\n\nVR-270 — M-A09 Soumission des données de validation au conseiller auditeur CEAEQ. Fermée : action déjà portée par VR-212 (J-A06 — Soumettre les données de validation au conseiller auditeur CEAEQ, tous domaines) sous VR-206.\n\nNote d'audit — échéance dépassée. L'échéance d'implantation fixée par l'avis était le 31 juillet 2026. Elle est dépassée et les 8 sous-tâches de VR-206 demeurent au statut Ouvert. La consolidation opérée ici est documentaire : elle regroupe le suivi sous une demande unique et ne préjuge pas de l'état réel d'exécution. La qualification de l'écart — écart d'exécution ou écart de traçabilité — relève du réviseur responsable et de la direction, et se poursuit sous VR-206.\nFermeture exécutée dans le cadre de la revue de consolidation inter-mois — 2026-08-13."
+        }
+      ],
       "parent_key": null,
       "parent_url": null,
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-259",
@@ -3848,7 +3862,7 @@
       "key": "VR-269",
       "division": "Environnement",
       "summary": "M-A08 — ** URGENT ** Point d'étape FINAL avancement 11 paramètres CEAEQ",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Highest",
       "type": "Sous-tâche",
       "subtask": true,
@@ -3876,7 +3890,7 @@
       "key": "VR-270",
       "division": "Environnement",
       "summary": "M-A09 — ** URGENT ** Soumission données validation au conseiller auditeur CEAEQ",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Highest",
       "type": "Sous-tâche",
       "subtask": true,
@@ -6996,7 +7010,7 @@
       "key": "VR-361",
       "division": "Environnement",
       "summary": "Guide d'interprétation du RQEP mis à jour (juin 2026) – lié au décret 845-2026 (en vigueur du 2 juillet 2026 au 17 juin 2027)",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Medium",
       "type": "VR - Avis",
       "subtask": false,
@@ -7008,7 +7022,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-07-02",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-13",
       "description": "Le Guide d'interprétation du Règlement sur la qualité de l'eau potable (Direction de l'eau potable et des eaux souterraines) a été mis à jour en juin 2026. Plusieurs modifications au RQEP entrent en vigueur à partir du 2 juillet 2026, jusqu'au 17 juin 2027. Les éléments modifiés apparaissent grisés dans le document.\nLié au décret 845-2026 (voir VR-MAI-D01). Statut CEAEQ : OUVERT. Document de soutien pour l'interprétation des nouvelles normes eau potable.\nSource : vigie réglementaire Mai 2026 (Environnement).",
       "evaluation_impact": "Support d'interprétation des nouvelles normes RQEP (décret 845-2026). À utiliser pour l'évaluation AQ des paramètres/méthodes eau potable.",
       "comments": [
@@ -7017,6 +7031,12 @@
           "created": "2026-07-23T09:22:22.581-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Mai 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-13T14:31:05.391-0400",
+          "public": true,
+          "text": "Fermeture — doublon de suivi (Plan de fermeture VR, catégorie 2 — décision D8)\nCette demande et VR-409 (vigie Juin 2026) portent sur le même objet : la mise à jour de juin 2026 du Guide d'interprétation du Règlement sur la qualité de l'eau potable (Direction de l'eau potable et des eaux souterraines, MELCCFP), liée au décret 845-2026.\nDemande conservée — VR-409. Contrairement à la règle générale qui privilégie la demande la plus ancienne, c'est ici la plus récente qui est retenue, en application de la règle R5 (arbitrage ancienneté / avancement) :\nVR-409 est au statut En analyse et porte la sous-tâche VR-412 (comparaison de la version de juin 2026 avec la version antérieure) ; la présente demande est restée À trier et ne porte aucune sous-tâche.\n\nVR-409 référence le document lui-même et son statut officiel vérifié par JEG le 2026-07-24 ; la présente demande ne référence que la page d'accueil du ministère.\n\nVR-409 porte l'échéance exacte du 17 juin 2027, terme de la période de transition ; la présente demande portait le 2 juillet 2026, qui est la date d'entrée en vigueur du décret 845-2026 et non l'échéance du guide.\n\nInformation reportée sur la demande conservée. Le champ « Source réglementaire » de VR-409, jusqu'ici vide, a été renseigné avec l'adresse du guide : https://cdn-contenu.quebec.ca/cdn-contenu/environnement/eau-potable/qualite-eau-potable/guide-interpretation-reglement-qualite-eau-potable.pdf\nSous-tâches. Aucune sous-tâche n'était rattachée à la présente demande. VR-412 demeure sous VR-409, sans changement.\nRappel de contexte. Le RQEP modifié par le décret 845-2026 est en vigueur depuis le 2 juillet 2026 (jalon suivi sous VR-373). Le guide d'interprétation traduit le texte réglementaire en exigences opérationnelles — méthodes acceptées, limites de détection, modalités de transmission. La fenêtre du 17 juin 2027 laisse un an pour aligner les procédures.\nFermeture exécutée dans le cadre de la revue de consolidation inter-mois — 2026-08-13."
         }
       ],
       "parent_key": null,
