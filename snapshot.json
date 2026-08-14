@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T19:00:02.575Z",
+  "generatedAt": "2026-08-14T13:00:02.729Z",
   "issues": [
     {
       "key": "VR-137",
@@ -45,7 +45,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": null,
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-07-29",
       "description": "Projet de règlement modifiant le REAFIE publié dans la GOQ II Vol.157 n°47 (19 nov 2025) p.6136. Allègement des renseignements exigés dans les demandes d'autorisation. Art. 16: simplification administrative; Art. 35.1: renouvellement assujetti art. 23-27 LQE; Art. 157.1: DoC lavage fruits/légumes ≥20 ha (MES ≤50 mg/L) — cucurbitacées sans racines; Art. 234: batteries lithium 100k kg. Disposition transitoire jusqu'au 31 déc 2030 lavage F&L. STATUT : consultation publique close, analyse des mémoires en cours par MELCCFP, version finale à paraître.",
       "evaluation_impact": "Allègement renseignements DA. Impact labo: nouvelle norme MES ≤50 mg/L pour lavage F&L.",
       "comments": [
@@ -80,7 +80,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": null,
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-07-29",
       "description": "Projet de règlement REIMR publié dans GOQ II Vol.157 n°47 p.6139. ART. 63.4 CRITIQUE : PFAS/SPFA ajouté explicitement (trimestriel, effluents LET). 17 paramètres eaux souterraines. Phosphore, biogaz, normes lixiviats renforcés. STATUT : consultation publique close le 3 janvier 2026, analyse mémoires en cours.",
       "evaluation_impact": "PFAS/SPFA trimestriels effluents LET (art. 63.4). 17 paramètres eaux souterraines. Phosphore, biogaz, normes lixiviats renforcés.",
       "comments": [
@@ -115,7 +115,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": null,
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-07-29",
       "description": "Projet de règlement RETEURI publié dans GOQ II Vol.157 n°47 p.6148. Art. 7 : systèmes étanches peuvent se raccorder au réseau municipal. Effluents tertiaires acceptés. Disposition transitoire 1er jan 2027. STATUT : consultation publique close le 3 janvier 2026.",
       "evaluation_impact": "Effluents tertiaires → raccordement municipal. Hausse analyses pré-raccordement.",
       "comments": [
@@ -150,7 +150,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": null,
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-07-29",
       "description": "Projet de règlement ROMAEU publié dans GOQ II Vol.157 n°47 p.6153. Art. 12 : rapport mensuel électronique outil MELCCFP. Annexe 1 : nouvelles fréquences d'analyses. Annexe 2 : SOP toxicité truite. Entrée en vigueur 1er janvier 2027. STATUT : consultation publique close le 3 janvier 2026.",
       "evaluation_impact": "Modernisation ROMAEU. Annexe 1 fréquences + politique rejet. Annexe 2 SOP toxicité truite.",
       "comments": [
@@ -185,7 +185,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": null,
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-07-29",
       "description": "Projet de règlement RPEP publié dans GOQ II Vol.157 n°47 p.6163. Art. 26 : puits d'observation soumis à contrôle débit. Ajustements géothermie et installations souterraines. Annexe 2 : CH4 dissous + signature isotopique δ13C obligatoire. Entrée en vigueur estimée 1er mars 2026. STATUT : consultation publique close le 3 janvier 2026.",
       "evaluation_impact": "Ajustements RPEP. CH4 dissous + δ13C obligatoire. Capacité analytique à valider.",
       "comments": [
@@ -220,7 +220,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": null,
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-07-29",
       "description": "Projet de règlement RQEPABA publié dans GOQ II Vol.157 n°47 p.6169. Art. 4 : nouvelles définitions \"bassin\" (jeux d'eau, spas). Retrait des coliformes fécaux comme paramètre de contrôle; E. coli devient le seul indicateur bactériologique. Chlore résiduel min. 0,5 mg/L / pH 7,0. Fréquences de surveillance bi-hebdomadaires. Entrée en vigueur estimée mars-avril 2026. STATUT : consultation close le 3 janvier 2026.",
       "evaluation_impact": "Retrait coliformes fécaux. E. coli seul. Chlore 0,5/pH 7,0. Calendriers bi-hebdo.",
       "comments": [
@@ -255,7 +255,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": null,
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-07-29",
       "description": "Projet de règlement RQEP publié dans GOQ II Vol.157 n°47 p.6176. CHANGEMENTS MAJEURS : Nouvelles normes Annexe 1 : NDMA 0,04 µg/L (LC-MS/MS obligatoire), Strontium (ICP-MS), abaissements COV. Fréquences renforcées. Extension accréditation ISO 17025 requise. Mémoire technique à soumettre avant le 3 janvier 2026. STATUT : consultation close, mémoires en analyse.",
       "evaluation_impact": "Nouvelles normes NDMA 0,04 µg/L (LC-MS/MS), Strontium (ICP-MS), abaissements COV. Validation méthodes + Extension ISO 17025 requise.",
       "comments": [
@@ -290,7 +290,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": null,
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-07-29",
       "description": "Projet de règlement RSCTSC publié dans GOQ II Vol.157 n°47 p.6192. Ajustements seuils et conditions de stockage; contrôles SPFA renforcés pour sols contaminés; renforcement exigences pesticides. Extension de la gamme d'analyses sols requise. STATUT : consultation close le 3 janvier 2026.",
       "evaluation_impact": "Contrôles SPFA renforcés sols contaminés. Extension gamme analyses.",
       "comments": [
@@ -381,7 +381,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": null,
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-07-29",
       "description": "Projet de règlement adaptant le Code de déontologie des chimistes à la Loi de modernisation du système professionnel (LQ 2023). Entrée en vigueur prévue le 7 novembre 2026, sous réserve de l'approbation de l'OPQ. Pas d'impact direct organisationnel immédiat. Veille à maintenir via OCQ.",
       "evaluation_impact": "Modification Code déontologie chimistes (vigueur 7 nov 2026). Pas d’impact direct organisationnel.",
       "comments": [
@@ -906,7 +906,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": null,
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-07-29",
       "description": "Projet de règlement publié dans la Gazette officielle du Québec Partie II du 10 décembre 2025, Vol. 157 n°50, p.6637. Modifications procédure EIE + REAFIE (Q-2 r.17.1) suite à PL 81. Allègement formalités, dispositions transitoires. Période de consultation : 45 jours (date limite : 24 janvier 2026). CORRIGÉ — initialement classé novembre (VR-NOV-D08), en réalité publié dans Gazette de décembre 2025.",
       "evaluation_impact": "Modifications procédure EIE + REAFIE (Q-2 r.17.1) suite à PL 81. Allègement formalités, dispositions transitoires.",
       "comments": [
@@ -969,7 +969,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": null,
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-07-29",
       "description": "Mise à jour annuelle des tarifs PALA 2026 (DR-12-PALA-TARIF). Action requise : revue budgétaire et prévision des coûts d'accréditation pour l'année 2026. Entrée en vigueur : 1er janvier 2026.",
       "evaluation_impact": "Ajustement prix PALA 2026. Impact budget Eurofins.",
       "comments": [
@@ -1004,7 +1004,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": null,
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-07-29",
       "description": "Mise à jour DR-12-CI-AAM. Changements : prix 2026 + liens hypertextes vers documents externes. Référence aux attestations assainissement municipales (AAM). Entrée en vigueur : 1er janvier 2026. Action : évaluer impact budget si Eurofins offre accréditation caractérisation initiale AAM.",
       "evaluation_impact": "Prix 2026 + liens DR-12-CI-AAM. Impact budget si Eurofins offre accréditation caractérisation initiale AAM.",
       "comments": [
@@ -1853,7 +1853,7 @@
       "key": "VR-199",
       "division": "Environnement",
       "summary": "Projet 87109 — Matières dangereuses : RMD + REAFIE + RFPP (5 thèmes, redevances, système suivi en ligne)",
-      "status": "En analyse",
+      "status": "Clôturé – sans impact",
       "priority": "High",
       "type": "VR - Projet",
       "subtask": false,
@@ -1865,7 +1865,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-03-14",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-13",
       "description": "Projet de règlement modifiant 3 règlements : RMD (Q-2 r.32), REAFIE (Q-2 r.17.1), RFPP (Q-2 r.27). Publié dans la Gazette officielle du Québec, Partie II, du 28 janvier 2026, Vol. 158 n°4, p.335. CONSULTATION : 28 janvier au 14 mars 2026 (45 jours). 5 THÈMES : Sécurité environnementale lieux dépôt; Encadrement rejets accidentels; Harmonisation et MAJ définitions/normes (ÉLARGISSEMENT CHOIX MÉTHODES ANALYSE); Contrôle gestion MDR (SYSTÈME DE SUIVI EN LIGNE); Redevances à l'élimination. STATUT juin 2026 : consultation close depuis ~2,5 mois — mémoire Eurofins NON soumis présumé.",
       "evaluation_impact": "Modifications RMD + REAFIE + RFPP. Thème 3 = OPPORTUNITÉ (élargissement méthodes analyse). Thème 4 = impact LIMS (système suivi en ligne MDR). Thème 1 = analyses post-fermeture lieux dépôt.",
       "comments": [
@@ -1874,6 +1874,12 @@
           "created": "2026-08-12T15:06:59.177-0400",
           "public": true,
           "text": "LE PROJET 87109 EST ADOPTÉ — clôture préparée, en attente de confirmation (revue du 2026-08-10)\nLa communication officielle de la vigie de juin 2026 (J. Gagné, 30 juillet 2026) confirme la publication de trois décrets à la Gazette officielle du Québec, Partie II, n°25 du 23 juin 2026 :\nDécret\nRèglement visé\nPage\nDemande VR\n891-2026\nRMD (Q-2, r. 32) → Code de gestion des matières dangereuses (CGMD)\n3379\nVR-405\n890-2026\nREAFIE (Q-2, r. 17.1)\n3377\nVR-406\n892-2026\nRFPP (Q-2, r. 27)\n3406\nVR-407\nCorrespondance avec le projet 87109. Cette demande suit un projet « modifiant 3 règlements : RMD, REAFIE, RFPP », publié à la GOQ P.II du 28 janvier 2026 (Vol. 158 n°4, p. 335), consultation du 28 janvier au 14 mars 2026. Les trois décrets portent sur exactement ces trois règlements, publiés ensemble, cinq mois après la clôture de la consultation. Les cinq thèmes du projet se retrouvent dans le décret 891-2026 : sécurité environnementale des lieux de dépôt, encadrement des rejets accidentels, harmonisation des définitions, contrôle de la gestion des MDR par système de suivi en ligne, redevances à l'élimination.\nCe qui est confirmé et daté. La sous-tâche VR-221 portait sur l'impact potentiel du système de suivi en ligne des MDR sur le LIMS. Ce n'est plus une hypothèse : le décret 891-2026 fixe la traçabilité électronique au 1er janvier 2027 — inscription des producteurs, transporteurs et destinataires, bordereaux électroniques. Si Eurofins ET agit comme destinataire ou transporteur de MDR, l'échéance LIMS est dans moins de cinq mois.\nCe qui a été fait :\nLiens Relates posés vers VR-405, VR-406 et VR-407\n\nVR-220 et VR-221 reparentées vers VR-405 (CGMD) — leur objet relève désormais du texte adopté, non du projet\n\n⚠ Pourquoi cette demande reste ouverte. Je n'ai pas lu le texte des décrets ni leur préambule. La correspondance est fondée sur l'identité des trois règlements visés, la chronologie et la concordance thématique — un faisceau solide, mais circonstanciel. La clôture pour cause de caducité mérite une vérification directe du décret 891-2026 (lien vers 88316.pdf dans VR-405).\nUne opération suffit ensuite : chaîne 2 → 4 → 5 → 6 → 8 vers Clôturé – sans impact.\nRappel de la leçon apprise (VR-219). Le mémoire de consultation n'a pas été soumis. Le texte est aujourd'hui adopté sans que nous ayons commenté l'élargissement du choix des méthodes d'analyse — le thème qui nous concernait le plus directement.\nNote d'audit — aucun responsable d'action assigné, conformément à la consigne de la campagne."
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-13T15:32:19.180-0400",
+          "public": true,
+          "text": "Fermeture — caduc par décret (Plan de fermeture VR, catégorie 1 — décisions D10 et R6)\nLe projet 87109 — Matières dangereuses : RMD + REAFIE + RFPP, publié à la Gazette officielle du Québec P.II du 28 janvier 2026, a été adopté. Il l'a été par trois décrets publiés ensemble à la Gazette officielle du Québec P.II n°25 du 23 juin 2026 :\nDécret\nRèglement visé\nDemande\nVigueur\n891-2026\nRMD (Q-2 r.32) devient le Code de gestion des matières dangereuses (CGMD)\nVR-405\n25 juin 2026 · exceptions au 1er janvier 2027 et 2028\n890-2026\nREAFIE (Q-2 r.17.1) — allègement de formalités administratives\nVR-406\n—\n892-2026\nRFPP (Q-2 r.27) — cendres non dangereuses de combustion\nVR-407\n25 juin 2026\nDécret de référence — VR-405 (891-2026). Application de la règle R6 : lorsqu'un projet est adopté par plusieurs décrets, la demande de référence est celle qui porte le changement structurant. Le décret 891-2026 transforme le RMD en Code de gestion des matières dangereuses et introduit la traçabilité électronique des matières dangereuses résiduelles au 1er janvier 2027 — c'est le seul des trois à emporter un changement de fond. VR-406 et VR-407 demeurent liés à la présente demande par un lien Relates et poursuivent leur suivi propre.\nSous-tâches — déjà migrées lors de la consolidation de juin 2026 :\nVR-220 — Élargissement du choix des méthodes d'analyse. Migrée vers VR-405. L'analyse d'opportunité porte désormais sur un texte adopté, non plus sur une hypothèse.\n\nVR-221 — Système de suivi en ligne des MDR sur LIMS. Migrée vers VR-405. L'échéance n'est plus hypothétique : traçabilité électronique au 1er janvier 2027.\n\nVR-219 — Documenter le mémoire relatif au projet 87109. Déjà au statut Terminé.\n\nRéserve levée. La clôture de cette demande était suspendue à la vérification de la correspondance entre le projet 87109 et les décrets 890, 891 et 892-2026 (décision D10). Les trois décrets portent exactement sur les trois règlements visés par le projet, publiés ensemble cinq mois après la clôture de la consultation. La correspondance est retenue par le réviseur responsable.\nPoint ouvert. L'ampleur du chantier LIMS de traçabilité 2027 (VR-221) dépend d'une information encore manquante : Eurofins ET est-il destinataire ou transporteur de matières dangereuses résiduelles ? Cette question relève de la Direction et de la Logistique et se poursuit sous VR-405.\nLeçon documentée. Le mémoire de consultation n'a pas été soumis avant l'adoption du projet (VR-219). C'est le même constat que pour les consultations de Santé Canada sur l'eau potable — la détection en amont demeure le point de rupture.\nFermeture exécutée dans le cadre de la revue de consolidation inter-mois — 2026-08-13."
         }
       ],
       "parent_key": null,
@@ -2047,7 +2053,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-04-30",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-07-29",
       "description": "AJOUTÉ suite à veille proactive (omis dans communication officielle 16 février 2026). Le 1er mars 2026, cadre réglementaire modernisé remplaçant le régime intérimaire pour la gestion des zones inondables, mobilité rivières, littoral et rives lacs/cours d'eau. 3 RÈGLEMENTS : (1) Règlement sur les activités municipales en milieux hydriques; (2) Règlement sur les ouvrages de protection contre les inondations; (3) Règlement sur les milieux humides, hydriques et sensibles. CARTES NOUVELLE GÉNÉRATION : zones inondables — diffusion progressive printemps 2026. IMPACT EUROFINS : suite directe vague réglementaire eau (projets 86717-86724). Impacts analyses microbiologie, physicochimie sur eaux superficielles, lixiviats, milieux humides à anticiper.",
       "evaluation_impact": "Cadre permanent gestion milieux hydriques entré en vigueur 1er mars 2026. 3 règlements. Cartes nouvelle génération zones inondables au printemps 2026.",
       "comments": [
@@ -2074,7 +2080,7 @@
       "priority": "Highest",
       "type": "VR - Avis",
       "subtask": false,
-      "criticite": null,
+      "criticite": "Critique",
       "mois_vigie": "Janvier 2026",
       "date_vigueur": "2026-07-31",
       "duedate": "2026-07-31",
@@ -3547,7 +3553,7 @@
       "key": "VR-258",
       "division": "Environnement",
       "summary": "Calendrier PALA 2026 — REPORT essai HLP-04 domaine 606 microbiologie air (date indéterminée)",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Medium",
       "type": "VR - Avis",
       "subtask": false,
@@ -3559,10 +3565,17 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": null,
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-13",
       "description": "Annonce CEAEQ — Calendrier 2026 des essais d'aptitude PALA. L'essai HLP-04 visant le DOMAINE 606 en microbiologie de l'air (Legionella spp. et Legionella pneumophila eau tours refroidissement) dont l'ENVOI était PRÉVU LE 13 AVRIL 2026 est REPORTÉ À UNE DATE INDÉTERMINÉE. Les représentants CEAEQ avisés par courriel directement par l'accréditation le 13 mars 2026. IMPACT EUROFINS : si Eurofins est accrédité domaine 606 (Legionella), impact direct sur planification essais d'aptitude 2026. Veille obligatoire pour date de reprise. LIEN : VR-MAR-A04 (DR-12-SCA-08).",
       "evaluation_impact": "REPORT essai HLP-04 domaine 606 (Legionella eau tours refroidissement) - date indéterminée. Impact planification essais aptitude 2026 si accréditation domaine 606.",
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-13T15:33:05.619-0400",
+          "public": true,
+          "text": "Fermeture — objet atteint (Plan de fermeture VR, catégorie 4 — règle R11)\nCette demande suivait le report sine die de l'essai d'aptitude HLP-04 (domaine 606 — Legionella spp. et Legionella pneumophila, eau de tours de refroidissement). L'essai, initialement prévu le 13 avril 2026, avait été reporté sans nouvelle date par le CEAEQ le 13 mars 2026.\nL'objet de la demande est atteint. Le calendrier PALA mis à jour le 20 juillet 2026 fixe l'envoi de l'essai HLP-04 au 5 octobre 2026. La veille n'a plus lieu d'être : l'information attendue est disponible.\nNouvelle catégorie de fermeture. Cette demande ne relève d'aucune des trois catégories du plan : ce n'est ni un caduc par décret — aucun texte ne la remplace —, ni un doublon de suivi — aucune demande parallèle —, ni un informatif sans action — une action était bien requise. La règle R11 (catégorie 4 — objet atteint) est créée pour ce cas : une demande de veille dont l'événement attendu s'est produit est fermée en « Clôturé – sans impact », avec mention de l'événement, de sa date et de sa source, et renvoi vers la demande qui prend le relais.\nSous-tâche — fermée :\nVR-268 — M-A07 Veille sur la date de reprise de l'essai HLP-04 domaine 606. Fermée : objet atteint. La sous-tâche jumelle VR-283, portée par VR-278 (vigie Avril 2026), a été fermée au même motif le même jour.\n\n🔴 Action de relais à créer — point de vigilance. La fermeture de cette demande et de VR-283 lève la veille, mais aucune sous-tâche de participation à l'essai HLP-04 du 5 octobre 2026 n'existe à ce jour. VR-283 prévoyait explicitement : « dès réception, créer une sous-tâche de participation à l'essai ». Cette action est à créer sous la vigie de juillet 2026.\nEnchaînement critique à ne pas manquer. La refonte de la SOP DR-12-SCA-08 sur ce même domaine 606 devait être implantée le 1er août 2026 — échéance dépassée, sous-tâches VR-215 à VR-218 toujours ouvertes sous VR-204. L'essai d'aptitude arrive le 5 octobre 2026. Passer un essai d'aptitude avec une SOP non conforme cumule deux risques : échec possible de l'essai et non-conformité documentaire lors de l'audit. La conformité de la SOP doit être vérifiée avant l'envoi de l'essai.\nFermeture exécutée dans le cadre de la revue de consolidation inter-mois — 2026-08-13."
+        }
+      ],
       "parent_key": null,
       "parent_url": null,
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-258",
@@ -3610,7 +3623,7 @@
       "key": "VR-260",
       "division": "Environnement",
       "summary": "SUIVI CONTINU — DR-12-SCA-08 microbiologie air — Statut OUVERT — Échéance DURE 1er août 2026",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Highest",
       "type": "VR - Avis",
       "subtask": false,
@@ -3622,10 +3635,17 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": null,
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-13",
       "description": "⚠️ CRITICITÉ : Critique — à saisir manuellement dans JSM\nSUIVI CONTINU URGENT (Continuité VR-JAN-A02). Communication officielle Jennifer Gagné du 8 avril 2026 : statut OUVERT pour les changements DR-12-SCA-08 (Lignes directrices microbiologie air). Refonte complète domaine 606 (Legionella eau tours refroidissement). Les changements doivent être implantés AU MAXIMUM LE 1er AOÛT 2026. LIENS : Lié au report essai HLP-04 (VR-MAR-A02); Lié aux sous-tâches J-A09 à J-A12 (Janvier 2026). STATUT juin 2026 : ~2 MOIS RESTANTS.",
       "evaluation_impact": "SUIVI URGENT - 2 mois restants. Refonte SOP Legionella 606. Lié au report HLP-04. Risque non-conformité accréditation domaine 606.",
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-13T15:18:15.318-0400",
+          "public": true,
+          "text": "Fermeture — doublon de suivi (Plan de fermeture VR, catégorie 2 — décision D7)\nCette demande est le report mensuel de mars 2026 du suivi de la refonte du DR-12-SCA-08 — Lignes directrices pour les travaux analytiques en microbiologie de l'air (domaine 606, Legionella).\nDemande conservée — VR-204 (vigie Janvier 2026). Application de la règle R2 : la demande originale et la plus avancée est conservée. VR-204 est au statut En analyse et porte les 4 sous-tâches d'implantation :\nSous-tâche\nObjet\nVR-215\nJ-A09 — Refonte de la SOP Legionella domaine 606 (DR-12-SCA-08)\nVR-216\nJ-A10 — Exigences de filtration et contenants de prélèvement\nVR-217\nJ-A11 — Mapping bains et incubateurs, sondes de température, métrologie\nVR-218\nJ-A12 — Validation de la compétence des analystes\nUn lien Relates existait déjà entre la présente demande et VR-204 ; il est complété par un lien Duplicate marquant la relation de doublon.\nInformation portée sur la demande conservée. Aucun élément nouveau : la présente demande constate le statut OUVERT du dossier au mois de mars 2026.\nSous-tâche — fermée, non migrée :\nVR-271 — M-A10 Validation finale de la refonte de la SOP Legionella domaine 606. Fermée : cette action constitue l'étape de clôture de VR-215 (refonte de la SOP DR-12-SCA-08), qui demeure ouverte sous VR-204. La validation et l'approbation de la SOP font partie intégrante du livrable de VR-215.\n\nNote d'audit — échéance dépassée. L'échéance d'implantation du DR-12-SCA-08 était le 1er août 2026. Elle est dépassée et les 4 sous-tâches de VR-204 demeurent au statut Ouvert. La consolidation opérée ici est documentaire et ne préjuge pas de l'état réel d'exécution. La qualification de l'écart se poursuit sous VR-204.\nEnchaînement à surveiller. L'essai d'aptitude HLP-04 portant sur le même domaine 606 est fixé au 5 octobre 2026 (calendrier PALA mis à jour le 20 juillet 2026). Passer cet essai avec une SOP non conforme cumulerait deux risques : échec possible de l'essai et non-conformité documentaire lors de l'audit.\nFermeture exécutée dans le cadre de la revue de consolidation inter-mois — 2026-08-13."
+        }
+      ],
       "parent_key": null,
       "parent_url": null,
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-260",
@@ -3638,7 +3658,7 @@
       "key": "VR-261",
       "division": "Environnement",
       "summary": "Veille consultations Santé Canada en cours — Chlorite/Chlorate (close 14 avril 2026) + AHA6 + Amiante",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Medium",
       "type": "VR - Avis",
       "subtask": false,
@@ -3650,10 +3670,17 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": null,
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-13",
       "description": "Suivi continuité consultations Santé Canada eau potable. Consultation Chlorite/Chlorate (CMA 1 mg/L chacun) - close 14 avril 2026 (VR-JAN-P02). Consultation Amiante eau potable - déjà close 24 mars 2026 (VR-JAN-P03). Consultation AHA6 acides haloacétiques (CMA 0,08 mg/L) - close 13 mars 2026 (VR-DEC-P01). STATUT juin 2026 : TOUTES CLOSES. Documenter état mémoires Eurofins (présumé non soumis). Suivre publications finales. 3 sous-tâches : bilan chlorite/chlorate, bilan AHA6+amiante, workflow Jira notification 30j.",
       "evaluation_impact": "Toutes consultations closes en juin 2026 (chlorite/chlorate, AHA6, amiante). Veille publications finales. Mémoires Eurofins non soumis.",
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-13T15:30:13.774-0400",
+          "public": true,
+          "text": "Fermeture — doublon de suivi (Plan de fermeture VR, catégorie 2 — décision D2)\nCette demande est un regroupement de veille (roll-up) créé en mars 2026 pour suivre l'ensemble des consultations de Santé Canada sur l'eau potable. Elle fait doublon avec les trois demandes originales qui portent chacune une consultation distincte.\nDemandes conservées — les trois originaux :\nDemande\nMois de vigie\nObjet\nVR-165\nDécembre 2025\nAcides haloacétiques (AHA6) — CMA proposée 0,08 mg/L\nVR-200\nJanvier 2026\nChlorite et chlorate — CMA proposée 1 mg/L chacun\nVR-201\nJanvier 2026\nDocument de conseils sur l'amiante dans l'eau potable\nChacune de ces consultations est un dossier réglementaire distinct, avec sa propre échéance et sa propre portée analytique. Elles ne doivent pas être fusionnées : le regroupement en une demande de veille faisait perdre cette granularité.\nInformation portée sur les demandes conservées. Bilan de veille de mars 2026 : aucun élément nouveau au-delà de ce qui est déjà documenté sous chacune des trois demandes.\nSous-tâches :\nVR-272 — M-A11 Bilan de veille sur la consultation chlorite/chlorate. Fermée : le suivi est porté par VR-200.\n\nVR-273 — M-A12 Bilan de veille sur les consultations AHA6 et amiante. Fermée : le suivi est porté par VR-165 et VR-201.\n\nVR-274 — M-A13 Mise en place d'un workflow de notification 30 jours avant chaque date limite de consultation. MIGRÉE vers VR-200. Cette action porte une amélioration de processus qui dépasse le simple bilan de veille : elle vise à éviter la répétition des opportunités de consultation manquées. Son champ « Mois de la vigie » a été aligné sur Janvier 2026, conformément à la règle R8.\n\nNote. VR-274 répond directement au constat récurrent de détection tardive : plusieurs consultations de Santé Canada ont été closes avant que les demandes Jira correspondantes ne soient créées. Cette action reste ouverte sous VR-200.\nFermeture exécutée dans le cadre de la revue de consolidation inter-mois — 2026-08-13."
+        }
+      ],
       "parent_key": null,
       "parent_url": null,
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-261",
@@ -3834,7 +3861,7 @@
       "key": "VR-268",
       "division": "Environnement",
       "summary": "M-A07 — Veille date de reprise essai HLP-04 domaine 606",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Medium",
       "type": "Sous-tâche",
       "subtask": true,
@@ -3918,7 +3945,7 @@
       "key": "VR-271",
       "division": "Environnement",
       "summary": "M-A10 — ** URGENT ** Validation finale refonte SOP Legionella domaine 606",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Highest",
       "type": "Sous-tâche",
       "subtask": true,
@@ -3946,7 +3973,7 @@
       "key": "VR-272",
       "division": "Environnement",
       "summary": "M-A11 — Bilan veille consultation chlorite/chlorate (close 14 avril 2026)",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Medium",
       "type": "Sous-tâche",
       "subtask": true,
@@ -3974,7 +4001,7 @@
       "key": "VR-273",
       "division": "Environnement",
       "summary": "M-A12 — Bilan veille consultations AHA6 + Amiante (closes mars 2026)",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Medium",
       "type": "Sous-tâche",
       "subtask": true,
@@ -4007,7 +4034,7 @@
       "type": "Sous-tâche",
       "subtask": true,
       "criticite": null,
-      "mois_vigie": "Mars 2026",
+      "mois_vigie": "Janvier 2026",
       "date_vigueur": null,
       "duedate": "2026-06-30",
       "created": "2026-06-16T12:59:48.767-0400",
@@ -4018,8 +4045,8 @@
       "description": "Implémenter workflow Jira automatique pour notifier 30 jours avant chaque date limite consultation publique. Éviter répétition opportunités manquées. Responsable: Service Réglementation + Admin Jira. Effort: à évaluer.",
       "evaluation_impact": null,
       "comments": [],
-      "parent_key": "VR-261",
-      "parent_url": "https://labenvironex.atlassian.net/browse/VR-261",
+      "parent_key": "VR-200",
+      "parent_url": "https://labenvironex.atlassian.net/browse/VR-200",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-274",
       "phase_pipeline": null,
       "quadrant": null,
@@ -4086,7 +4113,7 @@
       "key": "VR-277",
       "division": "Environnement",
       "summary": "SUIVI CRITIQUE — Avis CEAEQ 30 janvier 2026 — Statut OUVERT — Échéance DURE 31 juillet 2026",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Highest",
       "type": "VR - Avis",
       "subtask": false,
@@ -4098,10 +4125,17 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": null,
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-13",
       "description": "⚠️ CRITICITÉ : Critique — à saisir manuellement dans JSM\nSUIVI CONTINU MENSUEL (Continuité VR-MAR-A03, VR-FEB-A01, VR-JAN-A01). Avis CEAEQ du 30 janvier 2026 demeure OUVERT au 2026-05-06. 11 NOUVEAUX PARAMÈTRES à valider dans 7 domaines (36, 214, 303, 320, 321, 340, 342) + retrait 404. Documents qualité mis à jour : DR-12-CDA, DR-12-CVR, DR-12-VAL, DR-12-GCDR, DR-12-MET. ÉCHÉANCE DURE : 31 JUILLET 2026 — les données de validation doivent être soumises au conseiller auditeur CEAEQ. STATUT JUIN 2026 : ~2 MOIS RESTANTS — ESCALADE DIRECTION URGENT.",
       "evaluation_impact": "~2 MOIS RESTANTS pour finalisation validations 11 paramètres. ESCALADE DIRECTION URGENT. Risque non-conformité accréditation.",
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-13T15:00:10.009-0400",
+          "public": true,
+          "text": "Fermeture — doublon de suivi (Plan de fermeture VR, catégorie 2 — décision D7)\nCette demande est le report mensuel d'avril 2026 du suivi de l'avis CEAEQ du 30 janvier 2026 (modification des champs et domaines d'accréditation, PALA).\nDemande conservée — VR-206 (vigie Janvier 2026), demande originale et la plus avancée, porteuse des 8 sous-tâches d'implantation VR-207 à VR-214.\nInformation portée sur la demande conservée. Aucun élément réglementaire nouveau : la présente demande reprend le constat de statut OUVERT au mois d'avril 2026, avec un rappel d'échéance. Le contenu de l'avis et le plan d'implantation sont documentés sous VR-206.\nSous-tâches — fermées, non migrées :\nVR-280 — Réunion décisionnelle finale CEAEQ, confirmer le plan de validation des 11 paramètres. Fermée : action de pilotage redondante avec le suivi porté par VR-207 à VR-211 sous VR-206.\n\nVR-281 — Soumission formelle des données de validation des 11 paramètres au conseiller auditeur. Fermée : action déjà portée par VR-212 (J-A06) sous VR-206.\n\nGrappe consolidée. Le suivi mensuel de l'avis du 30 janvier 2026 était réparti sur six demandes : VR-206 (janvier), VR-236 (février), VR-259 (mars), la présente (avril), VR-359 (mai) et VR-374 (juin). Toutes sont désormais consolidées sous VR-206.\nNote d'audit — échéance dépassée. L'échéance d'implantation était le 31 juillet 2026. La consolidation est documentaire et ne préjuge pas de l'état réel d'exécution. La qualification de l'écart se poursuit sous VR-206.\nFermeture exécutée dans le cadre de la revue de consolidation inter-mois — 2026-08-13."
+        }
+      ],
       "parent_key": null,
       "parent_url": null,
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-277",
@@ -4114,7 +4148,7 @@
       "key": "VR-278",
       "division": "Environnement",
       "summary": "SUIVI CRITIQUE — DR-12-SCA-08 microbiologie air — Statut OUVERT — Échéance DURE 1er août 2026",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Highest",
       "type": "VR - Avis",
       "subtask": false,
@@ -4126,10 +4160,17 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": null,
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-13",
       "description": "⚠️ CRITICITÉ : Critique — à saisir manuellement dans JSM\nSUIVI CONTINU MENSUEL (Continuité VR-MAR-A04, VR-JAN-A02). DR-12-SCA-08 (Lignes directrices microbiologie air) demeure OUVERT au 2026-05-06. Refonte complète pour domaine 606 (Legionella spp. et Legionella pneumophila — eau tours refroidissement). ÉCHÉANCE DURE : 1ER AOÛT 2026 — implémentation refonte SOP requise. NOTE : essai d'aptitude HLP-04 (domaine 606) initialement prévu 13 avril 2026 a été REPORTÉ par CEAEQ (communication 13 mars 2026). Aucune nouvelle date communiquée. STATUT JUIN 2026 : ~2 MOIS RESTANTS — finalisation refonte SOP URGENT.",
       "evaluation_impact": "~2 MOIS RESTANTS pour finalisation refonte SOP Legionella domaine 606. Essai HLP-04 reporté sans nouvelle date. Risque non-conformité accréditation.",
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-13T15:19:14.730-0400",
+          "public": true,
+          "text": "Fermeture — doublon de suivi (Plan de fermeture VR, catégorie 2 — décision D7)\nCette demande est le report mensuel d'avril 2026 du suivi de la refonte du DR-12-SCA-08 — microbiologie de l'air (domaine 606, Legionella).\nDemande conservée — VR-204 (vigie Janvier 2026), demande originale et la plus avancée, porteuse des 4 sous-tâches d'implantation VR-215 à VR-218. Un lien Relates existait déjà entre la présente demande et VR-204 ; il est complété par un lien Duplicate.\nInformation portée sur la demande conservée. Aucun élément réglementaire nouveau : constat du statut OUVERT au mois d'avril 2026 avec rappel d'échéance.\nSous-tâches — fermées, non migrées :\nVR-282 — Validation finale et approbation de la SOP Legionella domaine 606. Fermée : étape de clôture de VR-215 (refonte de la SOP DR-12-SCA-08), qui demeure ouverte sous VR-204. Doublon de VR-271, fermée au même motif.\n\nVR-283 — Veille active sur la date de reprise de l'essai d'aptitude HLP-04 domaine 606. Fermée : objet atteint. Le calendrier PALA mis à jour le 20 juillet 2026 fixe l'envoi de l'essai HLP-04 au 5 octobre 2026. La veille n'a plus d'objet ; la participation à l'essai est à porter par la vigie du mois de juillet 2026.\n\nNote d'audit — échéance dépassée. L'échéance d'implantation était le 1er août 2026. La consolidation est documentaire et ne préjuge pas de l'état réel d'exécution. La qualification de l'écart se poursuit sous VR-204.\nPoint de vigilance. La fermeture de VR-283 lève la veille sur la date de l'essai, mais aucune sous-tâche de participation à l'essai HLP-04 du 5 octobre 2026 n'existe à ce jour. Elle doit être créée sous la vigie de juillet 2026, avec vérification préalable de la conformité de la SOP.\nFermeture exécutée dans le cadre de la revue de consolidation inter-mois — 2026-08-13."
+        }
+      ],
       "parent_key": null,
       "parent_url": null,
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-278",
@@ -4170,7 +4211,7 @@
       "key": "VR-280",
       "division": "Environnement",
       "summary": "Réunion décisionnelle FINALE CEAEQ — confirmer plan validation 11 paramètres domaines 36/214/303/320/321/340/342",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Highest",
       "type": "Sous-tâche",
       "subtask": true,
@@ -4198,7 +4239,7 @@
       "key": "VR-281",
       "division": "Environnement",
       "summary": "Soumission formelle données de validation 11 paramètres au conseiller auditeur CEAEQ — dossier complet",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Highest",
       "type": "Sous-tâche",
       "subtask": true,
@@ -4226,7 +4267,7 @@
       "key": "VR-282",
       "division": "Environnement",
       "summary": "Validation finale et approbation SOP Legionella domaine 606 (DR-12-SCA-08) — avant implémentation 1er août 2026",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Highest",
       "type": "Sous-tâche",
       "subtask": true,
@@ -4254,7 +4295,7 @@
       "key": "VR-283",
       "division": "Environnement",
       "summary": "Veille active date reprise essai aptitude HLP-04 domaine 606 Legionella — communication CEAEQ attendue",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Medium",
       "type": "Sous-tâche",
       "subtask": true,
@@ -6941,7 +6982,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-07-31",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-07-23",
       "description": "Suivi de continuité. Avis CEAEQ du 30 janvier 2026 – modification des champs et domaines d'accréditation (PALA). Statut : OUVERT. Les changements doivent être implantés au maximum le 31 JUILLET 2026. Échéance imminente – voir sous-tâches opérationnelles (onglet 5).\nSource : vigie réglementaire Mai 2026 (Environnement).",
       "evaluation_impact": "Implantation obligatoire des changements de champs/domaines d'accréditation avant le 31 juillet 2026. Risque de non-conformité si non complétée.",
       "comments": [
@@ -6972,7 +7013,7 @@
       "key": "VR-360",
       "division": "Environnement",
       "summary": "** Suivi critique ** DR-12-SCA-08 microbiologie de l'air – Statut OUVERT – implantation au maximum le 1er août 2026",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Highest",
       "type": "VR - Avis",
       "subtask": false,
@@ -6984,7 +7025,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-08-01",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-13",
       "description": "Suivi de continuité. Document DR-12-SCA-08 (Lignes directrices concernant les travaux analytiques en microbiologie de l'air), changement du 2 février 2026. Statut : OUVERT. Les changements doivent être implantés au maximum le 1er AOÛT 2026. Échéance imminente – voir sous-tâches opérationnelles (onglet 5).\nSource : vigie réglementaire Mai 2026 (Environnement).",
       "evaluation_impact": "Implantation obligatoire des changements en microbiologie de l'air avant le 1er août 2026. Risque de non-conformité si non complétée.",
       "comments": [
@@ -6993,6 +7034,12 @@
           "created": "2026-07-23T09:22:16.144-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Mai 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-13T15:20:17.464-0400",
+          "public": true,
+          "text": "Fermeture — doublon de suivi (Plan de fermeture VR, catégorie 2 — décision D7)\nCette demande est le report mensuel de mai 2026 du suivi de la refonte du DR-12-SCA-08 — microbiologie de l'air (domaine 606, Legionella).\nDemande conservée — VR-204 (vigie Janvier 2026), demande originale et la plus avancée, porteuse des 4 sous-tâches d'implantation VR-215 à VR-218.\nInformation portée sur la demande conservée. Aucun élément réglementaire nouveau : constat du statut OUVERT au mois de mai 2026.\nSous-tâche — fermée, non migrée :\nVR-365 — Finaliser l'implantation des changements en microbiologie de l'air. Fermée : action couverte par les sous-tâches VR-215 à VR-218 sous VR-204.\n\nNote d'audit — échéance dépassée. L'échéance d'implantation était le 1er août 2026. La consolidation est documentaire et ne préjuge pas de l'état réel d'exécution. La qualification de l'écart se poursuit sous VR-204.\nFermeture exécutée dans le cadre de la revue de consolidation inter-mois — 2026-08-13."
         }
       ],
       "parent_key": null,
@@ -7145,7 +7192,7 @@
       "key": "VR-365",
       "division": "Environnement",
       "summary": "** SUIVI CRITIQUE ** Finaliser l'implantation des changements en microbiologie de l'air (DR-12-SCA-08)",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Highest",
       "type": "Sous-tâche",
       "subtask": true,
@@ -7422,7 +7469,7 @@
       "key": "VR-374",
       "division": "Environnement",
       "summary": "** SUIVI CRITIQUE ** PALA – champs et domaines d'accréditation – OUVERT – échéance le 31 juillet 2026",
-      "status": "En analyse",
+      "status": "Clôturé – sans impact",
       "priority": "Highest",
       "type": "VR - Avis",
       "subtask": false,
@@ -7434,7 +7481,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-07-31",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-13",
       "description": "Suivi de continuité. Avis CEAEQ du 30 janvier 2026 – modification des champs et domaines d'accréditation (PALA). Statut : OUVERT. Implantation obligatoire au maximum le 31 JUILLET 2026 – échéance à moins de 10 jours. Voir sous-tâches opérationnelles.\nNote de suivi (juin 2026) : ce suivi correspond au même enjeu que VR-259 (ticket canonique) et VR-MAI-A04. À consolider lors du prochain nettoyage des doublons de suivi.\nSource : vigie réglementaire Juin 2026 (Environnement).",
       "evaluation_impact": "Implantation obligatoire avant le 31 juillet 2026. Risque de non-conformité accréditation si non complétée.",
       "comments": [
@@ -7443,6 +7490,12 @@
           "created": "2026-07-23T09:49:37.532-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Juin 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-13T15:01:14.371-0400",
+          "public": true,
+          "text": "Fermeture — doublon de suivi (Plan de fermeture VR, catégorie 2 — décision D7)\nCette demande est le report mensuel de juin 2026 du suivi de l'avis CEAEQ du 30 janvier 2026 (modification des champs et domaines d'accréditation, PALA). Elle est la dernière de la grappe.\nDemande conservée — VR-206 (vigie Janvier 2026), demande originale et la plus avancée, porteuse des 8 sous-tâches d'implantation VR-207 à VR-214.\nInformation portée sur la demande conservée. Vérification de juin 2026 : le dossier demeurait inchangé et l'échéance du 31 juillet 2026 était alors imminente. Ce constat est reporté sur VR-206.\nSous-tâche — fermée, non migrée :\nVR-387 — Finaliser l'implantation des champs et domaines d'accréditation. Fermée : action couverte par les sous-tâches VR-207 à VR-214 sous VR-206.\n\nGrappe PALA — consolidation terminée. Les six demandes de suivi de l'avis du 30 janvier 2026 sont désormais consolidées sous VR-206 :\nDemande\nMois de vigie\nÉtat\nVR-206\nJanvier 2026\nConservée — porte l'analyse et les 8 sous-tâches\nVR-236\nFévrier 2026\nFermée le 2026-08-13\nVR-259\nMars 2026\nFermée le 2026-08-13\nVR-277\nAvril 2026\nFermée le 2026-08-13\nVR-359\nMai 2026\nFermée le 2026-07-23 — chaîne corrigée vers VR-206\nVR-374\nJuin 2026\nFermée le 2026-08-13 (la présente)\nNote d'audit — échéance dépassée. L'échéance d'implantation était le 31 juillet 2026. La consolidation est documentaire et ne préjuge pas de l'état réel d'exécution. La qualification de l'écart — écart d'exécution ou écart de traçabilité — se poursuit sous VR-206 et relève du réviseur responsable et de la direction.\nFermeture exécutée dans le cadre de la revue de consolidation inter-mois — 2026-08-13."
         }
       ],
       "parent_key": null,
@@ -7459,7 +7512,7 @@
       "key": "VR-375",
       "division": "Environnement",
       "summary": "** SUIVI CRITIQUE ** DR-12-SCA-08 – microbiologie de l'air – OUVERT – échéance le 1er août 2026",
-      "status": "En analyse",
+      "status": "Clôturé – sans impact",
       "priority": "Highest",
       "type": "VR - Avis",
       "subtask": false,
@@ -7471,7 +7524,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-08-01",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-13",
       "description": "Suivi de continuité. Document DR-12-SCA-08 (microbiologie de l'air), changement du 2 février 2026. Statut : OUVERT. Implantation obligatoire au maximum le 1er AOÛT 2026. Voir sous-tâches opérationnelles.\nNote de suivi (juin 2026) : ce suivi correspond au même enjeu que VR-260 (ticket canonique) et VR-MAI-A05. À consolider lors du prochain nettoyage des doublons de suivi.\nSource : vigie réglementaire Juin 2026 (Environnement).",
       "evaluation_impact": "Implantation obligatoire avant le 1er août 2026. Risque de non-conformité si non complétée.",
       "comments": [
@@ -7480,6 +7533,12 @@
           "created": "2026-07-23T09:49:44.099-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Juin 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-13T15:21:20.154-0400",
+          "public": true,
+          "text": "Fermeture — doublon de suivi (Plan de fermeture VR, catégorie 2 — décision D7)\nCette demande est le report mensuel de juin 2026 du suivi de la refonte du DR-12-SCA-08 — microbiologie de l'air (domaine 606, Legionella). Elle est la dernière de la grappe.\nDemande conservée — VR-204 (vigie Janvier 2026), demande originale et la plus avancée.\nInformation portée sur la demande conservée. Vérification de juin 2026 : le dossier demeurait inchangé et l'échéance du 1er août 2026 était alors imminente.\nSous-tâche — fermée, non migrée :\nVR-382 — Finaliser l'implantation en microbiologie de l'air. Fermée : action couverte par les sous-tâches VR-215 à VR-218 sous VR-204.\n\nGrappe DR-12-SCA-08 — consolidation terminée.\nDemande\nMois de vigie\nÉtat\nVR-204\nJanvier 2026\nConservée — porte l'analyse et les 4 sous-tâches VR-215 à VR-218\nVR-260\nMars 2026\nFermée le 2026-08-13\nVR-278\nAvril 2026\nFermée le 2026-08-13\nVR-360\nMai 2026\nFermée le 2026-08-13\nVR-375\nJuin 2026\nFermée le 2026-08-13 (la présente)\nSous-tâches restant actives sous VR-204 :\nClé\nObjet\nVR-215\nRefonte de la SOP Legionella domaine 606\nVR-216\nExigences de filtration et contenants de prélèvement\nVR-217\nMapping bains et incubateurs, sondes de température, métrologie\nVR-218\nValidation de la compétence des analystes\nNote d'audit — échéance dépassée. L'échéance d'implantation était le 1er août 2026. Les 4 sous-tâches de VR-204 demeurent au statut Ouvert. La consolidation est documentaire et ne préjuge pas de l'état réel d'exécution. La qualification de l'écart se poursuit sous VR-204.\nEnchaînement critique. L'essai d'aptitude HLP-04 sur le domaine 606 est fixé au 5 octobre 2026. Aucune sous-tâche de participation à cet essai n'existe à ce jour ; elle est à créer sous la vigie de juillet 2026, avec vérification préalable de la conformité de la SOP issue de VR-215.\nFermeture exécutée dans le cadre de la revue de consolidation inter-mois — 2026-08-13."
         }
       ],
       "parent_key": null,
@@ -7497,7 +7556,7 @@
       "key": "VR-376",
       "division": "Environnement",
       "summary": "Consultation Santé Canada – OQAFS arsenic (air) – période de commentaires close le 21 juillet 2026",
-      "status": "En analyse",
+      "status": "Clôturé – sans impact",
       "priority": "Medium",
       "type": "VR - Avis",
       "subtask": false,
@@ -7509,7 +7568,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-09-30",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-13",
       "description": "Suivi de continuité (voir VR-MAI-P01 / VR-355). Consultation Santé Canada (LCPE 1999) sur les objectifs de qualité de l'air fondés sur la santé (OQAFS) proposés pour l'arsenic inorganique (0,2 µg/m³ sur 1 heure; 1-10 ng/m³ en moyenne annuelle). La période de commentaires de 60 jours (22 mai au 21 juillet 2026) est CLOSE. Surveiller la publication de la version finale des OQAFS. Pertinent pour les laboratoires accrédités en surveillance de la qualité de l'air.\nNote de suivi (juin 2026) : même enjeu que VR-MAI-P01 (VR-355, ticket canonique). À consolider lors du prochain nettoyage des doublons de suivi.\nSource : vigie réglementaire Juin 2026 (Environnement).",
       "evaluation_impact": "Consultation close. Surveiller les OQAFS finaux pour l'arsenic pour la portée d'accréditation en surveillance de l'air.",
       "comments": [
@@ -7518,6 +7577,12 @@
           "created": "2026-07-23T09:49:52.315-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Juin 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-13T15:28:58.274-0400",
+          "public": true,
+          "text": "Fermeture — doublon de suivi (Plan de fermeture VR, catégorie 2 — décision D1)\nCette demande est le report de juin 2026 du suivi de la consultation de Santé Canada sur les objectifs de qualité de l'air fondés sur la santé (OQAFS) — arsenic.\nDemande conservée — VR-355 (vigie Mai 2026), demande originale du dossier.\nInformation portée sur la demande conservée. Élément nouveau à retenir : la période de consultation est close depuis le 21 juillet 2026. Ce constat est reporté sur VR-355, qui poursuit le suivi de la publication de l'objectif final.\nSous-tâche — fermée, non migrée :\nVR-384 — Documenter la fin de la consultation arsenic et surveiller la publication. Fermée : la fin de la consultation est désormais constatée et documentée au présent commentaire ; la surveillance de la publication se poursuit sous VR-355.\n\nFermeture exécutée dans le cadre de la revue de consolidation inter-mois — 2026-08-13."
         }
       ],
       "parent_key": null,
@@ -7610,7 +7675,7 @@
       "key": "VR-379",
       "division": "Environnement",
       "summary": "Suivi des consultations Santé Canada eau potable (AHA6, chlorite/chlorate, amiante) – toutes closes, finalisation non confirmée",
-      "status": "En analyse",
+      "status": "Clôturé – sans impact",
       "priority": "Medium",
       "type": "VR - Avis",
       "subtask": false,
@@ -7622,7 +7687,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-09-30",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-13",
       "description": "REVUE COMPLÈTE DU CORPUS (2026-07-22). Trois consultations Santé Canada sur la qualité de l'eau potable, identifiées comme « à vérifier » lors de la revue de phase 2 (relations projets/décrets), ont été vérifiées :\nAcides haloacétiques (AHA6, CMA proposée 0,08 mg/L) – consultation fermée le 13 mars 2026 (VR-165)\n\nChlorite/Chlorate (CMA maintenue à 1 mg/L chacun) – consultation fermée le 14 avril 2026 (VR-200)\n\nAmiante dans l'eau potable (document d'orientation) – consultation fermée le 24 mars 2026 (VR-201)\n\nAucune des trois n'a de version FINALE confirmée publiée à ce jour (recherche web 2026-07-22) – toutes demeurent au stade « ébauche post-consultation ». À surveiller pour intégration éventuelle au RQEP (845-2026, déjà harmonisé Santé Canada pour d'autres paramètres).\nNote de suivi (juin 2026) : consolide les 3 tickets existants VR-165, VR-200, VR-201. À lier lors du prochain nettoyage des doublons de suivi.\nSource : vigie réglementaire Juin 2026 (Environnement).",
       "evaluation_impact": "3 consultations eau potable fermées, aucune finalisée. Surveiller la publication des recommandations finales et l'intégration potentielle au RQEP.",
       "comments": [
@@ -7631,6 +7696,12 @@
           "created": "2026-07-23T09:50:18.548-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Juin 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-13T15:31:21.266-0400",
+          "public": true,
+          "text": "Fermeture — doublon de suivi (Plan de fermeture VR, catégorie 2 — décision D2)\nCette demande est le regroupement de veille de juin 2026 sur les consultations de Santé Canada relatives à l'eau potable. Même nature que VR-261 (mars 2026), fermée le même jour.\nDemandes conservées — les trois originaux : VR-165 (AHA6, vigie Décembre 2025), VR-200 (chlorite et chlorate, vigie Janvier 2026), VR-201 (amiante, vigie Janvier 2026).\nInformation portée sur les demandes conservées. Revue de juin 2026 : les trois consultations sont closes — AHA6 le 13 mars 2026, amiante le 24 mars 2026, chlorite et chlorate le 14 avril 2026 — et aucune n'a fait l'objet d'une publication finale à ce jour. Le suivi porte désormais sur la publication des recommandations finales et leur éventuelle transposition au RQEP.\nSous-tâche — migrée :\nVR-386 — Surveiller la finalisation des consultations AHA6, chlorite-chlorate et amiante. MIGRÉE vers VR-200, champ « Mois de la vigie » aligné sur Janvier 2026 (règle R8). Cette veille trimestrielle demeure nécessaire : c'est elle qui détectera la publication des recommandations finales.\n\nGrappe Santé Canada eau potable — consolidation terminée.\nDemande\nMois\nÉtat\nVR-165\nDécembre 2025\nConservée — AHA6\nVR-200\nJanvier 2026\nConservée — chlorite et chlorate · porte VR-222, VR-274 et VR-386\nVR-201\nJanvier 2026\nConservée — amiante · porte VR-223\nVR-261\nMars 2026\nFermée le 2026-08-13\nVR-379\nJuin 2026\nFermée le 2026-08-13 (la présente)\nNote d'audit — mémoires non soumis. Aucun mémoire n'a été soumis pour les trois consultations, toutes closes avant que le dossier ne soit traité. La sous-tâche VR-274 (workflow de notification 30 jours avant chaque date limite), migrée sous VR-200, constitue l'action corrective de processus destinée à éviter la répétition de cette situation.\nFermeture exécutée dans le cadre de la revue de consolidation inter-mois — 2026-08-13."
         }
       ],
       "parent_key": null,
@@ -7704,7 +7775,7 @@
       "key": "VR-382",
       "division": "Environnement",
       "summary": "** SUIVI CRITIQUE ** Finaliser l'implantation microbiologie de l'air (DR-12-SCA-08)",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Highest",
       "type": "Sous-tâche",
       "subtask": true,
@@ -7760,7 +7831,7 @@
       "key": "VR-384",
       "division": "Environnement",
       "summary": "Documenter la fin de la consultation arsenic et surveiller la publication finale",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Low",
       "type": "Sous-tâche",
       "subtask": true,
@@ -7821,7 +7892,7 @@
       "type": "Sous-tâche",
       "subtask": true,
       "criticite": null,
-      "mois_vigie": "Juin 2026",
+      "mois_vigie": "Janvier 2026",
       "date_vigueur": null,
       "duedate": "2026-09-30",
       "created": "2026-07-23T09:50:53.688-0400",
@@ -7832,8 +7903,8 @@
       "description": "Mettre en place une veille trimestrielle sur la publication des recommandations finales Santé Canada (AHA6, chlorite/chlorate, amiante) et évaluer l'intégration potentielle au RQEP.\nRéférence : Santé Canada eau potable\n\nCriticité : Moyenne\n\nÉchéance : 2026-09-30\n\nResponsable proposé : Assurance qualité + Réglementation\n\nStatut : à démarrer\n\nEffort estimé : 2 heures",
       "evaluation_impact": null,
       "comments": [],
-      "parent_key": "VR-379",
-      "parent_url": "https://labenvironex.atlassian.net/browse/VR-379",
+      "parent_key": "VR-200",
+      "parent_url": "https://labenvironex.atlassian.net/browse/VR-200",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-386",
       "phase_pipeline": null,
       "quadrant": null,
@@ -7844,7 +7915,7 @@
       "key": "VR-387",
       "division": "Environnement",
       "summary": "** SUIVI CRITIQUE ** Finaliser l'implantation des champs/domaines d'accréditation (PALA)",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Highest",
       "type": "Sous-tâche",
       "subtask": true,
