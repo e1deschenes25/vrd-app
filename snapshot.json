@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T16:00:03.490Z",
+  "generatedAt": "2026-08-24T19:00:03.022Z",
   "issues": [
     {
       "key": "VR-137",
@@ -9175,6 +9175,118 @@
       "quadrant": null,
       "unite_affaires": [
         "Op-Labo"
+      ],
+      "_anomalieDivision": false
+    },
+    {
+      "key": "VR-421",
+      "division": "Environnement",
+      "summary": "Décret 1174-2026 CGMRF (Code de gestion des matières résiduelles fertilisantes)",
+      "status": "À trier",
+      "priority": "Medium",
+      "type": "VR - Décret",
+      "subtask": false,
+      "criticite": "Élevée",
+      "mois_vigie": "Juillet 2026",
+      "date_vigueur": "2026-08-13",
+      "duedate": null,
+      "created": "2026-08-24T14:11:27.850-0400",
+      "assignee": null,
+      "responsable_action": null,
+      "date_cible_resolution": null,
+      "date_completion_reelle": null,
+      "description": "N/D",
+      "evaluation_impact": "N/D",
+      "comments": [
+        {
+          "author": "Jennifer Gagné",
+          "created": "2026-08-24T14:11:28.620-0400",
+          "public": true,
+          "text": ""
+        }
+      ],
+      "parent_key": null,
+      "parent_url": null,
+      "jira_url": "https://labenvironex.atlassian.net/browse/VR-421",
+      "phase_pipeline": null,
+      "quadrant": null,
+      "unite_affaires": [
+        "Op-Labo"
+      ],
+      "_anomalieDivision": false
+    },
+    {
+      "key": "VR-422",
+      "division": "Environnement",
+      "summary": "Décret 1177-2026 REAFIE (Encadrement d'activités en fonction de leur impact sur l'environnement)",
+      "status": "À trier",
+      "priority": "Medium",
+      "type": "VR - Décret",
+      "subtask": false,
+      "criticite": "Élevée",
+      "mois_vigie": "Juillet 2026",
+      "date_vigueur": "2026-08-13",
+      "duedate": null,
+      "created": "2026-08-24T14:14:45.003-0400",
+      "assignee": null,
+      "responsable_action": null,
+      "date_cible_resolution": null,
+      "date_completion_reelle": null,
+      "description": "N/D",
+      "evaluation_impact": "N/D",
+      "comments": [
+        {
+          "author": "Jennifer Gagné",
+          "created": "2026-08-24T14:14:45.754-0400",
+          "public": true,
+          "text": ""
+        }
+      ],
+      "parent_key": null,
+      "parent_url": null,
+      "jira_url": "https://labenvironex.atlassian.net/browse/VR-422",
+      "phase_pipeline": null,
+      "quadrant": null,
+      "unite_affaires": [
+        "Op-Logistique"
+      ],
+      "_anomalieDivision": false
+    },
+    {
+      "key": "VR-423",
+      "division": "Environnement",
+      "summary": "Décret 1181-2026 RVMR (Valorisation de matières résiduelles)",
+      "status": "À trier",
+      "priority": "Medium",
+      "type": "VR - Décret",
+      "subtask": false,
+      "criticite": "Élevée",
+      "mois_vigie": "Juillet 2026",
+      "date_vigueur": "2026-08-13",
+      "duedate": null,
+      "created": "2026-08-24T14:17:47.284-0400",
+      "assignee": null,
+      "responsable_action": null,
+      "date_cible_resolution": null,
+      "date_completion_reelle": null,
+      "description": "N/D",
+      "evaluation_impact": "N/D",
+      "comments": [
+        {
+          "author": "Jennifer Gagné",
+          "created": "2026-08-24T14:17:48.125-0400",
+          "public": true,
+          "text": ""
+        }
+      ],
+      "parent_key": null,
+      "parent_url": null,
+      "jira_url": "https://labenvironex.atlassian.net/browse/VR-423",
+      "phase_pipeline": null,
+      "quadrant": null,
+      "unite_affaires": [
+        "Op-Labo",
+        "Relations clients"
       ],
       "_anomalieDivision": false
     }
