@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T16:00:03.191Z",
+  "generatedAt": "2026-08-26T19:00:02.661Z",
   "issues": [
     {
       "key": "VR-137",
@@ -6936,7 +6936,7 @@
       "key": "VR-354",
       "division": "Environnement",
       "summary": "RSCTSC – Assouplissement de l'interdiction de dépôt de sols contaminés (valorisation) (Décret 847-2026, en vigueur le 2 juillet 2026)",
-      "status": "En analyse",
+      "status": "Clôturé – sans impact",
       "priority": "Low",
       "type": "VR - Décret",
       "subtask": false,
@@ -6948,7 +6948,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-07-02",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-14",
       "description": "Décret 847-2026. Modifications au Règlement sur le stockage et les centres de transfert de sols contaminés (RSCTSC), Gazette du Québec Partie 2, n°24 du 17-06-2026, p.3186.\nAssouplir l'interdiction, pour certains cas de valorisation, de déposer des sols contaminés sur ou dans des sols dont les concentrations en contaminant sont inférieures.\nAucun impact AQ direct anticipé; impacts opérationnels à évaluer.\nSource : vigie réglementaire Mai 2026 (Environnement).",
       "evaluation_impact": "Assouplissement des règles de dépôt de sols contaminés (valorisation). Aucun impact AQ direct anticipé.",
       "comments": [
@@ -6975,6 +6975,12 @@
           "created": "2026-08-14T16:38:00.805-0400",
           "public": true,
           "text": "VÉRIFICATION DU TEXTE ADOPTÉ — 2026-08-14 — RÉSULTAT PARTIEL\nObjectif : lire le décret 847-2026 à la page 3186 de la Gazette officielle du Québec, Partie 2, n°24 du 17 juin 2026, préalable inscrit à la clôture de cette demande.\nCE QUI EST CONFIRMÉ\nRÉFÉRENCE BIBLIOGRAPHIQUE EXACTE. Le fichier officiel de la Gazette (158e année, n°24, 17 juin 2026) a été ouvert. Sa table des matières, pages 3127 à 3129, porte bien la mention « 847-2026 Stockage et centres de transfert de sols contaminés — page 3186 ». La référence inscrite à cette demande est donc juste, décret, numéro, date et page.\n\nLE RÈGLEMENT ACTUELLEMENT EN VIGUEUR NE CONTIENT NI ARTICLE 4.0.1 NI ARTICLE 4.0.2. Vérification faite sur LégisQuébec, version à jour au 1er avril 2026 : l'article 4 est suivi directement de l'article 4.1. Ceci est cohérent avec un décret créant ces deux articles et entrant en vigueur le 2 juillet 2026 — postérieurement à la dernière refonte publiée.\n\nAUCUNE MENTION DE SPFA DANS LE RÈGLEMENT EN VIGUEUR. Les substances per- et polyfluoroalkylées n'y figurent pas. Les pesticides s'y limitent au Tébuthiuron inscrit à l'annexe I. Le dernier décret modificateur au registre est le D. 756-2025. Cette lecture renforce le constat déjà consigné : la caractérisation « contrôles SPFA renforcés, exigences pesticides » portée par VR-145 ne correspond à rien dans ce corpus réglementaire.\n\nCE QUI N'A PAS PU ÊTRE OBTENU\nLe texte intégral du décret à la page 3186 n'a pas pu être extrait. Le fichier PDF de la Gazette complète est lisible jusqu'au décret 842-2026 seulement ; la portion contenant le décret 847-2026 n'a pas été restituée. LégisQuébec n'a pas encore intégré le texte (à jour au 1er avril 2026). Le site du MELCCFP n'a pas publié de version administrative du règlement modifié à ce jour.\nÉTAT DE LA PREUVE\nLa conclusion « sans impact » repose donc sur un faisceau convergent — texte du projet mis en consultation, structure d'articles du règlement en vigueur, absence de SPFA au corpus — et non sur la lecture directe du texte adopté. Le faisceau est solide mais il n'est pas une lecture.\nDÉCISION DEMANDÉE AU GESTIONNAIRE : clôturer sans impact en assumant cette réserve, ou maintenir En analyse jusqu'à lecture directe de la page 3186 par un membre de l'équipe.\nLien du document officiel pour lecture manuelle : https://www.publicationsduquebec.gouv.qc.ca/fileadmin/gazette/pdf_encrypte/gaz_entiere/2624-F.pdf — page 3186."
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-26T13:38:12.400-0400",
+          "public": true,
+          "text": "CLÔTURE SANS IMPACT — 2026-08-14 — décision du gestionnaire\nDÉCISION : Eric Deschenes, gestionnaire en conformité, a arbitré la clôture sur la base du faisceau convergent documenté au commentaire précédent, en assumant explicitement la réserve de preuve qui y est énoncée.\nBASE DE LA CONCLUSION — trois vérifications indépendantes qui convergent\nTexte du projet 86724 mis en consultation le 2025-11-19 (version administrative MELCCFP) : remplacement de l'article 4, création des articles 4.0.1 et 4.0.2, modifications de concordance aux articles 4.1, 68.7 et 73.2. Objet unique : conditions de dépôt de sols selon les seuils des annexes I et II. Aucune disposition SPFA, aucune disposition pesticides, aucune modification de seuils ou de paramètres analytiques.\n\nRéférence bibliographique validée à la source : la table des matières de la Gazette officielle du Québec P.II, 158e année n°24 du 17 juin 2026, confirme « 847-2026 Stockage et centres de transfert de sols contaminés, p. 3186 ».\n\nCorpus réglementaire en vigueur (LégisQuébec, à jour au 2026-04-01) : le RSCTSC ne comporte ni article 4.0.1 ni article 4.0.2 — cohérent avec leur création par ce décret — et ne mentionne aucune substance per- ou polyfluoroalkylée. Les pesticides s'y limitent au Tébuthiuron à l'annexe I.\n\nCONCLUSION : aucune incidence sur la portée d'accréditation, les méthodes d'analyse ou les procédures d'échantillonnage d'Eurofins. Criticité Faible confirmée. Clôture sans impact.\nRÉSERVE MAINTENUE ET ASSUMÉE\nLe texte du décret à la page 3186 n'a pas été lu directement — le fichier PDF de la Gazette complète n'a pas restitué cette portion, et LégisQuébec n'avait pas encore intégré le texte au moment de la clôture. La conclusion repose sur un faisceau, non sur une lecture du texte adopté.\nCONDITION DE RÉOUVERTURE : si la lecture ultérieure du texte adopté — notamment lors de la prochaine refonte LégisQuébec intégrant le décret — révèle des dispositions absentes du projet mis en consultation, la présente clôture est à rouvrir. Point à porter à la vigie du mois où l'intégration sera constatée.\nPISTE COMMERCIALE CONSERVÉE HORS PÉRIMÈTRE AQ : l'assouplissement suppose, pour être invoqué, une caractérisation analytique des sols source et récepteur. Opportunité de demande d'analyses à évaluer par le Service commercial. Ne constitue pas une exigence pour notre portée d'accréditation et ne justifiait pas le maintien de la demande ouverte.\nRENVOI : correction de la description erronée de VR-145 consignée sur cette demande le 2026-08-14. Constat systémique de surévaluation versé à VR-419."
         }
       ],
       "parent_key": null,
