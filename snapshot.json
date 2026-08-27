@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T13:00:02.848Z",
+  "generatedAt": "2026-08-27T16:00:03.264Z",
   "issues": [
     {
       "key": "VR-137",
@@ -9191,7 +9191,7 @@
       "key": "VR-420",
       "division": "Alimentaires",
       "summary": "Modifications à la norme NF EN 1420 (Version Avril 2026)         ",
-      "status": "À trier",
+      "status": "En analyse",
       "priority": "Medium",
       "type": "VR - Avis",
       "subtask": false,
@@ -9200,7 +9200,7 @@
       "date_vigueur": null,
       "duedate": null,
       "created": "2026-08-19T15:19:15.629-0400",
-      "assignee": null,
+      "assignee": "Eric Deschenes",
       "responsable_action": null,
       "date_cible_resolution": null,
       "date_completion_reelle": null,
