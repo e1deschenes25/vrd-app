@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T13:00:02.666Z",
+  "generatedAt": "2026-08-28T16:00:04.005Z",
   "issues": [
     {
       "key": "VR-137",
@@ -8994,10 +8994,10 @@
       "date_vigueur": null,
       "duedate": "2026-09-30",
       "created": "2026-08-12T15:06:09.566-0400",
-      "assignee": null,
-      "responsable_action": null,
+      "assignee": "Eric Deschenes",
+      "responsable_action": "Eric Deschenes",
       "date_cible_resolution": "2026-09-30",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-07-30",
       "description": "La communication officielle du 30 juillet 2026 qualifie le décret 890-2026 de « sans impact ». Cette sous-tâche existe pour produire la trace de l'évaluation, pas pour la contredire.\nPOURQUOI : pour ISO 17025, la preuve attendue est que le texte a été identifié, lu et évalué. Une conclusion « sans impact » non documentée ne se distingue pas, à l'audit, d'un texte jamais consulté.\nACTIONS\nLire le décret 890-2026 (GOQ P.II n°25 du 23 juin 2026, p. 3377).\n\nConfirmer l'absence d'incidence sur : la portée d'accréditation, les méthodes d'analyse, les procédures d'échantillonnage, les modalités de transmission des résultats.\n\nConsigner la conclusion et la date d'évaluation.\n\nFermer avec la date réelle d'évaluation en Date complétion réelle.\n\nEFFORT ESTIMÉ : 1 h. Il ne s'agit pas de refaire l'analyse réglementaire, mais de la tracer.",
       "evaluation_impact": null,
       "comments": [],
