@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T16:00:04.005Z",
+  "generatedAt": "2026-08-28T19:00:02.713Z",
   "issues": [
     {
       "key": "VR-137",
@@ -4539,6 +4539,12 @@
           "created": "2026-06-17T17:41:52.392-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Janvier 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:37:52.284-0400",
+          "public": true,
+          "text": "2026-08-28 — Maintenue ouverte, clôture suspendue.\nLa vigie réglementaire alimentaire de janvier 2026 conclut à l'absence de changement à signaler : son objet de veille est atteint. La demande n'est cependant pas clôturée, car sa seule sous-tâche, VR-296, porte une action distincte de la veille : la communication interne des résultats à l'équipe Alimentaire. Rien n'établit qu'elle a été faite (R14).\nDécision requise : VR-296 a-t-elle été réalisée ? Si oui, la fermer avec sa date réelle et clôturer la présente demande. Si non, la dater et lui désigner un responsable.\nConstat versé à VR-432."
         }
       ],
       "parent_key": null,
@@ -4555,7 +4561,7 @@
       "key": "VR-286",
       "division": "Alimentaires",
       "summary": "CCN - Lignes directrices presentation portees accreditation laboratoires V6 (publie 2026-01-29) - portee flexible non applicable",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Low",
       "type": "VR - Avis",
       "subtask": false,
@@ -4567,7 +4573,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-03-31",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-28",
       "description": "Document CCN (Conseil canadien des normes) : Lignes directrices du CCN concernant la presentation des portees d accreditation des laboratoires - VERSION 6, publiee le 29 janvier 2026. MODIFICATIONS PRINCIPALES : Inclusion du Programme des producteurs de materiaux de reference; Suppression du Bureau de normalisation du Quebec; Ajout de clarifications sur les portees FLEXIBLES. STATUT POUR EUROFINS : N/A (NON PERTINENT). JUSTIFICATION : Eurofins possede une PORTEE FIXE. Les modifications V6 sur les portees flexibles ne s appliquent pas. A documenter en SQI pour tracabilite.",
       "evaluation_impact": "Lignes directrices CCN V6 (portees flexibles) - NON PERTINENT pour Eurofins (portee fixe). A documenter en SQI pour tracabilite.",
       "comments": [
@@ -4576,6 +4582,12 @@
           "created": "2026-06-17T17:42:03.848-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Janvier 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:28:38.522-0400",
+          "public": true,
+          "text": "2026-08-28 — Clôture sans impact. Document remplacé par une version postérieure.\nLa demande porte les Lignes directrices du CCN sur la présentation des portées d'accréditation des laboratoires, version 6, publiée le 2026-01-29.\nLe CCN a publié la version 7 du même document le 2026-06-04. Elle est suivie sous VR-336, qui reste ouverte (lien Relates posé).\nSous-tâche VR-291 fermée le 2026-08-28 : elle portait la documentation de la V6 dans le SQI ; c'est la V7 qui doit y être documentée, ce que porte la sous-tâche VR-342 de VR-336."
         }
       ],
       "parent_key": null,
@@ -4592,7 +4604,7 @@
       "key": "VR-287",
       "division": "Alimentaires",
       "summary": "Documents accreditation CCN - PAL, ELD-Lab, ELD-VVMLE, Lignes directrices portees, Essais aptitude - Verifies 2026-02-16",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Low",
       "type": "VR - Avis",
       "subtask": false,
@@ -4604,7 +4616,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-03-31",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-28",
       "description": "Verification systematique des 5 documents accreditation CCN par Lahcen El Badaoui (ELBL) le 2026-02-16 : 1. PAL - Apercu V2 avril 2025 - N/A; 2. ELD-Lab V5 juin 2025 - N/A; 3. ELD-VVMLE V mai 2021 - N/A; 4. Lignes directrices portees V6 2026-01-29 - voir ticket A02; 5. Essais aptitude V5 sept 2025 - N/A. STATUT : tous documents accreditation CCN verifies. Seul document ayant change (V6 portees) juge non pertinent.",
       "evaluation_impact": "5 documents accreditation CCN verifies. Seul changement (V6 portees) juge non pertinent (portee fixe Eurofins).",
       "comments": [
@@ -4613,6 +4625,12 @@
           "created": "2026-06-17T17:42:13.826-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Janvier 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:19:08.503-0400",
+          "public": true,
+          "text": "2026-08-28 — Clôture sans impact (R11, objet atteint).\nLa demande enregistre la vérification des 5 documents d'accréditation CCN (PAL, ELD-Lab, ELD-VVMLE, Lignes directrices sur les portées, Essais d'aptitude) faite le 2026-02-16, sans changement retenu. Aucune action de conformité n'y est rattachée.\nSous-tâche VR-292 fermée le 2026-08-28 : la vérification du mois suivant est enregistrée sous VR-298 (documents vérifiés le 2026-03-24)."
         }
       ],
       "parent_key": null,
@@ -4629,7 +4647,7 @@
       "key": "VR-288",
       "division": "Alimentaires",
       "summary": "Lois, reglements, methodes alimentaires (25+ documents verifies 2026-02-16) - Aucun changement pertinent",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Low",
       "type": "VR - Avis",
       "subtask": false,
@@ -4641,7 +4659,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-03-31",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-28",
       "description": "Verification systematique des lois, reglements et methodes alimentaires/agricoles par ELBL le 2026-02-16. Inclut : Methodes Compendium Sante Canada, USDA MLG (4.15 V15 / 41.09 V09), AOAC (2002.11 / 2014.05 / 2015.13), BAX System STEC, Neogen Petrifilm, BNQ 3660-950, NF EN 1420-1, NF EN 1622. Lois : ACIA, aliments betail, RAD (DORS/2025-65 NON EN VIGUEUR drogues), salubrite aliments, sante animaux, semences, protection vegetaux, Listeria L/PAM. CONCLUSION : 25+ documents verifies, AUCUN CHANGEMENT PERTINENT pour activites Eurofins en janvier 2026.",
       "evaluation_impact": "25+ documents alimentaires verifies sans changement. Note DORS/2025-65 (RAD) non en vigueur (drogues).",
       "comments": [
@@ -4650,6 +4668,12 @@
           "created": "2026-06-17T17:42:28.074-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Janvier 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:19:13.232-0400",
+          "public": true,
+          "text": "2026-08-28 — Clôture sans impact (R11, objet atteint).\nLa demande enregistre la vérification du corpus alimentaire (25+ lois, règlements et méthodes) faite le 2026-02-16, sans changement pertinent. Aucune action de conformité n'y est rattachée.\nSous-tâche VR-293 fermée le 2026-08-28 : la vérification du mois suivant est enregistrée sous VR-299 (documents vérifiés le 2026-03-24)."
         }
       ],
       "parent_key": null,
@@ -4688,6 +4712,12 @@
           "created": "2026-06-17T17:42:41.367-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Janvier 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:38:07.828-0400",
+          "public": true,
+          "text": "2026-08-28 — Maintenue ouverte, qualification en attente de décision.\nFait : l'obligation d'étiquetage nutritionnel sur le devant de l'emballage (FOP) est en vigueur depuis le 2026-01-01. L'objet de veille réglementaire est donc atteint.\nCe qui subsiste est la sous-tâche VR-294, une évaluation de business case commercial (analyses de gras saturés, sucres et sodium). Cet objet a été relancé chaque mois depuis janvier — VR-302 (février), VR-313 (mars), VR-324 (avril), VR-339 (mai) — sans avancée traçable. Les tickets de relance de février à avril sont clôturés ce jour comme doublons vers VR-339 ; la relance active est VR-345.\nDécision requise : ce business case relève-t-il de la vigie réglementaire ou du développement commercial ? S'il relève du développement commercial, la présente demande peut être clôturée et l'objet sorti du périmètre VR.\nConstat versé à VR-432."
         }
       ],
       "parent_key": null,
@@ -4727,6 +4757,12 @@
           "created": "2026-06-17T17:42:53.109-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Janvier 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:38:14.377-0400",
+          "public": true,
+          "text": "2026-08-28 — Maintenue ouverte, qualification en attente de décision.\nFait : la période de transition du Titre 29 du Règlement sur les aliments et drogues (aliments supplémentés) s'est terminée le 2025-12-31 ; les exigences sont en vigueur depuis le 2026-01-01. L'objet de veille réglementaire est donc atteint.\nCe qui subsiste est la sous-tâche VR-295, une évaluation de business case commercial (analyses de vitamines et minéraux). Même mécanisme de relance mensuelle que VR-289, sans avancée traçable ; la relance active est VR-345, sous VR-339.\nDécision requise : ce business case relève-t-il de la vigie réglementaire ou du développement commercial ?\nConstat versé à VR-432."
         }
       ],
       "parent_key": null,
@@ -4744,7 +4780,7 @@
       "key": "VR-291",
       "division": "Alimentaires",
       "summary": "Documenter Version 6 CCN dans SQI (tracabilite version)",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Low",
       "type": "Sous-tâche",
       "subtask": true,
@@ -4759,7 +4795,14 @@
       "date_completion_reelle": null,
       "description": "Mettre a jour reference Version 6 CCN dans le systeme qualite interne (SQI). Confirmer formellement que les modifications V6 (portees flexibles) ne s appliquent pas a Eurofins (portee fixe). Responsable : Assurance qualite (LELB). Effort estime : 2h.",
       "evaluation_impact": null,
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:28:24.774-0400",
+          "public": true,
+          "text": "2026-08-28 — Fermeture. Objet de la sous-tâche : documenter dans le SQI la version 6 des Lignes directrices CCN sur la présentation des portées d'accréditation, publiée le 2026-01-29.\nFait : le CCN a publié la version 7 du même document le 2026-06-04 (VR-336). La version à documenter dans le SQI est la V7, non la V6. L'action est portée par la sous-tâche VR-342, qui reste ouverte."
+        }
+      ],
       "parent_key": "VR-286",
       "parent_url": "https://labenvironex.atlassian.net/browse/VR-286",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-291",
@@ -4772,7 +4815,7 @@
       "key": "VR-292",
       "division": "Alimentaires",
       "summary": "Verification mensuelle prochaine - planifier veille fev 2026 (5 documents CCN)",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Low",
       "type": "Sous-tâche",
       "subtask": true,
@@ -4787,7 +4830,14 @@
       "date_completion_reelle": null,
       "description": "Planifier prochaine verification mensuelle des 5 documents CCN. Maintenir suivi statu quo. Responsable : Assurance qualite (LELB). Effort estime : 1h.",
       "evaluation_impact": null,
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:17:38.314-0400",
+          "public": true,
+          "text": "2026-08-28 — Fermeture. Objet de la sous-tâche : planifier la veille de février 2026 sur les 5 documents d'accréditation CCN. La vérification a eu lieu : elle est enregistrée sous VR-298 (PAL, ELD-Lab, ELD-VVMLE, Lignes directrices V6 portées, Essais d'aptitude — vérifiés le 2026-03-24). L'objet est atteint."
+        }
+      ],
       "parent_key": "VR-287",
       "parent_url": "https://labenvironex.atlassian.net/browse/VR-287",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-292",
@@ -4800,7 +4850,7 @@
       "key": "VR-293",
       "division": "Alimentaires",
       "summary": "Verification mensuelle prochaine - 25+ docs alimentaires (lois, reglements, methodes)",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Low",
       "type": "Sous-tâche",
       "subtask": true,
@@ -4815,7 +4865,14 @@
       "date_completion_reelle": null,
       "description": "Planifier prochaine verification mensuelle des 25+ lois/reglements/methodes alimentaires. Surveiller mises a jour RAD (DORS/2025-65 publie 19 dec 2025). Responsable : Assurance qualite (LELB). Effort estime : 2-3h.",
       "evaluation_impact": null,
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:17:44.932-0400",
+          "public": true,
+          "text": "2026-08-28 — Fermeture. Objet de la sous-tâche : vérification mensuelle suivante du corpus alimentaire (25+ lois, règlements et méthodes). La vérification a eu lieu : elle est enregistrée sous VR-299 (documents vérifiés le 2026-03-24, aucun changement pertinent). L'objet est atteint."
+        }
+      ],
       "parent_key": "VR-288",
       "parent_url": "https://labenvironex.atlassian.net/browse/VR-288",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-293",
@@ -4912,7 +4969,7 @@
       "key": "VR-297",
       "division": "Alimentaires",
       "summary": "Vigie reglementaire alimentaire fevrier 2026 - Communication Lahcen El Badaoui : RIEN A SIGNALER",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Low",
       "type": "VR - Avis",
       "subtask": false,
@@ -4924,7 +4981,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-04-30",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-28",
       "description": "VIGIE MENSUELLE - Division Alimentaire. Communication officielle Lahcen El Badaoui (Coordonnateur AQ, Eurofins Essais Alimentaires Quebec) envoyee le 24 mars 2026. CONCLUSION OFFICIELLE : il n y a eu AUCUN changement pertinent, pour nos activites, au niveau des documents consultes en fevrier 2026. 5 documents accreditation CCN et 25+ lois/reglements/methodes alimentaires verifies - tous marques NA. Date verification : 2026-03-24.",
       "evaluation_impact": "Aucun changement reglementaire pertinent en fevrier 2026 pour les activites alimentaires.",
       "comments": [
@@ -4933,6 +4990,12 @@
           "created": "2026-06-17T17:50:24.836-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Février 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:19:17.865-0400",
+          "public": true,
+          "text": "2026-08-28 — Clôture sans impact (R11, objet atteint).\nLa vigie réglementaire alimentaire de février 2026 conclut à l'absence de changement à signaler. Aucune action de conformité n'y est rattachée.\nSous-tâche VR-307 fermée le 2026-08-28 : la vérification de mars 2026 est enregistrée sous VR-310 (documents CCN) et VR-311 (corpus alimentaire), tous deux vérifiés le 2026-04-17."
         }
       ],
       "parent_key": null,
@@ -4949,7 +5012,7 @@
       "key": "VR-298",
       "division": "Alimentaires",
       "summary": "Documents accreditation CCN - PAL, ELD-Lab, ELD-VVMLE, Lignes directrices V6 portees, Essais aptitude - Verifies 2026-03-24",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Low",
       "type": "VR - Avis",
       "subtask": false,
@@ -4961,7 +5024,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-04-30",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-28",
       "description": "Verification systematique des 5 documents accreditation CCN par ELBL le 2026-03-24 : 1. PAL Apercu (V2 avril 2025) - N/A; 2. ELD-Lab Accreditation laboratoires essais (V5 juin 2025) - N/A; 3. ELD-VVMLE Verification/validation methodes (V mai 2021) - N/A; 4. Lignes directrices portees accreditation V6 (29 jan 2026) - N/A (deja documente VR-ALI-JAN-A02); 5. ELD Essais aptitude (V5 sept 2025) - N/A. STATUT : tous documents CCN verifies, AUCUN CHANGEMENT depuis janvier 2026.",
       "evaluation_impact": "5 documents accreditation CCN verifies. Aucun changement depuis janvier 2026.",
       "comments": [
@@ -4970,6 +5033,12 @@
           "created": "2026-06-17T17:50:34.976-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Février 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:19:23.024-0400",
+          "public": true,
+          "text": "2026-08-28 — Clôture sans impact (R11, objet atteint).\nLa demande enregistre la vérification des 5 documents d'accréditation CCN (PAL, ELD-Lab, ELD-VVMLE, Lignes directrices V6 sur les portées, Essais d'aptitude) faite le 2026-03-24, sans changement retenu. Aucune sous-tâche, aucune action de conformité rattachée.\nLa vérification du mois suivant est enregistrée sous VR-310 (documents vérifiés le 2026-04-17)."
         }
       ],
       "parent_key": null,
@@ -4986,7 +5055,7 @@
       "key": "VR-299",
       "division": "Alimentaires",
       "summary": "Lois, reglements, methodes alimentaires (25+ documents verifies 2026-03-24) - Aucun changement pertinent",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Low",
       "type": "VR - Avis",
       "subtask": false,
@@ -4998,7 +5067,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-04-30",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-28",
       "description": "Verification systematique des 25+ lois/reglements/methodes alimentaires/agricoles par ELBL le 2026-03-24. METHODES : Compendium Sante Canada, USDA Microbio Lab Guidebook, AOAC, BAX STEC, Petrifilm, BNQ 3660-950, NF EN 1420/1622. LOIS/REGLEMENTS : Loi/Reglement ACIA, aliments betail, RAD (mod. 19 dec 2025), emballage/etiquetage, engrais, protection vegetaux, salubrite aliments, sante animaux, semences, graines mauvaises herbes, Politique Listeria. CONCLUSION : aucun changement pertinent pour activites Eurofins en fevrier 2026.",
       "evaluation_impact": "25+ documents alimentaires verifies sans changement.",
       "comments": [
@@ -5007,6 +5076,12 @@
           "created": "2026-06-17T17:50:46.347-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Février 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:19:27.419-0400",
+          "public": true,
+          "text": "2026-08-28 — Clôture sans impact (R11, objet atteint).\nLa demande enregistre la vérification du corpus alimentaire (25+ lois, règlements et méthodes) faite le 2026-03-24, sans changement pertinent. Aucune sous-tâche, aucune action de conformité rattachée.\nLa vérification du mois suivant est enregistrée sous VR-311 (documents vérifiés le 2026-04-17)."
         }
       ],
       "parent_key": null,
@@ -5045,6 +5120,12 @@
           "created": "2026-06-17T17:50:59.622-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Février 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:37:59.805-0400",
+          "public": true,
+          "text": "2026-08-28 — Maintenue ouverte, clôture suspendue.\nLe Programme BPL V3 du CCN (Bonnes pratiques de laboratoire OCDE), publié le 2026-02-02, est qualifié hors périmètre Eurofins dans la description de la demande. À ce titre, R3 (informatif) conduirait à une clôture sans impact.\nLa sous-tâche VR-304 porte cependant une action de traçabilité : documenter cette veille et le motif du hors-périmètre. Rien n'établit qu'elle a été faite.\nDécision requise : la documentation de veille de VR-304 est-elle réalisée ? Si oui, fermer VR-304 et clôturer la présente demande. Si la trace n'existe pas ailleurs, la clôture peut porter cette documentation, sous validation.\nConstat versé à VR-432."
         }
       ],
       "parent_key": null,
@@ -5061,7 +5142,7 @@
       "key": "VR-301",
       "division": "Alimentaires",
       "summary": "MAPAQ Projet reglement LPTAA - Allegement autorisation CPTAQ + activites agrotouristiques (memoire 16 fev 2026)",
-      "status": "À trier",
+      "status": "Plan d'actions défini",
       "priority": "Medium",
       "type": "VR - Projet",
       "subtask": false,
@@ -5082,6 +5163,12 @@
           "created": "2026-06-17T17:51:18.628-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Février 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:36:51.515-0400",
+          "public": true,
+          "text": "2026-08-28 — Transition en « Plan d'actions défini » et report d'objet.\nFait établi : le mémoire au Conseil des ministres relatif au projet de règlement LPTAA (allègement de l'autorisation CPTAQ et activités agrotouristiques) est daté du 2026-02-16. L'édition finale était anticipée au printemps 2026.\nLimite de la vérification : la publication du texte final n'a pas été vérifiée dans la Gazette officielle du Québec, Partie 2. Aucune source officielle consultée à ce jour n'établit l'adoption.\nSuite requise : lecture de la Gazette officielle du Québec, Partie 2, pour les numéros publiés depuis avril 2026. Si le règlement est adopté, R1 s'applique : le présent projet devient caduc et une demande de type « VR - Décret » doit être créée.\nL'objet de la sous-tâche VR-331 de VR-324 (veille des publications finales LPTAA) est reporté sur la présente demande. Lien Relates posé depuis VR-339.\nSous-tâche ouverte : VR-303 (veille de la publication finale du Règlement 1.1/2 LPTAA). Non réalisée, non assignée, sans date cible. Date cible de la demande : 2026-06-30, dépassée de 59 jours."
         }
       ],
       "parent_key": null,
@@ -5099,7 +5186,7 @@
       "key": "VR-302",
       "division": "Alimentaires",
       "summary": "SUIVI CONTINUITES JANVIER - Etiquetage FOP + Aliments supplementes (Titre 29 RAD) - en vigueur depuis 1er jan 2026",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Medium",
       "type": "VR - Avis",
       "subtask": false,
@@ -5111,7 +5198,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-04-30",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-28",
       "description": "Ticket de SUIVI CONTINU des 2 obligations reglementaires entrees en vigueur 1er janvier 2026 (voir VR-ALI-JAN-A05 et VR-ALI-JAN-A06). (1) ETIQUETAGE NUTRITIONNEL FRONT-OF-PACKAGE (FOP) : Symbole nutritionnel obligatoire sur le devant des emballages pour produits preemballes a teneur elevee en gras satures, sucres ou sodium. ACIA = organisme application. En vigueur depuis 1er jan 2026. STATUT : opportunite commerciale identifiee (analyses gras satures, sucres, sodium pour validation etiquetage clients) - suivi business case en cours. (2) ALIMENTS SUPPLEMENTES (Titre 29 RAD) : Periode transition terminee 31 dec 2025. Exigences entierement en vigueur depuis 1er jan 2026. STATUT : opportunite commerciale identifiee (analyses verification vitamines, mineraux, contaminants) - suivi business case en cours. AUCUN NOUVEAU CHANGEMENT en fevrier 2026 - mais maintien en suivi pour business cases commerciaux.",
       "evaluation_impact": "Suivi continu 2 obligations en vigueur 1er jan 2026 : FOP + aliments supplementes. Opportunites commerciales identifiees - business cases en cours.",
       "comments": [
@@ -5120,6 +5207,12 @@
           "created": "2026-06-17T17:51:31.840-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Février 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:31:36.174-0400",
+          "public": true,
+          "text": "2026-08-28 — Clôture pour doublon de suivi (R2, R12). Lien Relates posé vers VR-339.\nCette demande de février 2026 suit deux objets : l'étiquetage nutritionnel FOP et les aliments supplémentés (Titre 29 RAD). Les deux sont repris intégralement dans VR-339 (mai 2026), qui consolide en outre le CCN PAL V3, les méthodes MFLP-42 et MFLP-119 et les projets MAPAQ. VR-339 reste ouverte et porte le suivi.\nLes tickets d'origine des deux objets restent ouverts : VR-289 (FOP) et VR-290 (aliments supplémentés).\nSous-tâches VR-305 et VR-306 fermées le 2026-08-28."
         }
       ],
       "parent_key": null,
@@ -5208,7 +5301,7 @@
       "key": "VR-305",
       "division": "Alimentaires",
       "summary": "Suivi avancement business case analyses FOP (gras satures/sucres/sodium)",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Medium",
       "type": "Sous-tâche",
       "subtask": true,
@@ -5229,6 +5322,12 @@
           "created": "2026-06-17T17:52:02.193-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Février 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:30:38.387-0400",
+          "public": true,
+          "text": "2026-08-28 — Fermeture pour doublon de suivi. L'objet — suivi du business case des analyses nutritionnelles FOP — est porté par VR-345 (« RELANCE CRITIQUE — business cases FOP + aliments supplémentés »), sous-tâche de VR-339, qui reste ouverte. Le ticket d'origine de l'objet est VR-289 (sous-tâche VR-294)."
         }
       ],
       "parent_key": "VR-302",
@@ -5243,7 +5342,7 @@
       "key": "VR-306",
       "division": "Alimentaires",
       "summary": "Suivi avancement business case analyses aliments supplementes",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Medium",
       "type": "Sous-tâche",
       "subtask": true,
@@ -5264,6 +5363,12 @@
           "created": "2026-06-17T17:52:06.008-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Février 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:30:49.104-0400",
+          "public": true,
+          "text": "2026-08-28 — Fermeture pour doublon de suivi. L'objet — suivi du business case des analyses d'aliments supplémentés — est porté par VR-345, sous-tâche de VR-339, qui reste ouverte. Le ticket d'origine de l'objet est VR-290 (sous-tâche VR-295)."
         }
       ],
       "parent_key": "VR-302",
@@ -5278,7 +5383,7 @@
       "key": "VR-307",
       "division": "Alimentaires",
       "summary": "Verification mensuelle mars 2026 (5 docs CCN + 25+ docs alimentaires)",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Low",
       "type": "Sous-tâche",
       "subtask": true,
@@ -5299,6 +5404,12 @@
           "created": "2026-06-17T17:52:09.271-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Février 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:17:49.957-0400",
+          "public": true,
+          "text": "2026-08-28 — Fermeture. Objet de la sous-tâche : vérification mensuelle de mars 2026 (5 documents CCN + 25+ documents alimentaires). La vérification a eu lieu : elle est enregistrée sous VR-310 (documents CCN vérifiés le 2026-04-17) et VR-311 (corpus alimentaire vérifié le 2026-04-17, aucun changement pertinent). L'objet est atteint."
         }
       ],
       "parent_key": "VR-297",
@@ -5313,7 +5424,7 @@
       "key": "VR-308",
       "division": "Alimentaires",
       "summary": "Vigie reglementaire alimentaire mars 2026 - 1 changement non pertinent (BNQ 3660-950)",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Low",
       "type": "VR - Avis",
       "subtask": false,
@@ -5325,7 +5436,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-05-31",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-28",
       "description": "VIGIE MENSUELLE - Division Alimentaire. Communication officielle Lahcen El Badaoui (Coordonnateur AQ Eurofins Essais Alimentaires Quebec) envoyee le 17 avril 2026. CONCLUSION OFFICIELLE : il y a eu UN SEUL CHANGEMENT IMPERTINENT et qui touche une methode du departement des analyses de biens de consommation. CHANGEMENT IDENTIFIE : BNQ 3660-950 R 2026-03-24 (Innocuite des produits et materiaux en contact avec eau potable) - voir VR-ALI-MARS-A02. 5 documents accreditation CCN et 25+ lois/reglements/methodes alimentaires verifies au 2026-04-17 - tous marques NA (sauf BNQ 3660-950).",
       "evaluation_impact": "Vigie mensuelle - 1 seul changement (BNQ 3660-950 R 2026-03-24) juge non pertinent.",
       "comments": [
@@ -5334,6 +5445,12 @@
           "created": "2026-06-17T17:53:37.693-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Mars 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:19:33.158-0400",
+          "public": true,
+          "text": "2026-08-28 — Clôture sans impact (R11, objet atteint).\nLa vigie réglementaire alimentaire de mars 2026 relève un seul changement, la norme BNQ 3660-950 R du 2026-03-24, qualifié de non pertinent. Ce changement est instruit séparément sous VR-309, qui reste ouverte.\nSous-tâche VR-318 fermée le 2026-08-28 : la vérification d'avril 2026 est enregistrée sous VR-322 (documents CCN) et VR-323 (corpus alimentaire), tous deux vérifiés le 2026-05-11."
         }
       ],
       "parent_key": null,
@@ -5350,7 +5467,7 @@
       "key": "VR-309",
       "division": "Alimentaires",
       "summary": "BNQ 3660-950 R 2026-03-24 - Innocuite produits/materiaux contact eau potable - Reintegration editoriale M1+M2",
-      "status": "À trier",
+      "status": "Plan d'actions défini",
       "priority": "Low",
       "type": "VR - Avis",
       "subtask": false,
@@ -5371,6 +5488,12 @@
           "created": "2026-06-17T17:53:52.339-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Mars 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:34:58.324-0400",
+          "public": true,
+          "text": "2026-08-28 — Transition en « Plan d'actions défini » (R14 : la demande porte une sous-tâche d'action non réalisée).\nObjet : norme BNQ 3660-950 R du 2026-03-24, innocuité des produits et matériaux en contact avec l'eau potable — réintégration éditoriale des modificatifs M1 et M2 dans le corps du document.\nLe changement est éditorial : la vigie de mars (VR-308) l'a qualifié de non pertinent. La sous-tâche VR-314 porte néanmoins une action réelle : la documentation de cette réintégration dans le SQI. Elle est ouverte, non assignée et sans date cible.\nLa date cible de la demande parente est le 2026-05-31, dépassée de 89 jours."
         }
       ],
       "parent_key": null,
@@ -5388,7 +5511,7 @@
       "key": "VR-310",
       "division": "Alimentaires",
       "summary": "Documents accreditation CCN - PAL, ELD-Lab, ELD-VVMLE, Lignes directrices V6 portees, Essais aptitude - Verifies 2026-04-17",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Low",
       "type": "VR - Avis",
       "subtask": false,
@@ -5400,7 +5523,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-05-31",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-28",
       "description": "Verification systematique des 5 documents accreditation CCN par ELBL le 2026-04-17 : 1. PAL Apercu (V2 avril 2025) - N/A; 2. ELD-Lab Accreditation laboratoires essais (V5 juin 2025) - N/A; 3. ELD-VVMLE Verification/validation methodes (V mai 2021) - N/A; 4. Lignes directrices portees accreditation V6 (29 jan 2026) - N/A; 5. ELD Essais aptitude (V5 sept 2025) - N/A. STATUT : tous documents CCN verifies, AUCUN CHANGEMENT en mars 2026.",
       "evaluation_impact": "5 documents accreditation CCN verifies. Aucun changement en mars 2026.",
       "comments": [
@@ -5409,6 +5532,12 @@
           "created": "2026-06-17T17:54:03.346-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Mars 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:19:37.242-0400",
+          "public": true,
+          "text": "2026-08-28 — Clôture sans impact (R11, objet atteint).\nLa demande enregistre la vérification des 5 documents d'accréditation CCN faite le 2026-04-17, sans changement retenu. Aucune sous-tâche, aucune action de conformité rattachée.\nLa vérification du mois suivant est enregistrée sous VR-322 (documents vérifiés le 2026-05-11)."
         }
       ],
       "parent_key": null,
@@ -5425,7 +5554,7 @@
       "key": "VR-311",
       "division": "Alimentaires",
       "summary": "Lois, reglements, methodes alimentaires (25+ documents verifies 2026-04-17) - Aucun changement pertinent",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Low",
       "type": "VR - Avis",
       "subtask": false,
@@ -5437,7 +5566,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-05-31",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-28",
       "description": "Verification systematique des 25+ lois/reglements/methodes alimentaires/agricoles par ELBL le 2026-04-17. METHODES : Compendium Sante Canada, USDA Microbio Lab Guidebook, AOAC, BAX STEC, Petrifilm, BNQ 3660-950 (voir VR-ALI-MARS-A02 - reintegration editoriale), NF EN 1420/1622. LOIS/REGLEMENTS : Loi/Reglement ACIA, aliments betail, RAD (mod. 19 dec 2025), emballage/etiquetage, engrais, protection vegetaux, salubrite aliments, sante animaux, semences, graines mauvaises herbes, Politique Listeria. CONCLUSION : aucun changement pertinent pour activites Eurofins en mars 2026.",
       "evaluation_impact": "25+ documents alimentaires verifies sans changement.",
       "comments": [
@@ -5446,6 +5575,12 @@
           "created": "2026-06-17T17:54:15.128-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Mars 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:19:41.516-0400",
+          "public": true,
+          "text": "2026-08-28 — Clôture sans impact (R11, objet atteint).\nLa demande enregistre la vérification du corpus alimentaire (25+ lois, règlements et méthodes) faite le 2026-04-17, sans changement pertinent. Aucune sous-tâche, aucune action de conformité rattachée.\nLa vérification du mois suivant est enregistrée sous VR-323 (documents vérifiés le 2026-05-11)."
         }
       ],
       "parent_key": null,
@@ -5463,7 +5598,7 @@
       "key": "VR-312",
       "division": "Alimentaires",
       "summary": "MAPAQ Projet reglement modifiant Reglement sur les aliments (P-29 r.1) - Abattoirs de proximite (consultation 4 fev - 21 mars 2026)",
-      "status": "À trier",
+      "status": "Plan d'actions défini",
       "priority": "Medium",
       "type": "VR - Projet",
       "subtask": false,
@@ -5484,6 +5619,12 @@
           "created": "2026-06-17T17:54:34.698-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Mars 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:36:31.251-0400",
+          "public": true,
+          "text": "2026-08-28 — Vérification de l'état du projet et transition en « Plan d'actions défini ».\nFaits établis\nLa consultation publique sur le projet de règlement modifiant le Règlement sur les aliments (P-29, r. 1) pour les abattoirs de proximité s'est close le 2026-03-21.\n\nLe texte consolidé de P-29, r. 1 publié sur LégisQuébec porte la mention « à jour au 1er avril 2026 » et ne contient aucune disposition sur les abattoirs de proximité. Seule modification de 2026 recensée à l'historique : L.Q. 2025, c. 8.\n\nLimite de la vérification\nLa Gazette officielle du Québec, Partie 2, n'a pas été consultée. Un article de presse daté du 2026-07-01 fait état d'un assouplissement de l'abattage de volailles au Québec, ce qui suggère une adoption, mais cette adoption n'est pas établie par une source officielle. Le texte consolidé de LégisQuébec accuse un décalage de consolidation qui ne permet pas de conclure.\nSuite requise : lecture de la Gazette officielle du Québec, Partie 2, pour les numéros publiés entre le 2026-04-01 et ce jour. Si le décret est adopté, R1 s'applique : le présent projet devient caduc et une demande de type « VR - Décret » doit être créée pour le porter.\nSous-tâches ouvertes : VR-315 (évaluation d'impact, business case petits abattoirs) et VR-316 (veille de la publication finale). Non réalisées, non assignées, sans date cible.\nL'objet de la sous-tâche VR-331 de VR-324 (veille des publications finales) est reporté sur la présente demande. Lien Relates posé depuis VR-339.\nDate cible de la demande : 2026-06-30, dépassée de 59 jours."
         }
       ],
       "parent_key": null,
@@ -5502,7 +5643,7 @@
       "key": "VR-313",
       "division": "Alimentaires",
       "summary": "SUIVI CONTINUITES - FOP (jan 2026) + Aliments supplementes (jan 2026) + MAPAQ LPTAA (memoire fev 2026)",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Medium",
       "type": "VR - Avis",
       "subtask": false,
@@ -5514,7 +5655,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-05-31",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-28",
       "description": "Ticket de SUIVI CONTINU des obligations/projets identifies les mois precedents. (1) ETIQUETAGE FOP (en vigueur 1er jan 2026) - VR-ALI-JAN-A05 : Opportunite commerciale identifiee, business case Service Commercial en cours. (2) ALIMENTS SUPPLEMENTES Titre 29 RAD (en vigueur 1er jan 2026) - VR-ALI-JAN-A06 : Opportunite commerciale identifiee, business case Service Commercial en cours. (3) MAPAQ Projet reglement LPTAA (memoire 2026-0015/0016 du 16 fev 2026) - VR-ALI-FEV-A05 : Allegement administratif CPTAQ + activites agrotouristiques. Edition prevue printemps 2026. Impact indirect via clients agricoles. AUCUN NOUVEAU CHANGEMENT en mars 2026 - mais maintien des suivis.",
       "evaluation_impact": "Suivi continu 3 dossiers : FOP + aliments supplementes (deja en vigueur) + MAPAQ LPTAA (edition prevue printemps 2026).",
       "comments": [
@@ -5523,6 +5664,12 @@
           "created": "2026-06-17T17:54:49.761-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Mars 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:32:16.118-0400",
+          "public": true,
+          "text": "2026-08-28 — Clôture pour doublon de suivi (R2, R12). Lien Relates posé vers VR-339.\nCette demande de mars 2026 suit trois objets : étiquetage FOP, aliments supplémentés et projet MAPAQ LPTAA. Les trois sont repris dans VR-339 (mai 2026), qui reste ouverte et porte le suivi consolidé. Le suivi de la publication finale du projet LPTAA est en outre rattaché à VR-301, qui reste ouverte.\nSous-tâche VR-317 fermée le 2026-08-28."
         }
       ],
       "parent_key": null,
@@ -5645,7 +5792,7 @@
       "key": "VR-317",
       "division": "Alimentaires",
       "summary": "Suivi continu business cases FOP + aliments supplementes",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Medium",
       "type": "Sous-tâche",
       "subtask": true,
@@ -5666,6 +5813,12 @@
           "created": "2026-06-17T17:55:21.612-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Mars 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:30:58.834-0400",
+          "public": true,
+          "text": "2026-08-28 — Fermeture pour doublon de suivi. L'objet — suivi continu des business cases FOP et aliments supplémentés — est porté par VR-345, sous-tâche de VR-339, qui reste ouverte."
         }
       ],
       "parent_key": "VR-313",
@@ -5680,7 +5833,7 @@
       "key": "VR-318",
       "division": "Alimentaires",
       "summary": "Verification mensuelle avril 2026 (5 docs CCN + 25+ docs alimentaires)",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Low",
       "type": "Sous-tâche",
       "subtask": true,
@@ -5701,6 +5854,12 @@
           "created": "2026-06-17T17:55:25.718-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Mars 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:17:54.367-0400",
+          "public": true,
+          "text": "2026-08-28 — Fermeture. Objet de la sous-tâche : vérification mensuelle d'avril 2026 (5 documents CCN + 25+ documents alimentaires). La vérification a eu lieu : elle est enregistrée sous VR-322 (documents CCN vérifiés le 2026-05-11) et VR-323 (corpus alimentaire vérifié le 2026-05-11, aucun changement pertinent). L'objet est atteint."
         }
       ],
       "parent_key": "VR-308",
@@ -5715,7 +5874,7 @@
       "key": "VR-319",
       "division": "Alimentaires",
       "summary": "CHANGEMENT OFFICIEL - CCN Programme accreditation laboratoires essais et etalonnage PAL Apercu V3 (22 avril 2026)",
-      "status": "À trier",
+      "status": "Plan d'actions défini",
       "priority": "Medium",
       "type": "VR - Avis",
       "subtask": false,
@@ -5736,6 +5895,12 @@
           "created": "2026-06-17T18:01:10.136-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Avril 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:34:01.419-0400",
+          "public": true,
+          "text": "2026-08-28 — Transition en « Plan d'actions défini » (R14 : la demande porte des sous-tâches d'action non réalisées).\nObjet : CCN, Programme d'accréditation des laboratoires d'essais et d'étalonnage (PAL), Aperçu V3 du 2026-04-22. Criticité Élevée.\nSous-tâches ouvertes : VR-326 (analyse d'impact du PAL V3 sur Eurofins, marquée PRIORITAIRE) et VR-327 (documentation des changements dans le SQI). Aucune n'est réalisée ni assignée ; aucune ne porte de date cible de résolution.\nPoints restant à trancher, non documentés dans Jira à ce jour : le responsable des deux sous-tâches et leur date cible. La date cible de la demande parente est le 2026-06-30, dépassée de 59 jours."
         }
       ],
       "parent_key": null,
@@ -5753,7 +5918,7 @@
       "key": "VR-320",
       "division": "Alimentaires",
       "summary": "CHANGEMENT OFFICIEL - Methode MFLP-42 (Compendium Sante Canada) - Mise a jour Groupe Bacillus cereus",
-      "status": "À trier",
+      "status": "Plan d'actions défini",
       "priority": "Medium",
       "type": "VR - Avis",
       "subtask": false,
@@ -5774,6 +5939,12 @@
           "created": "2026-06-17T18:01:23.874-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Avril 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:34:20.044-0400",
+          "public": true,
+          "text": "2026-08-28 — Transition en « Plan d'actions défini » (R14 : la demande porte une sous-tâche d'action non réalisée).\nObjet : méthode MFLP-42 du Compendium de Santé Canada, mise à jour du groupe Bacillus cereus. Criticité Élevée.\nSous-tâche ouverte : VR-328 (implémentation de la mise à jour), marquée PRIORITAIRE. Non réalisée, non assignée, sans date cible.\nPoints restant à trancher, non documentés dans Jira : le responsable et la date cible de VR-328. La date cible de la demande parente est le 2026-06-30, dépassée de 59 jours."
         }
       ],
       "parent_key": null,
@@ -5791,7 +5962,7 @@
       "key": "VR-321",
       "division": "Alimentaires",
       "summary": "NOUVELLE METHODE - MFLP-119 STEC E. coli shigatoxigene par PCR + CHAS (Sante Canada) - OPPORTUNITE",
-      "status": "À trier",
+      "status": "Plan d'actions défini",
       "priority": "Medium",
       "type": "VR - Avis",
       "subtask": false,
@@ -5812,6 +5983,12 @@
           "created": "2026-06-17T18:01:34.906-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Avril 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:34:39.501-0400",
+          "public": true,
+          "text": "2026-08-28 — Transition en « Plan d'actions défini » (R14 : la demande porte une sous-tâche d'action non réalisée).\nObjet : nouvelle méthode MFLP-119 du Compendium de Santé Canada — détection des E. coli shigatoxigènes (STEC) par PCR et CHAS.\nSous-tâche ouverte : VR-329 (décision d'implémentation). Non réalisée, non assignée, sans date cible.\nPoint restant à trancher : la décision d'implémenter ou non la méthode, et le responsable de cette décision. La date cible de la demande parente est le 2026-07-31, dépassée de 28 jours."
         }
       ],
       "parent_key": null,
@@ -5830,7 +6007,7 @@
       "key": "VR-322",
       "division": "Alimentaires",
       "summary": "Autres documents accreditation CCN - ELD-Lab, ELD-VVMLE, Lignes directrices V6 portees, Essais aptitude - Verifies 2026-05-11",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Medium",
       "type": "VR - Avis",
       "subtask": false,
@@ -5842,7 +6019,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-06-30",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-28",
       "description": "Verification des 4 autres documents accreditation CCN (hors PAL V3 deja documente) par ELBL le 2026-05-11 : (1) ELD-Lab Accreditation laboratoires essais (V5 juin 2025) - N/A; (2) ELD-VVMLE Verification/validation methodes (V mai 2021) - N/A; (3) Lignes directrices portees accreditation V6 (29 jan 2026) - N/A; (4) ELD Essais aptitude (V5 sept 2025) - N/A. NOTE : Selon CCN PAL V3 (VR-ALI-AVR-A02), bulletins distincts seront publies pour ces ELD incluant applicabilite aux laboratoires etalonnage. Surveiller publications futures.",
       "evaluation_impact": "4 autres documents CCN verifies. Aucun changement en avril 2026.",
       "comments": [
@@ -5851,6 +6028,12 @@
           "created": "2026-06-17T18:01:46.398-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Avril 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:19:46.564-0400",
+          "public": true,
+          "text": "2026-08-28 — Clôture sans impact (R11, objet atteint).\nLa demande enregistre la vérification des documents d'accréditation CCN restants (ELD-Lab, ELD-VVMLE, Lignes directrices V6 sur les portées, Essais d'aptitude) faite le 2026-05-11, sans changement retenu. Aucune sous-tâche, aucune action de conformité rattachée.\nLa vérification du mois suivant est enregistrée sous VR-337 (documents vérifiés le 2026-06-15)."
         }
       ],
       "parent_key": null,
@@ -5867,7 +6050,7 @@
       "key": "VR-323",
       "division": "Alimentaires",
       "summary": "Lois, reglements, autres methodes alimentaires (25+ documents verifies 2026-05-11) - Aucun changement pertinent",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Medium",
       "type": "VR - Avis",
       "subtask": false,
@@ -5879,7 +6062,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-06-30",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-28",
       "description": "Verification systematique des 25+ lois/reglements/methodes alimentaires/agricoles par ELBL le 2026-05-11 (hors changements MFLP-42/MFLP-119 deja documentes). AUTRES METHODES VERIFIEES : USDA Microbio Lab Guidebook, AOAC, BAX STEC, Petrifilm, BNQ 3660-950 (R 2026-03-24), NF EN 1420/1622. LOIS/REGLEMENTS VERIFIES : Loi/Reglement ACIA, aliments betail, RAD, emballage/etiquetage, engrais, protection vegetaux, salubrite aliments (DORS-2018-108 mise a jour 28 avril 2026 - N/A), sante animaux, semences, Politique Listeria. CONCLUSION : aucun changement pertinent (autre que MFLP-42/MFLP-119) en avril 2026.",
       "evaluation_impact": "25+ documents alimentaires verifies sans changement (hors MFLP-42/MFLP-119).",
       "comments": [
@@ -5888,6 +6071,12 @@
           "created": "2026-06-17T18:01:58.453-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Avril 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:19:51.444-0400",
+          "public": true,
+          "text": "2026-08-28 — Clôture sans impact (R11, objet atteint).\nLa demande enregistre la vérification du corpus alimentaire (25+ lois, règlements et autres méthodes) faite le 2026-05-11, sans changement pertinent. Aucune sous-tâche, aucune action de conformité rattachée.\nLa vérification du mois suivant est enregistrée sous VR-338 (documents vérifiés le 2026-06-15)."
         }
       ],
       "parent_key": null,
@@ -5905,7 +6094,7 @@
       "key": "VR-324",
       "division": "Alimentaires",
       "summary": "SUIVI CONTINUITES - FOP + Aliments supplementes + MAPAQ LPTAA + MAPAQ Abattoirs proximite",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Medium",
       "type": "VR - Avis",
       "subtask": false,
@@ -5917,7 +6106,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-06-30",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-28",
       "description": "Ticket de SUIVI CONTINU des obligations/projets identifies les mois precedents. (1) ETIQUETAGE FOP (en vigueur 1er jan 2026) - VR-ALI-JAN-A05 : Opportunite commerciale identifiee, business case Service Commercial - 4 mois en cours sans publication de resultats. Relance prioritaire requise. (2) ALIMENTS SUPPLEMENTES Titre 29 RAD (en vigueur 1er jan 2026) - VR-ALI-JAN-A06 : Opportunite commerciale identifiee, business case Service Commercial - meme statut. (3) MAPAQ Projet reglement LPTAA (memoire 2026-0015/0016 du 16 fev 2026) - VR-ALI-FEV-A05 : Edition prevue printemps 2026 - veille publication finale. (4) MAPAQ Projet reglement abattoirs proximite (publie 4 fev 2026, consultation close 21 mars 2026) - VR-ALI-MARS-A05 : Opportunite commerciale identifiee - veille publication finale (printemps/ete 2026 anticipe). Aucun nouveau changement en avril 2026 - maintien des suivis.",
       "evaluation_impact": "Suivi continu 4 dossiers ouverts. 2 business cases en cours (FOP + aliments supplementes) et 2 projets MAPAQ a surveiller pour publication finale (LPTAA + abattoirs proximite).",
       "comments": [
@@ -5926,6 +6115,12 @@
           "created": "2026-06-17T18:02:13.371-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Avril 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:33:05.145-0400",
+          "public": true,
+          "text": "2026-08-28 — Clôture pour doublon de suivi (R2, R12). Lien Relates posé vers VR-339.\nCette demande d'avril 2026 suit quatre objets : étiquetage FOP, aliments supplémentés, projet MAPAQ LPTAA et projet MAPAQ sur les abattoirs de proximité. Tous sont repris dans VR-339 (mai 2026), qui reste ouverte et porte le suivi consolidé.\nLe suivi des publications finales des deux projets MAPAQ est rattaché aux demandes qui les instruisent : VR-301 (LPTAA) et VR-312 (abattoirs de proximité), toutes deux ouvertes.\nSous-tâches VR-330 et VR-331 fermées le 2026-08-28."
         }
       ],
       "parent_key": null,
@@ -5943,7 +6138,7 @@
       "key": "VR-325",
       "division": "Alimentaires",
       "summary": "Vigie reglementaire alimentaire avril 2026 - 2 CHANGEMENTS PERTINENTS identifies par Lahcen El Badaoui",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Medium",
       "type": "VR - Avis",
       "subtask": false,
@@ -5955,7 +6150,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-06-30",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-28",
       "description": "VIGIE MENSUELLE - Division Alimentaire. Communication officielle Lahcen El Badaoui (Coordonnateur AQ Eurofins Essais Alimentaires Quebec) envoyee le 12 mai 2026. CONCLUSION OFFICIELLE : il y a eu DEUX CHANGEMENTS PERTINENTS pour nos activites au niveau des documents consultes. CHANGEMENT 1 - Document CCN : Programme accreditation laboratoires essais et etalonnage (PAL) V3 (22 avril 2026) - voir VR-319. CHANGEMENT 2 - Methode laboratoire microbiologie alimentaire : Compendium Sante Canada - mises a jour MFLP-42 + nouvelle methode MFLP-119 - voir VR-320 et VR-321. Autres documents (4 docs CCN restants + 25+ lois/reglements alimentaires) verifies au 2026-05-11 - tous marques NA.",
       "evaluation_impact": "Vigie mensuelle - 2 changements pertinents identifies (CCN PAL V3 + methodes Compendium Sante Canada).",
       "comments": [
@@ -5964,6 +6159,12 @@
           "created": "2026-06-17T18:02:39.687-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Avril 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:19:57.776-0400",
+          "public": true,
+          "text": "2026-08-28 — Clôture sans impact (R11, objet atteint).\nLa vigie réglementaire alimentaire d'avril 2026 identifie deux changements pertinents. Ils sont instruits séparément et restent ouverts : VR-319 (CCN Programme d'accréditation PAL, Aperçu V3 du 2026-04-22) et VR-320 (méthode MFLP-42, groupe Bacillus cereus). S'y ajoute VR-321 (méthode MFLP-119, STEC par PCR + CHAS), également ouverte.\nSous-tâche VR-332 fermée le 2026-08-28 : la vérification de mai 2026 est enregistrée sous VR-337 et VR-338, tous deux vérifiés le 2026-06-15."
         }
       ],
       "parent_key": null,
@@ -6093,7 +6294,7 @@
       "key": "VR-330",
       "division": "Alimentaires",
       "summary": "** RELANCE PRIORITAIRE ** Business cases FOP + aliments supplementes (4 mois en cours)",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Medium",
       "type": "Sous-tâche",
       "subtask": true,
@@ -6108,7 +6309,14 @@
       "date_completion_reelle": null,
       "description": "RELANCE PRIORITAIRE - business cases identifies en janvier 2026 (FOP + aliments supplementes Titre 29 RAD). 4 mois sans publication resultats. Reunion decisionnelle Service Commercial requise.",
       "evaluation_impact": null,
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:31:10.217-0400",
+          "public": true,
+          "text": "2026-08-28 — Fermeture pour doublon de suivi. L'objet — relance des business cases FOP et aliments supplémentés — est porté par VR-345, sous-tâche de VR-339, qui reste ouverte."
+        }
+      ],
       "parent_key": "VR-324",
       "parent_url": "https://labenvironex.atlassian.net/browse/VR-324",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-330",
@@ -6121,7 +6329,7 @@
       "key": "VR-331",
       "division": "Alimentaires",
       "summary": "Veille publications finales LPTAA + abattoirs proximite",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Medium",
       "type": "Sous-tâche",
       "subtask": true,
@@ -6136,7 +6344,14 @@
       "date_completion_reelle": null,
       "description": "Surveiller publication finale 2 projets MAPAQ : (1) LPTAA Reglements 1.1 et 2 (memoire fev 2026); (2) Abattoirs proximite (consultation close 21 mars 2026). Edition anticipee printemps/ete 2026.",
       "evaluation_impact": null,
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:31:22.409-0400",
+          "public": true,
+          "text": "2026-08-28 — Fermeture avec report d'objet. L'objet — veille des publications finales du projet LPTAA et du projet sur les abattoirs de proximité — est reporté sur les deux demandes qui instruisent ces projets et qui restent ouvertes : VR-301 (projet de règlement LPTAA, mémoire déposé le 2026-02-16) et VR-312 (projet modifiant le Règlement sur les aliments, P-29 r.1, consultation close le 2026-03-21). Un lien Relates a été posé de VR-339 vers chacune des deux."
+        }
+      ],
       "parent_key": "VR-324",
       "parent_url": "https://labenvironex.atlassian.net/browse/VR-324",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-331",
@@ -6149,7 +6364,7 @@
       "key": "VR-332",
       "division": "Alimentaires",
       "summary": "Verification mensuelle mai 2026 (5 docs CCN + 25+ docs alimentaires)",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Medium",
       "type": "Sous-tâche",
       "subtask": true,
@@ -6164,7 +6379,14 @@
       "date_completion_reelle": null,
       "description": "Planifier prochaine verification mensuelle (mai 2026). Suivre bulletins CCN publies pour ELD (suite PAL V3) + publications finales MAPAQ.",
       "evaluation_impact": null,
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:17:58.709-0400",
+          "public": true,
+          "text": "2026-08-28 — Fermeture. Objet de la sous-tâche : vérification mensuelle de mai 2026 (5 documents CCN + 25+ documents alimentaires). La vérification a eu lieu : elle est enregistrée sous VR-337 (PAL V3 et ELD-VVMLE vérifiés le 2026-06-15) et VR-338 (corpus alimentaire vérifié le 2026-06-15, aucun changement pertinent). L'objet est atteint."
+        }
+      ],
       "parent_key": "VR-325",
       "parent_url": "https://labenvironex.atlassian.net/browse/VR-325",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-332",
@@ -6177,7 +6399,7 @@
       "key": "VR-333",
       "division": "Alimentaires",
       "summary": "Vigie reglementaire alimentaire mai 2026 - 3 changements officiels CCN juges NON PERTINENTS par Lahcen El Badaoui",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Medium",
       "type": "VR - Avis",
       "subtask": false,
@@ -6189,7 +6411,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-07-31",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-28",
       "description": "VIGIE MENSUELLE - Division Alimentaire. Communication officielle Lahcen El Badaoui envoyee le 15 juin 2026. CONCLUSION OFFICIELLE : il y a eu TROIS CHANGEMENTS IMPERTINENTS pour nos activites au niveau des documents consultes en mai 2026. CHANGEMENTS IDENTIFIES (tous CCN) : (1) CCN ELD-Lab V6 (21 mai 2026) - voir VR-ALI-MAI-A02; (2) CCN ELD Essais d aptitude V7 (21 mai 2026) - voir VR-ALI-MAI-A03; (3) CCN Lignes directrices portees V7 (4 juin 2026) - voir VR-ALI-MAI-A04. JUSTIFICATION NON-PERTINENCE : les 3 modifications concernent principalement les LABORATOIRES D ETALONNAGE (Eurofins = labo d ESSAIS microbiologie alimentaire, hors perimetre direct) et la transition organisationnelle ILAC + IAF -> Global ACI. Autres documents (2 docs CCN restants + 25+ lois/reglements alimentaires) verifies au 2026-06-15 - tous marques NA.",
       "evaluation_impact": "Vigie mensuelle - 3 changements officiels CCN juges NON PERTINENTS (labos etalonnage + transition Global ACI).",
       "comments": [
@@ -6198,6 +6420,12 @@
           "created": "2026-06-17T18:05:17.934-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Mai 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:20:04.052-0400",
+          "public": true,
+          "text": "2026-08-28 — Clôture sans impact (R11, objet atteint).\nLa vigie réglementaire alimentaire de mai 2026 relève trois changements officiels du CCN et les qualifie de non pertinents.\nFait à signaler : ces trois mêmes changements sont instruits sous VR-334 (ELD-Lab V6 du 2026-05-21), VR-335 (ELD Essais d'aptitude V7 du 2026-05-21) et VR-336 (Lignes directrices sur les portées V7 du 2026-06-04), chacune assortie d'une sous-tâche de documentation SQI encore ouverte. La qualification portée à la vigie et le traitement effectivement engagé divergent. Ce constat est versé au ticket d'amélioration continue de la division.\nSous-tâche VR-346 fermée le 2026-08-28 : la vérification de juin 2026 est enregistrée sous VR-388."
         }
       ],
       "parent_key": null,
@@ -6214,7 +6442,7 @@
       "key": "VR-334",
       "division": "Alimentaires",
       "summary": "CCN ELD-Lab V6 (21 mai 2026) - Transition ILAC/IAF vers Global ACI + retrait exigences laboratoires etalonnage",
-      "status": "À trier",
+      "status": "Plan d'actions défini",
       "priority": "Medium",
       "type": "VR - Avis",
       "subtask": false,
@@ -6235,6 +6463,12 @@
           "created": "2026-06-17T18:05:28.789-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Mai 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:35:16.778-0400",
+          "public": true,
+          "text": "2026-08-28 — Transition en « Plan d'actions défini » (R14 : la demande porte une sous-tâche d'action non réalisée).\nObjet : CCN, Exigences et lignes directrices pour l'accréditation des laboratoires d'essais (ELD-Lab), version 6 du 2026-05-21 — transition ILAC/IAF vers Global ACI et retrait des exigences propres aux laboratoires d'étalonnage.\nSous-tâche ouverte : VR-340 (documentation dans le SQI). Non réalisée, non assignée, sans date cible.\nFait à signaler : la vigie de mai (VR-333) a qualifié ce changement de non pertinent, au motif qu'il vise les laboratoires d'étalonnage. La sous-tâche de documentation SQI reste néanmoins ouverte. Ce constat est versé au ticket d'amélioration continue de la division.\nLa date cible de la demande parente est le 2026-07-31, dépassée de 28 jours."
         }
       ],
       "parent_key": null,
@@ -6251,7 +6485,7 @@
       "key": "VR-335",
       "division": "Alimentaires",
       "summary": "CCN ELD Essais aptitude V7 (21 mai 2026) - Ajout exigences etalonnage + incertitude mesure section 5.5 + Global ACI",
-      "status": "À trier",
+      "status": "Plan d'actions défini",
       "priority": "Medium",
       "type": "VR - Avis",
       "subtask": false,
@@ -6272,6 +6506,12 @@
           "created": "2026-06-17T18:05:38.174-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Mai 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:35:34.554-0400",
+          "public": true,
+          "text": "2026-08-28 — Transition en « Plan d'actions défini » (R14 : la demande porte une sous-tâche d'action non réalisée).\nObjet : CCN, Exigences et lignes directrices — Essais d'aptitude, version 7 du 2026-05-21 — ajout d'exigences d'étalonnage et d'incertitude de mesure à la section 5.5, transition Global ACI.\nSous-tâche ouverte : VR-341 (documentation dans le SQI des exigences de la section 5.5). Non réalisée, non assignée, sans date cible.\nLa date cible de la demande parente est le 2026-07-31, dépassée de 28 jours."
         }
       ],
       "parent_key": null,
@@ -6288,7 +6528,7 @@
       "key": "VR-336",
       "division": "Alimentaires",
       "summary": "CCN Lignes directrices portees accreditation V7 (4 juin 2026) - Ajout laboratoires etalonnage + suppression CNRC-CLAS",
-      "status": "À trier",
+      "status": "Plan d'actions défini",
       "priority": "Medium",
       "type": "VR - Avis",
       "subtask": false,
@@ -6309,6 +6549,12 @@
           "created": "2026-06-17T18:05:48.568-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Mai 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:35:53.895-0400",
+          "public": true,
+          "text": "2026-08-28 — Transition en « Plan d'actions défini » (R14 : la demande porte une sous-tâche d'action non réalisée).\nObjet : CCN, Lignes directrices sur la présentation des portées d'accréditation des laboratoires, version 7 du 2026-06-04 — ajout des laboratoires d'étalonnage, suppression du partenaire CNRC-CLAS.\nCette version 7 remplace la version 6 du 2026-01-29, suivie sous VR-286. VR-286 est clôturée le 2026-08-28 avec renvoi vers la présente demande (lien Relates posé). La sous-tâche VR-291, qui portait la documentation de la V6 dans le SQI, est fermée : c'est la V7 qui doit y être documentée.\nSous-tâche ouverte : VR-342 (documentation SQI de la V7, continuation de la V6). Non réalisée, non assignée, sans date cible.\nLa date cible de la demande parente est le 2026-07-31, dépassée de 28 jours."
         }
       ],
       "parent_key": null,
@@ -6325,7 +6571,7 @@
       "key": "VR-337",
       "division": "Alimentaires",
       "summary": "Autres documents accreditation CCN (PAL V3 + ELD-VVMLE) verifies au 2026-06-15 - Aucun nouveau changement",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Medium",
       "type": "VR - Avis",
       "subtask": false,
@@ -6337,7 +6583,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-07-31",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-28",
       "description": "Verification des 2 autres documents accreditation CCN par ELBL le 2026-06-15 (hors les 3 documents modifies en mai 2026 deja documentes) : 1. PAL Apercu programme V3 (22 avril 2026) - STATUT OUVERT depuis avril (voir VR-ALI-AVR-A02 = VR-319); 2. ELD-VVMLE Verification/validation methodes (V mai 2021) - N/A. STATUT : 5 documents CCN au total - 3 modifies en mai (non pertinents), 1 ouvert depuis avril (PAL V3), 1 inchange (ELD-VVMLE).",
       "evaluation_impact": "2 autres documents CCN verifies. PAL V3 toujours OUVERT (continuite avril). ELD-VVMLE inchange.",
       "comments": [
@@ -6346,6 +6592,12 @@
           "created": "2026-06-17T18:05:58.438-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Mai 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:20:09.279-0400",
+          "public": true,
+          "text": "2026-08-28 — Clôture sans impact (R11, objet atteint).\nLa demande enregistre la vérification des documents d'accréditation CCN restants (PAL V3 et ELD-VVMLE) faite le 2026-06-15, sans nouveau changement. Aucune sous-tâche, aucune action de conformité rattachée.\nLa vérification du mois suivant est enregistrée sous VR-388 (vigie Alimentaire de juin 2026, volet CCN)."
         }
       ],
       "parent_key": null,
@@ -6362,7 +6614,7 @@
       "key": "VR-338",
       "division": "Alimentaires",
       "summary": "Lois, reglements, methodes alimentaires (25+ documents verifies 2026-06-15) - Aucun changement pertinent",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Medium",
       "type": "VR - Avis",
       "subtask": false,
@@ -6374,7 +6626,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-07-31",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-28",
       "description": "Verification systematique des 25+ lois/reglements/methodes alimentaires/agricoles par ELBL le 2026-06-15. METHODES : Compendium Sante Canada (MFLP-42/MFLP-119 deja documentes), USDA Microbio Lab Guidebook, AOAC, BAX STEC, Petrifilm, BNQ 3660-950 (R 2026-03-24 deja documente), NF EN 1420/1622. LOIS/REGLEMENTS : Loi/Reglement ACIA, aliments betail, RAD, emballage/etiquetage, engrais, protection vegetaux, salubrite aliments, sante animaux, semences, graines mauvaises herbes, Politique Listeria. CONCLUSION : aucun NOUVEAU changement pertinent en mai 2026.",
       "evaluation_impact": "25+ documents alimentaires verifies sans nouveau changement en mai 2026.",
       "comments": [
@@ -6383,6 +6635,12 @@
           "created": "2026-06-17T18:06:10.768-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Mai 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:20:13.777-0400",
+          "public": true,
+          "text": "2026-08-28 — Clôture sans impact (R11, objet atteint).\nLa demande enregistre la vérification du corpus alimentaire (25+ lois, règlements et méthodes) faite le 2026-06-15, sans changement pertinent. Aucune sous-tâche, aucune action de conformité rattachée.\nLa vérification du mois suivant est enregistrée sous VR-388 (vigie Alimentaire de juin 2026, volet corpus lois et méthodes)."
         }
       ],
       "parent_key": null,
@@ -6400,7 +6658,7 @@
       "key": "VR-339",
       "division": "Alimentaires",
       "summary": "SUIVI CONTINUITES - CCN PAL V3 + MFLP-42 + MFLP-119 + FOP + Aliments supplementes + MAPAQ projets",
-      "status": "En analyse",
+      "status": "Plan d'actions défini",
       "priority": "Medium",
       "type": "VR - Avis",
       "subtask": false,
@@ -6421,6 +6679,12 @@
           "created": "2026-06-17T18:06:24.935-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Mai 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:30:30.195-0400",
+          "public": true,
+          "text": "2026-08-28 — Consolidation de la chaîne de suivi Alimentaire (R2 doublon, R12 hiérarchie des types).\nFait : un ticket « SUIVI CONTINUITÉS » a été recréé chaque mois, chacun englobant le précédent — VR-302 (février : FOP + aliments supplémentés), VR-313 (mars : + LPTAA), VR-324 (avril : + abattoirs de proximité), VR-339 (mai : + PAL V3, MFLP-42, MFLP-119). VR-339 est le plus récent et couvre tous les objets des trois précédents.\nVR-302, VR-313 et VR-324 sont clôturés comme doublons de suivi, avec lien Relates vers la présente demande. Leurs sous-tâches VR-305, VR-306, VR-317, VR-330 et VR-331 sont fermées.\nReport explicite de l'objet de VR-331 (« Veille publications finales LPTAA + abattoirs de proximité ») : ce suivi est porté par les deux demandes qui instruisent ces projets, VR-301 (projet LPTAA, mémoire du 2026-02-16) et VR-312 (projet abattoirs de proximité, P-29 r.1, consultation close le 2026-03-21), toutes deux ouvertes et liées à la présente demande.\nObjets restant suivis sous VR-339 : CCN PAL V3 (VR-319), méthode MFLP-42 (VR-320), méthode MFLP-119 (VR-321), business cases FOP (VR-289) et aliments supplémentés (VR-290), projets MAPAQ (VR-301, VR-312)."
         }
       ],
       "parent_key": null,
@@ -6607,7 +6871,7 @@
       "key": "VR-346",
       "division": "Alimentaires",
       "summary": "Verification mensuelle juin 2026",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Medium",
       "type": "Sous-tâche",
       "subtask": true,
@@ -6622,7 +6886,14 @@
       "date_completion_reelle": null,
       "description": "Planifier prochaine verification mensuelle (juin 2026). Suivre publications MAPAQ printemps + nouveaux bulletins CCN.",
       "evaluation_impact": null,
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:18:04.451-0400",
+          "public": true,
+          "text": "2026-08-28 — Fermeture. Objet de la sous-tâche : vérification mensuelle de juin 2026. La vérification a eu lieu : elle est enregistrée sous VR-388 (vigie Alimentaire de juin 2026 — statu quo, général + CCN + corpus lois et méthodes). L'objet est atteint.\nLimite de la vérification : la chaîne s'arrête à juin. Aucune demande de vigie Alimentaire n'existe pour juillet ni pour août 2026. Ce constat est versé au ticket d'amélioration continue de la division."
+        }
+      ],
       "parent_key": "VR-333",
       "parent_url": "https://labenvironex.atlassian.net/browse/VR-333",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-346",
@@ -8170,7 +8441,7 @@
       "key": "VR-388",
       "division": "Alimentaires",
       "summary": "Vigie réglementaire Alimentaire – Juin 2026 – STATU QUO (aucun changement pertinent : général + CCN + corpus lois/méthodes)",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Low",
       "type": "VR - Avis",
       "subtask": false,
@@ -8182,7 +8453,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-08-31",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-28",
       "description": "VIGIE MENSUELLE – Division Alimentaire (Eurofins Essais Alimentaires Québec). Source : communication officielle de Lahcen El Badaoui (LELB, Coordonnateur AQ Alimentaire) reçue le 2026-07-03. Vérification systématique effectuée le 2026-07-03.\nTicket consolidé regroupant les 3 volets de la vigie du mois – aucun changement pertinent pour les activités Eurofins (mois statu quo, valeur de preuve d'audit) :\n1. Vigie réglementaire générale alimentaire\nAucun changement pertinent relevé au niveau des documents consultés pour le secteur alimentaire.\n2. Documents d'accréditation CCN-SCC (5 documents – tous inchangés / NA)\nPAL – Aperçu du programme (V3, 2026-04-22)\n\nELD-Lab – Accréditation des laboratoires d'essais (V6, 2026-05-21)\n\nELD-VVMLE – Vérification et validation des méthodes (2021-05-24)\n\nLignes directrices sur la présentation des portées d'accréditation (V7, 2026-06-04)\n\nEssais d'aptitude (laboratoires d'essais, d'étalonnage et médicaux) (V7, 2026-05-21)\n\nLes changements de ces documents avaient été traités lors des vigies précédentes; ils sont ici re-vérifiés et confirmés stables.\n3. Corpus lois, règlements et méthodes – produits alimentaires et agricoles (25+ documents – tous NA)\nCompendium Santé Canada (analyse microbiologique des aliments), USDA Microbiology Laboratory Guidebook, AOAC OMA online, Loi ACIA, Loi/Règlement aliments du bétail, Règlement aliments et drogues, Loi/Règlement emballage-étiquetage produits de consommation, Loi/Règlement engrais, Règlement protection obtentions végétales, Loi/Règlement protection des végétaux, Loi salubrité aliments Canada, Règlement salubrité aliments, Loi santé des animaux, Règlement couvoirs, Règlement santé animaux, Loi/Règlement semences, Arrêté graines de mauvaises herbes, Politique Listeria monocytogenes (aliments prêts-à-manger), BAX System Real-Time PCR STEC, Neogen Petrifilm Enterobacteriaceae, BNQ 3660-950, NF EN 1420, NF EN 1622.\nAucun changement pertinent. Statu quo complet pour les activités Eurofins Alimentaire.\nRapporteur d'origine (source AQ) : Lahcen El Badaoui.\nSource : vigie réglementaire Juin 2026 (Alimentaire).",
       "evaluation_impact": "Vigie mensuelle Alimentaire - aucun changement pertinent (général, CCN, corpus lois/méthodes). Statu quo complet. Ticket de preuve d'audit.",
       "comments": [
@@ -8191,6 +8462,12 @@
           "created": "2026-07-23T10:08:31.772-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Juin 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:29:20.478-0400",
+          "public": true,
+          "text": "2026-08-28 — Clôture sans impact (R11, objet atteint).\nLa vigie réglementaire Alimentaire de juin 2026 conclut au statu quo sur les trois volets vérifiés : vigie générale, documents d'accréditation CCN, corpus des lois et méthodes. Aucun changement pertinent retenu, aucune sous-tâche, aucune action de conformité rattachée. La demande est clôturée avant son échéance du 2026-08-31.\nLimite de la vérification : cette demande est la dernière de la chaîne mensuelle Alimentaire. Aucune demande de vigie n'existe pour juillet ni pour août 2026. Ce constat est versé au ticket d'amélioration continue de la division."
         }
       ],
       "parent_key": null,
@@ -9212,6 +9489,12 @@
           "created": "2026-08-19T15:19:16.359-0400",
           "public": true,
           "text": ""
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T13:38:21.622-0400",
+          "public": true,
+          "text": "2026-08-28 — Demande non instruite, laissée au statut « En analyse ».\nÉtat constaté : aucune date cible de résolution, aucune sous-tâche, aucune analyse d'impact. C'est la seule demande de la division Alimentaires dont le champ « Date cible résolution » est vide.\nAucune date n'est posée ici : aucun fait documenté dans la demande n'en établit une (R16). La demande ne peut pas non plus être transitée en « Plan d'actions défini » puisqu'elle ne porte aucune action.\nDécision requise : porteur de l'analyse de la norme NF EN 1420 (version avril 2026) et échéance. Constat versé à VR-432."
         }
       ],
       "parent_key": null,
@@ -9555,6 +9838,34 @@
       "parent_key": "VR-206",
       "parent_url": "https://labenvironex.atlassian.net/browse/VR-206",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-431",
+      "phase_pipeline": null,
+      "quadrant": null,
+      "unite_affaires": [],
+      "_anomalieDivision": false
+    },
+    {
+      "key": "VR-432",
+      "division": "Alimentaires",
+      "summary": "AMÉLIORATION CONTINUE — Dispositif de vigie réglementaire Alimentaires : instruction, datation, responsables et continuité de la chaîne mensuelle",
+      "status": "Plan d'actions défini",
+      "priority": "Medium",
+      "type": "VR - Avis",
+      "subtask": false,
+      "criticite": "Élevée",
+      "mois_vigie": "Août 2026",
+      "date_vigueur": null,
+      "duedate": null,
+      "created": "2026-08-28T13:37:32.124-0400",
+      "assignee": null,
+      "responsable_action": null,
+      "date_cible_resolution": "2026-12-31",
+      "date_completion_reelle": null,
+      "description": "Demande d'amélioration continue ouverte le 2026-08-28 à l'issue de la revue complète du portefeuille Alimentaires (34 demandes parentes, 30 sous-tâches). Équivalent, pour la division Alimentaires, de la demande VR-419 côté Environnement.\nLes constats ci-dessous sont des faits mesurés sur l'état du projet VR au 2026-08-28. Ils ne se corrigent pas demande par demande.\nA1 — Aucune sous-tâche ne porte de date cible de résolution\n30 sous-tâches sur 30 ont le champ « Date cible résolution » vide. Aucune échéance opérationnelle n'est donc mesurable au niveau où le travail se fait. À titre de comparaison, la division Environnement porte 43 dates cibles sur 83 sous-tâches ouvertes.\nA2 — Aucune sous-tâche n'est assignée\n30 sur 30. Aucun responsable n'est désigné dans Jira, alors que plusieurs descriptions de sous-tâches nomment un responsable en texte libre (« Responsable : Assurance qualité (LELB) »). L'information existe mais n'est pas portée par le champ Assigné.\nA3 — Aucune demande n'avait été transitée depuis sa création\nAu 2026-08-28, avant la présente revue : 32 demandes sur 34 étaient au statut « À trier », 2 en « En analyse », 0 en « Plan d'actions défini », 0 clôturée. Le portefeuille avait été alimenté mais jamais instruit.\nA4 — La chaîne de vigie mensuelle s'interrompt après juin 2026\nLa dernière demande de vigie mensuelle Alimentaire est VR-388 (juin 2026, reçue le 2026-07-03). Aucune demande de vigie n'existe pour juillet 2026 ni pour août 2026. VR-420 (norme NF EN 1420) porte un objet particulier, pas la vigie du mois.\nA5 — Le business case FOP / aliments supplémentés est relancé chaque mois sans avancée traçable\nObjets ouverts depuis janvier 2026 (VR-289, VR-290). Relancés en février (VR-302), mars (VR-313), avril (VR-324), mai (VR-339). La sous-tâche VR-345 porte la mention « RELANCE CRITIQUE — 5 MOIS en cours ». Aucune trace de décision ni de résultat.\nA6 — La qualification portée à la vigie diverge du traitement engagé\nLa vigie de mai 2026 (VR-333) qualifie de « non pertinents » les trois changements CCN du mois, au motif qu'ils visent les laboratoires d'étalonnage. Ces trois mêmes changements sont pourtant instruits sous VR-334, VR-335 et VR-336, chacun assorti d'une sous-tâche de documentation SQI ouverte. Même nature de constat que celui porté à VR-419 sur la colonne « Statut » de la vigie Environnement.\nA7 — Aucune date de complétion réelle n'était renseignée\n34 demandes sur 34 avaient le champ « Date complétion réelle » vide avant la présente revue.\nA8 — 32 demandes sur 34 étaient à échéance dépassée\nDe 28 jours (vigie de mai) à 150 jours (vigie de janvier), au 2026-08-28.\nDécisions en attente, à trancher hors Jira\nQui porte les sous-tâches Alimentaires ? Les descriptions nomment « Assurance qualité (LELB) » ; le champ Assigné reste vide sur les 30 sous-tâches.\n\nLe business case FOP / aliments supplémentés relève-t-il de la vigie réglementaire ou du développement commercial ? L'obligation réglementaire est en vigueur depuis le 2026-01-01 : de ce point de vue l'objet de vigie est atteint. Ce qui subsiste est une opportunité commerciale. Sort de VR-289, VR-290, VR-294, VR-295.\n\nLes vérifications documentaires de juillet et d'août 2026 ont-elles eu lieu ? Si oui, elles ne sont pas enregistrées dans Jira (A4).\n\nVR-296 (communication interne des résultats de la vigie de janvier) a-t-elle été faite ? Elle conditionne la clôture de VR-285.\n\nVR-420 (norme NF EN 1420, version avril 2026) : aucune date cible, aucune sous-tâche, aucune analyse. Porteur et échéance à désigner.",
+      "evaluation_impact": null,
+      "comments": [],
+      "parent_key": null,
+      "parent_url": null,
+      "jira_url": "https://labenvironex.atlassian.net/browse/VR-432",
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
