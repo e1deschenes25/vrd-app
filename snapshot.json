@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T19:00:02.713Z",
+  "generatedAt": "2026-08-28T20:01:44.426Z",
   "issues": [
     {
       "key": "VR-137",
@@ -4518,7 +4518,7 @@
       "key": "VR-285",
       "division": "Alimentaires",
       "summary": "Vigie reglementaire alimentaire janvier 2026 - Communication Lahcen El Badaoui : RIEN A SIGNALER",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Low",
       "type": "VR - Avis",
       "subtask": false,
@@ -4530,7 +4530,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-03-31",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-28",
       "description": "VIGIE MENSUELLE - Division Alimentaire. Communication officielle Lahcen El Badaoui (Coordonnateur AQ, Eurofins Essais Alimentaires Quebec) envoyee le 16 fevrier 2026. CONCLUSION OFFICIELLE : AUCUN changement pertinent pour nos activites en janvier 2026. SEUL CHANGEMENT IDENTIFIE : Lignes directrices du CCN V6 (publiees 2026-01-29) - voir ticket A02. JUSTIFICATION NON-PERTINENCE : Eurofins possede une portee FIXE et non flexible - les modifications portees flexibles ne touchent pas nos activites.",
       "evaluation_impact": "Aucun changement reglementaire pertinent en janvier 2026 pour les activites alimentaires.",
       "comments": [
@@ -4545,6 +4545,12 @@
           "created": "2026-08-28T13:37:52.284-0400",
           "public": true,
           "text": "2026-08-28 — Maintenue ouverte, clôture suspendue.\nLa vigie réglementaire alimentaire de janvier 2026 conclut à l'absence de changement à signaler : son objet de veille est atteint. La demande n'est cependant pas clôturée, car sa seule sous-tâche, VR-296, porte une action distincte de la veille : la communication interne des résultats à l'équipe Alimentaire. Rien n'établit qu'elle a été faite (R14).\nDécision requise : VR-296 a-t-elle été réalisée ? Si oui, la fermer avec sa date réelle et clôturer la présente demande. Si non, la dater et lui désigner un responsable.\nConstat versé à VR-432."
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T15:32:13.633-0400",
+          "public": true,
+          "text": "2026-08-28 — Clôture sans impact (R11, objet atteint).\nLa vigie réglementaire alimentaire de janvier 2026 conclut à l'absence de changement à signaler.\nSa sous-tâche VR-296 (communication interne des résultats à l'équipe Alimentaire) est fermée le 2026-08-28 : la communication a été faite par courriel de Lahcen El Badaoui, coordonnateur AQ, le 2026-02-16. Ce courriel constitue la preuve de réalisation. Le point qui suspendait la clôture est donc levé."
         }
       ],
       "parent_key": null,
@@ -4691,7 +4697,7 @@
       "key": "VR-289",
       "division": "Alimentaires",
       "summary": "AJOUT VEILLE - Etiquetage nutritionnel FRONT-OF-PACKAGE (FOP) - Obligation en vigueur 1er janvier 2026",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Medium",
       "type": "VR - Avis",
       "subtask": false,
@@ -4703,7 +4709,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-04-30",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-28",
       "description": "AJOUTE suite a veille proactive Sante Canada / ACIA. Symbole nutritionnel sur le DEVANT des emballages OBLIGATOIRE pour produits preemballes avec niveaux ELEVES en Gras satures, Sucres, Sodium. ORIGINE : Modification RAD publiee juin 2022. PERIODE TRANSITION terminee 1er janvier 2026. IMPACT EUROFINS POTENTIEL : INDIRECT - Eurofins effectue les analyses (gras satures, sucres, sodium) qui alimentent les declarations nutritionnelles des clients. Potentiellement HAUSSE de demande clients pour valider leurs etiquettes. A documenter pour Service Commercial et offres analytiques.",
       "evaluation_impact": "Etiquetage FOP en vigueur 1er jan 2026. Impact INDIRECT Eurofins - hausse anticipee demandes analyses gras satures, sucres, sodium pour validation etiquetage clients.",
       "comments": [
@@ -4718,6 +4724,12 @@
           "created": "2026-08-28T13:38:07.828-0400",
           "public": true,
           "text": "2026-08-28 — Maintenue ouverte, qualification en attente de décision.\nFait : l'obligation d'étiquetage nutritionnel sur le devant de l'emballage (FOP) est en vigueur depuis le 2026-01-01. L'objet de veille réglementaire est donc atteint.\nCe qui subsiste est la sous-tâche VR-294, une évaluation de business case commercial (analyses de gras saturés, sucres et sodium). Cet objet a été relancé chaque mois depuis janvier — VR-302 (février), VR-313 (mars), VR-324 (avril), VR-339 (mai) — sans avancée traçable. Les tickets de relance de février à avril sont clôturés ce jour comme doublons vers VR-339 ; la relance active est VR-345.\nDécision requise : ce business case relève-t-il de la vigie réglementaire ou du développement commercial ? S'il relève du développement commercial, la présente demande peut être clôturée et l'objet sorti du périmètre VR.\nConstat versé à VR-432."
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T15:36:18.357-0400",
+          "public": true,
+          "text": "CLÔTURE — 2026-08-28\nDécision du gestionnaire de la vigie : l'opportunité d'affaires liée à l'étiquetage nutritionnel sur le devant de l'emballage (FOP — gras saturés, sucres, sodium) a été communiquée par courriel aux responsables du service des Ventes et à l'équipe de Direction.\nL'objet relève du développement commercial et non de la vigie réglementaire. La suite éventuelle (évaluation du business case, décision d'offre de service) est portée par les Ventes et la Direction, hors du périmètre du dispositif de vigie.\nSous-tâche associée : VR-294 (ÉVALUATION BUSINESS CASE ANALYSES NUTRITIONNELLES FOP) — fermée le 2026-08-28 pour le même motif.\nClôture sans impact sur le système qualité. Date de complétion réelle : 2026-08-28."
         }
       ],
       "parent_key": null,
@@ -4736,7 +4748,7 @@
       "key": "VR-290",
       "division": "Alimentaires",
       "summary": "AJOUT VEILLE - Aliments supplementes (Titre 29 RAD) - Periode transition terminee 31 dec 2025 / en vigueur 1er jan 2026",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Medium",
       "type": "VR - Avis",
       "subtask": false,
@@ -4748,7 +4760,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-04-30",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-28",
       "description": "AJOUTE suite a veille proactive sources Sante Canada. Nouvelles dispositions reglementaires pour les ALIMENTS SUPPLEMENTES regroupees au TITRE 29 du Reglement sur les aliments et drogues (RAD). PUBLICATION : Sante Canada - 20 juillet 2022 (Partie II Gazette du Canada). PERIODE TRANSITION terminee 31 DECEMBRE 2025. STATUT 2026 : exigences ENTIEREMENT EN VIGUEUR depuis 1er JANVIER 2026. PORTEE : encadre aliments contenant supplements nutritifs (vitamines, mineraux) - etiquetage, mises en garde, ingredients autorises. IMPACT EUROFINS POTENTIEL : INDIRECT - hausse anticipee demandes analyses verification (vitamines, mineraux ajoutes, contaminants).",
       "evaluation_impact": "Titre 29 RAD aliments supplementes en vigueur 1er jan 2026. Impact INDIRECT Eurofins - hausse anticipee demandes analyses verification (vitamines, mineraux, contaminants).",
       "comments": [
@@ -4763,6 +4775,12 @@
           "created": "2026-08-28T13:38:14.377-0400",
           "public": true,
           "text": "2026-08-28 — Maintenue ouverte, qualification en attente de décision.\nFait : la période de transition du Titre 29 du Règlement sur les aliments et drogues (aliments supplémentés) s'est terminée le 2025-12-31 ; les exigences sont en vigueur depuis le 2026-01-01. L'objet de veille réglementaire est donc atteint.\nCe qui subsiste est la sous-tâche VR-295, une évaluation de business case commercial (analyses de vitamines et minéraux). Même mécanisme de relance mensuelle que VR-289, sans avancée traçable ; la relance active est VR-345, sous VR-339.\nDécision requise : ce business case relève-t-il de la vigie réglementaire ou du développement commercial ?\nConstat versé à VR-432."
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T15:36:53.263-0400",
+          "public": true,
+          "text": "CLÔTURE — 2026-08-28\nDécision du gestionnaire de la vigie : l'opportunité d'affaires liée aux aliments supplémentés (Titre 29 du Règlement sur les aliments et drogues) a été communiquée par courriel aux responsables du service des Ventes et à l'équipe de Direction.\nL'objet relève du développement commercial et non de la vigie réglementaire. La suite éventuelle (évaluation du business case, décision d'offre de service) est portée par les Ventes et la Direction, hors du périmètre du dispositif de vigie.\nSous-tâche associée : VR-295 — fermée le 2026-08-28 pour le même motif.\nClôture sans impact sur le système qualité. Date de complétion réelle : 2026-08-28."
         }
       ],
       "parent_key": null,
@@ -4885,7 +4903,7 @@
       "key": "VR-294",
       "division": "Alimentaires",
       "summary": "OPPORTUNITE - Evaluation business case analyses nutritionnelles FOP (gras satures, sucres, sodium)",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Medium",
       "type": "Sous-tâche",
       "subtask": true,
@@ -4900,7 +4918,14 @@
       "date_completion_reelle": null,
       "description": "OPPORTUNITE COMMERCIALE - etiquetage FOP en vigueur depuis 1er janvier 2026. Evaluer si hausse anticipee de demandes analyses (gras satures, sucres, sodium) pour validation etiquetage clients. Business case Service Commercial. Responsable : Service Commercial + AQ. Effort estime : 2-3 semaines.",
       "evaluation_impact": null,
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T15:31:59.999-0400",
+          "public": true,
+          "text": "2026-08-28 — Fermeture. Objet : évaluation du business case des analyses nutritionnelles FOP (gras saturés, sucres, sodium).\nDécision : l'opportunité a été communiquée par courriel aux responsables du service des Ventes et à l'équipe de Direction. L'objet relève du développement commercial, non de la vigie réglementaire. Il sort du périmètre VR ; son suivi appartient au Service Commercial.\nL'obligation réglementaire correspondante (étiquetage FOP) est en vigueur depuis le 2026-01-01 : l'objet de veille est atteint."
+        }
+      ],
       "parent_key": "VR-289",
       "parent_url": "https://labenvironex.atlassian.net/browse/VR-289",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-294",
@@ -4913,7 +4938,7 @@
       "key": "VR-295",
       "division": "Alimentaires",
       "summary": "OPPORTUNITE - Evaluation business case analyses aliments supplementes (vitamines, mineraux)",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Medium",
       "type": "Sous-tâche",
       "subtask": true,
@@ -4928,7 +4953,14 @@
       "date_completion_reelle": null,
       "description": "OPPORTUNITE COMMERCIALE - Titre 29 RAD en vigueur depuis 1er janvier 2026. Evaluer offre analyses pour clients fabricants aliments supplementes (vitamines, mineraux ajoutes, contaminants). Responsable : Service Commercial + AQ. Effort estime : 2-3 semaines.",
       "evaluation_impact": null,
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T15:32:05.809-0400",
+          "public": true,
+          "text": "2026-08-28 — Fermeture. Objet : évaluation du business case des analyses d'aliments supplémentés (vitamines, minéraux).\nDécision : l'opportunité a été communiquée par courriel aux responsables du service des Ventes et à l'équipe de Direction. L'objet relève du développement commercial, non de la vigie réglementaire. Il sort du périmètre VR.\nL'obligation réglementaire correspondante (Titre 29 du RAD) est en vigueur depuis le 2026-01-01, la période de transition s'étant terminée le 2025-12-31 : l'objet de veille est atteint."
+        }
+      ],
       "parent_key": "VR-290",
       "parent_url": "https://labenvironex.atlassian.net/browse/VR-290",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-295",
@@ -4941,7 +4973,7 @@
       "key": "VR-296",
       "division": "Alimentaires",
       "summary": "Communication interne equipe Alimentaire - resultats vigie janvier 2026",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Low",
       "type": "Sous-tâche",
       "subtask": true,
@@ -4956,7 +4988,14 @@
       "date_completion_reelle": null,
       "description": "Diffusion resultats vigie janvier 2026 a l equipe Eurofins Essais Alimentaires Quebec. Confirmation aucun changement reglementaire impactant les activites. (Statut : FAIT - communication officielle envoyee le 2026-02-16 par ELBL). Responsable : Assurance qualite (LELB). Effort estime : 1h.",
       "evaluation_impact": null,
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T15:31:43.854-0400",
+          "public": true,
+          "text": "2026-08-28 — Fermeture. Réalisation confirmée : la communication interne des résultats de la vigie de janvier 2026 a été faite par courriel de Lahcen El Badaoui (coordonnateur AQ). La description de la sous-tâche porte la mention « Statut : FAIT — communication officielle envoyée le 2026-02-16 par ELBL ». Le courriel constitue la preuve de réalisation."
+        }
+      ],
       "parent_key": "VR-285",
       "parent_url": "https://labenvironex.atlassian.net/browse/VR-285",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-296",
@@ -5099,7 +5138,7 @@
       "key": "VR-300",
       "division": "Alimentaires",
       "summary": "AJOUT VEILLE - CCN Programme BPL V3 (Bonnes Pratiques Laboratoire OCDE) publie 2 fevrier 2026 - HORS PERIMETRE Eurofins",
-      "status": "À trier",
+      "status": "Clôturé – sans impact",
       "priority": "Low",
       "type": "VR - Avis",
       "subtask": false,
@@ -5111,7 +5150,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-04-30",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-28",
       "description": "AJOUTE suite a veille proactive sources CCN. CONTENU : Conseil canadien des normes (CCN) a publie la VERSION 3 du document Apercu du Programme de reconnaissance du respect des Bonnes Pratiques de Laboratoire (BPL) - mise a jour 2 fevrier 2026. CONTEXTE : Le CCN est la seule autorite de verification au Canada qui accorde la reconnaissance BPL dans le cadre de l initiative BPL de l Organisation de cooperation et de developpement economiques (OCDE). PORTEE : laboratoires qui realisent des essais de securite non cliniques sur produits chimiques (pesticides, produits pharmaceutiques, produits chimiques industriels). STATUT POUR EUROFINS : HORS PERIMETRE. JUSTIFICATION : Eurofins Essais Alimentaires Quebec est accredite sous le Programme PAL (Programme accreditation des laboratoires d essais et d etalonnage selon ISO/IEC 17025), pas sous le programme BPL. A documenter en veille pour tracabilite seulement.",
       "evaluation_impact": "CCN BPL V3 publie 2 fev 2026. HORS PERIMETRE Eurofins (sous PAL ISO 17025, pas BPL OCDE).",
       "comments": [
@@ -5126,6 +5165,12 @@
           "created": "2026-08-28T13:37:59.805-0400",
           "public": true,
           "text": "2026-08-28 — Maintenue ouverte, clôture suspendue.\nLe Programme BPL V3 du CCN (Bonnes pratiques de laboratoire OCDE), publié le 2026-02-02, est qualifié hors périmètre Eurofins dans la description de la demande. À ce titre, R3 (informatif) conduirait à une clôture sans impact.\nLa sous-tâche VR-304 porte cependant une action de traçabilité : documenter cette veille et le motif du hors-périmètre. Rien n'établit qu'elle a été faite.\nDécision requise : la documentation de veille de VR-304 est-elle réalisée ? Si oui, fermer VR-304 et clôturer la présente demande. Si la trace n'existe pas ailleurs, la clôture peut porter cette documentation, sous validation.\nConstat versé à VR-432."
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T15:32:55.998-0400",
+          "public": true,
+          "text": "2026-08-28 — Clôture sans impact (R3, informatif).\nLe Programme BPL V3 du CCN (Bonnes pratiques de laboratoire, OCDE), publié le 2026-02-02, est hors périmètre d'Eurofins Alimentaire, qui est accrédité sous le PAL selon ISO/IEC 17025. Ce constat est établi dans la description de la demande.\nSous-tâche VR-304 fermée le 2026-08-28 : la documentation de veille est portée par la présente clôture."
         }
       ],
       "parent_key": null,
@@ -5142,7 +5187,7 @@
       "key": "VR-301",
       "division": "Alimentaires",
       "summary": "MAPAQ Projet reglement LPTAA - Allegement autorisation CPTAQ + activites agrotouristiques (memoire 16 fev 2026)",
-      "status": "Plan d'actions défini",
+      "status": "Clôturé – sans impact",
       "priority": "Medium",
       "type": "VR - Projet",
       "subtask": false,
@@ -5154,7 +5199,7 @@
       "assignee": null,
       "responsable_action": null,
       "date_cible_resolution": "2026-06-30",
-      "date_completion_reelle": null,
+      "date_completion_reelle": "2026-08-28",
       "description": "PROJET DE REGLEMENT du MAPAQ - Memoire au Conseil des ministres 2026-0015/2026-0016 du 16 fevrier 2026 (Ministre Donald Martel). PORTEE : Modification du Reglement sur l autorisation d alienation ou d utilisation d un lot sans l autorisation de la CPTAQ (Reglement 1.1, chapitre P-41.1 r.1.1) + Reglement sur les declarations requises en vertu de la Loi (Reglement 2, chapitre P-41.1 r.2). BASE LEGALE : Loi 86 (sanctionnee 25 mars 2025) - Loi visant la perennite du territoire agricole. CONTENU PRINCIPAL : VOLET 1 : Allegement administratif CPTAQ - nouvelles utilisations sans autorisation pour fins municipales/utilite publique (cables, conduites, sondages, mats vent, stations meteo, capteurs environnementaux, alertes sonores). VOLET 2 : Favoriser agrotourisme + transformation/entreposage/conditionnement/vente a la ferme. Mutualisation des activites de vente/transformation par groupes de producteurs. Biomethanisation agricole avec avis prealable CPTAQ. EDICTION PREVUE : printemps 2026. IMPACT EUROFINS : INDIRECT - concerne protection du territoire agricole (CPTAQ), pas le controle qualite analytique Eurofins. Clients agricoles peuvent etre impactes (mais pas obligation analytique directe).",
       "evaluation_impact": "Projet reglement allegement CPTAQ + agrotourisme. Impact INDIRECT Eurofins (via clients agricoles), pas impact analytique direct.",
       "comments": [
@@ -5169,6 +5214,12 @@
           "created": "2026-08-28T13:36:51.515-0400",
           "public": true,
           "text": "2026-08-28 — Transition en « Plan d'actions défini » et report d'objet.\nFait établi : le mémoire au Conseil des ministres relatif au projet de règlement LPTAA (allègement de l'autorisation CPTAQ et activités agrotouristiques) est daté du 2026-02-16. L'édition finale était anticipée au printemps 2026.\nLimite de la vérification : la publication du texte final n'a pas été vérifiée dans la Gazette officielle du Québec, Partie 2. Aucune source officielle consultée à ce jour n'établit l'adoption.\nSuite requise : lecture de la Gazette officielle du Québec, Partie 2, pour les numéros publiés depuis avril 2026. Si le règlement est adopté, R1 s'applique : le présent projet devient caduc et une demande de type « VR - Décret » doit être créée.\nL'objet de la sous-tâche VR-331 de VR-324 (veille des publications finales LPTAA) est reporté sur la présente demande. Lien Relates posé depuis VR-339.\nSous-tâche ouverte : VR-303 (veille de la publication finale du Règlement 1.1/2 LPTAA). Non réalisée, non assignée, sans date cible. Date cible de la demande : 2026-06-30, dépassée de 59 jours."
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T15:38:39.376-0400",
+          "public": true,
+          "text": "CLÔTURE — CADUC PAR PUBLICATION DU TEXTE FINAL (R1) — 2026-08-28\nVérification effectuée le 2026-08-28 auprès de la source officielle (CPTAQ, communiqué « Modifications apportées aux règlements r 1.1 et r 2 ») :\nLes deux règlements modificateurs ont été publiés à la Gazette officielle du Québec, Partie 2, du 17 juin 2026, 158e année, n° 24.\n\nEntrée en vigueur : 2 juillet 2026.\n\nObjets visés : Règlement sur l'autorisation d'aliénation ou d'utilisation d'un lot sans l'autorisation de la Commission (P-41.1, r. 1.1) et Règlement sur les déclarations requises en vertu de la Loi (P-41.1, r. 2).\n\nLe projet de règlement suivi par la présente demande est donc édicté. Application de la règle R1 : le suivi du projet devient caduc et est repris par la demande portant le texte adopté.\nDemande de suite : VR-434 (lien Relates posé).\nLimite consignée : les numéros de décret ne figurent pas au communiqué de la CPTAQ ; ils restent à relever à la Gazette officielle Partie 2, n° 24 du 17 juin 2026. La comparaison entre le projet et le texte édicté n'a pas été faite. Ces deux points sont portés à VR-434.\nSous-tâche VR-303 (veille de la publication finale) : fermée, son objet est atteint.\nClôture sans impact. Date de complétion réelle : 2026-08-28."
         }
       ],
       "parent_key": null,
@@ -5231,7 +5282,7 @@
       "key": "VR-303",
       "division": "Alimentaires",
       "summary": "Veille publication finale Reglement 1.1/2 LPTAA (printemps 2026)",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Medium",
       "type": "Sous-tâche",
       "subtask": true,
@@ -5252,6 +5303,12 @@
           "created": "2026-06-17T17:51:54.316-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Février 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T15:38:44.921-0400",
+          "public": true,
+          "text": "FERMETURE — OBJET ATTEINT — 2026-08-28\nLa veille de la publication finale des règlements 1.1 et 2 (LPTAA) est réalisée. Publication constatée : Gazette officielle du Québec, Partie 2, 17 juin 2026, 158e année, n° 24 ; entrée en vigueur le 2 juillet 2026 (source : communiqué CPTAQ « Modifications apportées aux règlements r 1.1 et r 2 »).\nLe texte adopté est instruit sous VR-434."
         }
       ],
       "parent_key": "VR-301",
@@ -5266,7 +5323,7 @@
       "key": "VR-304",
       "division": "Alimentaires",
       "summary": "Documentation veille - BPL V3 hors perimetre Eurofins",
-      "status": "Ouvert",
+      "status": "Terminé",
       "priority": "Low",
       "type": "Sous-tâche",
       "subtask": true,
@@ -5287,6 +5344,12 @@
           "created": "2026-06-17T17:51:58.491-0400",
           "public": false,
           "text": "Page Confluence de la vigie pour Février 2026:\nhttps://labenvironex.atlassian.net/wiki/spaces/VR/"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T15:31:53.648-0400",
+          "public": true,
+          "text": "2026-08-28 — Fermeture. Objet : documenter la veille sur le Programme BPL V3 du CCN (publié le 2026-02-02) avec la mention « hors périmètre Eurofins Alimentaire (sous PAL ISO 17025) ».\nDécision : le document est qualifié hors périmètre Eurofins dans la description de la demande parente VR-300. R3 (informatif) s'applique. La présente fermeture et la clôture de VR-300 portent cette documentation de veille."
         }
       ],
       "parent_key": "VR-300",
@@ -5625,6 +5688,12 @@
           "created": "2026-08-28T13:36:31.251-0400",
           "public": true,
           "text": "2026-08-28 — Vérification de l'état du projet et transition en « Plan d'actions défini ».\nFaits établis\nLa consultation publique sur le projet de règlement modifiant le Règlement sur les aliments (P-29, r. 1) pour les abattoirs de proximité s'est close le 2026-03-21.\n\nLe texte consolidé de P-29, r. 1 publié sur LégisQuébec porte la mention « à jour au 1er avril 2026 » et ne contient aucune disposition sur les abattoirs de proximité. Seule modification de 2026 recensée à l'historique : L.Q. 2025, c. 8.\n\nLimite de la vérification\nLa Gazette officielle du Québec, Partie 2, n'a pas été consultée. Un article de presse daté du 2026-07-01 fait état d'un assouplissement de l'abattage de volailles au Québec, ce qui suggère une adoption, mais cette adoption n'est pas établie par une source officielle. Le texte consolidé de LégisQuébec accuse un décalage de consolidation qui ne permet pas de conclure.\nSuite requise : lecture de la Gazette officielle du Québec, Partie 2, pour les numéros publiés entre le 2026-04-01 et ce jour. Si le décret est adopté, R1 s'applique : le présent projet devient caduc et une demande de type « VR - Décret » doit être créée pour le porter.\nSous-tâches ouvertes : VR-315 (évaluation d'impact, business case petits abattoirs) et VR-316 (veille de la publication finale). Non réalisées, non assignées, sans date cible.\nL'objet de la sous-tâche VR-331 de VR-324 (veille des publications finales) est reporté sur la présente demande. Lien Relates posé depuis VR-339.\nDate cible de la demande : 2026-06-30, dépassée de 59 jours."
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T15:39:32.224-0400",
+          "public": true,
+          "text": "VÉRIFICATION DE PUBLICATION — RÉSULTAT NÉGATIF — 2026-08-28\nVérification demandée : le projet de règlement sur les abattoirs de proximité a-t-il été publié à la Gazette officielle du Québec, Partie 2 ?\nFaits établis auprès des sources officielles consultées le 2026-08-28 :\nPage officielle quebec.ca « Projet pilote : abattoirs de poulets à la ferme », mise à jour du 2026-03-24 : le projet de règlement modifiant le Règlement sur les aliments est indiqué « à l'étude ». Le projet pilote est prolongé d'un an, jusqu'au 2027-04-28.\n\nLégisQuébec, Règlement sur les aliments (chapitre P-29, r. 1), texte consolidé portant la mention « à jour au 1er avril 2026 » : aucune disposition relative aux abattoirs de proximité. Seule modification de 2026 à l'historique : L.Q. 2025, c. 8.\n\nConclusion factuelle : l'adoption du règlement n'est pas établie. La règle R1 (caduc par publication du texte final) ne s'applique pas. La demande reste ouverte.\nLimite consignée : les tables des matières de la Gazette officielle du Québec, Partie 2, n'ont pas pu être consultées directement (accès refusé par la source). La conclusion ci-dessus repose sur les deux sources officielles citées, dont la plus récente est datée du 2026-03-24 pour quebec.ca et du 2026-04-01 pour LégisQuébec. Une vérification directe de la Gazette Partie 2 pour les numéros publiés depuis avril 2026 reste requise pour lever cette limite.\nLa prolongation du projet pilote jusqu'au 2027-04-28 est le fait le plus récent disponible : il déplace l'horizon du dossier au-delà de 2026."
         }
       ],
       "parent_key": null,
@@ -9468,7 +9537,7 @@
       "key": "VR-420",
       "division": "Alimentaires",
       "summary": "Modifications à la norme NF EN 1420 (Version Avril 2026)         ",
-      "status": "En analyse",
+      "status": "Plan d'actions défini",
       "priority": "Medium",
       "type": "VR - Avis",
       "subtask": false,
@@ -9479,7 +9548,7 @@
       "created": "2026-08-19T15:19:15.629-0400",
       "assignee": "Eric Deschenes",
       "responsable_action": null,
-      "date_cible_resolution": null,
+      "date_cible_resolution": "2026-09-30",
       "date_completion_reelle": null,
       "description": "Aperçu des principaux changements apportés :\n*Élargissement du champ d'application : en plus de l'évaluation de l'odeur et de la flaveur (goût), la norme intègre, désormais, la détermination de la couleur et de la turbidité de l'eau en contact avec les systèmes de tuyauterie et de stockage.\n*Fusion de normes distinctes : Elle remplace l'ancienne méthode d'essai unique de l'EN 1420:2016 tout en absorbant les exigences de l'EN 13052-1 (couleur/turbidité pour les réseaux de conduites) et de l'EN 14395-1 (évaluation organoleptique pour les systèmes de stockage « ex. citernes, cuves, réservoirs, revêtements, etc. »).\n*Harmonisation technique : Actualisation des modes opératoires d'obtention de l'eau de migration et des critères d'analyse pour s'aligner sur les exigences européennes modernes de sécurité de l'eau potable.",
       "evaluation_impact": "La nouvelle version s’oriente vers un durcissement et une centralisation des critères de conformité sanitaire pour l'ensemble des matériaux organiques en contact avec l'eau.\nLa norme sera achetée, en août, et sera fournie à Frédéric Bellavance afin de vérifier si changements s’appliquent pour les analyses des biens de consommation accréditées par le CCN afin de planifier les mises à jour nécessaires dans les meilleurs délais.\nMerci,",
@@ -9495,6 +9564,12 @@
           "created": "2026-08-28T13:38:21.622-0400",
           "public": true,
           "text": "2026-08-28 — Demande non instruite, laissée au statut « En analyse ».\nÉtat constaté : aucune date cible de résolution, aucune sous-tâche, aucune analyse d'impact. C'est la seule demande de la division Alimentaires dont le champ « Date cible résolution » est vide.\nAucune date n'est posée ici : aucun fait documenté dans la demande n'en établit une (R16). La demande ne peut pas non plus être transitée en « Plan d'actions défini » puisqu'elle ne porte aucune action.\nDécision requise : porteur de l'analyse de la norme NF EN 1420 (version avril 2026) et échéance. Constat versé à VR-432."
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T15:37:57.323-0400",
+          "public": true,
+          "text": "PLAN D'ACTIONS DÉFINI — 2026-08-28\nAction retenue (R14) : « La norme sera achetée, en août, et sera fournie à Frédéric Bellavance (responsable de l'action) afin de vérifier si changements s'appliquent pour les analyses des biens de consommation accréditées par le CCN afin de planifier les mises à jour nécessaires dans les meilleurs délais. »\nSous-tâche créée : VR-433 — ACQUISITION ET ÉVALUATION - Norme NF EN 1420 (version avril 2026).\nResponsable de l'action : Frédéric Bellavance.\nDate cible de résolution posée sur la demande et sur la sous-tâche : 2026-09-30.\nLa demande passe de « En analyse » à « Plan d'actions défini ». La sous-tâche reste au statut « Ouvert » ; son passage en cours de traitement est à faire par le responsable désigné."
         }
       ],
       "parent_key": null,
@@ -9862,10 +9937,73 @@
       "date_completion_reelle": null,
       "description": "Demande d'amélioration continue ouverte le 2026-08-28 à l'issue de la revue complète du portefeuille Alimentaires (34 demandes parentes, 30 sous-tâches). Équivalent, pour la division Alimentaires, de la demande VR-419 côté Environnement.\nLes constats ci-dessous sont des faits mesurés sur l'état du projet VR au 2026-08-28. Ils ne se corrigent pas demande par demande.\nA1 — Aucune sous-tâche ne porte de date cible de résolution\n30 sous-tâches sur 30 ont le champ « Date cible résolution » vide. Aucune échéance opérationnelle n'est donc mesurable au niveau où le travail se fait. À titre de comparaison, la division Environnement porte 43 dates cibles sur 83 sous-tâches ouvertes.\nA2 — Aucune sous-tâche n'est assignée\n30 sur 30. Aucun responsable n'est désigné dans Jira, alors que plusieurs descriptions de sous-tâches nomment un responsable en texte libre (« Responsable : Assurance qualité (LELB) »). L'information existe mais n'est pas portée par le champ Assigné.\nA3 — Aucune demande n'avait été transitée depuis sa création\nAu 2026-08-28, avant la présente revue : 32 demandes sur 34 étaient au statut « À trier », 2 en « En analyse », 0 en « Plan d'actions défini », 0 clôturée. Le portefeuille avait été alimenté mais jamais instruit.\nA4 — La chaîne de vigie mensuelle s'interrompt après juin 2026\nLa dernière demande de vigie mensuelle Alimentaire est VR-388 (juin 2026, reçue le 2026-07-03). Aucune demande de vigie n'existe pour juillet 2026 ni pour août 2026. VR-420 (norme NF EN 1420) porte un objet particulier, pas la vigie du mois.\nA5 — Le business case FOP / aliments supplémentés est relancé chaque mois sans avancée traçable\nObjets ouverts depuis janvier 2026 (VR-289, VR-290). Relancés en février (VR-302), mars (VR-313), avril (VR-324), mai (VR-339). La sous-tâche VR-345 porte la mention « RELANCE CRITIQUE — 5 MOIS en cours ». Aucune trace de décision ni de résultat.\nA6 — La qualification portée à la vigie diverge du traitement engagé\nLa vigie de mai 2026 (VR-333) qualifie de « non pertinents » les trois changements CCN du mois, au motif qu'ils visent les laboratoires d'étalonnage. Ces trois mêmes changements sont pourtant instruits sous VR-334, VR-335 et VR-336, chacun assorti d'une sous-tâche de documentation SQI ouverte. Même nature de constat que celui porté à VR-419 sur la colonne « Statut » de la vigie Environnement.\nA7 — Aucune date de complétion réelle n'était renseignée\n34 demandes sur 34 avaient le champ « Date complétion réelle » vide avant la présente revue.\nA8 — 32 demandes sur 34 étaient à échéance dépassée\nDe 28 jours (vigie de mai) à 150 jours (vigie de janvier), au 2026-08-28.\nDécisions en attente, à trancher hors Jira\nQui porte les sous-tâches Alimentaires ? Les descriptions nomment « Assurance qualité (LELB) » ; le champ Assigné reste vide sur les 30 sous-tâches.\n\nLe business case FOP / aliments supplémentés relève-t-il de la vigie réglementaire ou du développement commercial ? L'obligation réglementaire est en vigueur depuis le 2026-01-01 : de ce point de vue l'objet de vigie est atteint. Ce qui subsiste est une opportunité commerciale. Sort de VR-289, VR-290, VR-294, VR-295.\n\nLes vérifications documentaires de juillet et d'août 2026 ont-elles eu lieu ? Si oui, elles ne sont pas enregistrées dans Jira (A4).\n\nVR-296 (communication interne des résultats de la vigie de janvier) a-t-elle été faite ? Elle conditionne la clôture de VR-285.\n\nVR-420 (norme NF EN 1420, version avril 2026) : aucune date cible, aucune sous-tâche, aucune analyse. Porteur et échéance à désigner.",
       "evaluation_impact": null,
-      "comments": [],
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-08-28T15:40:14.850-0400",
+          "public": true,
+          "text": "ACTUALISATION DES CONSTATS — 2026-08-28 (fin de la revue Alimentaires)\nÉtat du portefeuille après traitement complet des décisions du gestionnaire :\nIndicateur\nAvant revue\nAprès revue\nDemandes parentes\n34\n36\n— « À trier »\n32\n0\n— « En analyse »\n2\n1 (VR-434)\n— « Plan d'actions défini »\n0\n11\n— « Clôturé – sans impact »\n0\n24\nSous-tâches ouvertes\n30\n14\nSous-tâches fermées\n0\n17\nConstats A1 et A2 — précision de la portée : sur les 14 sous-tâches ouvertes, une seule (VR-433, norme NF EN 1420) porte un responsable nommé et une date cible (Frédéric Bellavance, 2026-09-30). Les 13 autres n'ont ni responsable désigné au champ Assigné, ni date cible.\nSous-tâches concernées : VR-314, VR-315, VR-316, VR-326, VR-327, VR-328, VR-329, VR-340, VR-341, VR-342, VR-343, VR-344, VR-345.\nDécision du gestionnaire consignée le 2026-08-28 : le traitement de ces 13 sous-tâches (désignation des responsables et pose des dates cibles) est reporté et sera évalué ultérieurement.\nConstat A4 — la chaîne mensuelle s'interrompt après juin 2026. Aucune demande de vigie mensuelle Alimentaires n'existe pour juillet ni pour août 2026.\nContrôle de cohérence effectué : aucune sous-tâche ouverte n'est rattachée à une demande clôturée."
+        }
+      ],
       "parent_key": null,
       "parent_url": null,
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-432",
+      "phase_pipeline": null,
+      "quadrant": null,
+      "unite_affaires": [],
+      "_anomalieDivision": false
+    },
+    {
+      "key": "VR-433",
+      "division": "Alimentaires",
+      "summary": "ACQUISITION ET ÉVALUATION - Norme NF EN 1420 (version avril 2026) - Impact sur les analyses de biens de consommation accréditées CCN",
+      "status": "Ouvert",
+      "priority": "Medium",
+      "type": "Sous-tâche",
+      "subtask": true,
+      "criticite": "Faible",
+      "mois_vigie": "Juillet 2026",
+      "date_vigueur": null,
+      "duedate": null,
+      "created": "2026-08-28T15:37:45.399-0400",
+      "assignee": null,
+      "responsable_action": null,
+      "date_cible_resolution": "2026-09-30",
+      "date_completion_reelle": null,
+      "description": "La norme sera achetée, en août, et sera fournie à Frédéric Bellavance (responsable de l'action) afin de vérifier si changements s'appliquent pour les analyses des biens de consommation accréditées par le CCN afin de planifier les mises à jour nécessaires dans les meilleurs délais.\nResponsable de l'action : Frédéric Bellavance\nDate cible de résolution : 2026-09-30\nRéférence : AFNOR — NF EN 1420 (version avril 2026)\nSource : https://www.boutique.afnor.org/fr-fr/norme/nf-en-1420/influence-des-materiaux-organiques-sur-leau-destinee-a-la-consommation-huma/fa207819/601976",
+      "evaluation_impact": null,
+      "comments": [],
+      "parent_key": "VR-420",
+      "parent_url": "https://labenvironex.atlassian.net/browse/VR-420",
+      "jira_url": "https://labenvironex.atlassian.net/browse/VR-433",
+      "phase_pipeline": null,
+      "quadrant": null,
+      "unite_affaires": [],
+      "_anomalieDivision": false
+    },
+    {
+      "key": "VR-434",
+      "division": "Alimentaires",
+      "summary": "MAPAQ - Règlements modifiant les règlements P-41.1 r. 1.1 et P-41.1 r. 2 (LPTAA) - Publiés Gazette officielle Partie 2 du 17 juin 2026, en vigueur le 2 juillet 2026",
+      "status": "En analyse",
+      "priority": "Medium",
+      "type": "VR - Décret",
+      "subtask": false,
+      "criticite": "Moyenne",
+      "mois_vigie": "Août 2026",
+      "date_vigueur": null,
+      "duedate": null,
+      "created": "2026-08-28T15:38:25.387-0400",
+      "assignee": null,
+      "responsable_action": null,
+      "date_cible_resolution": null,
+      "date_completion_reelle": null,
+      "description": "TEXTE ADOPTÉ — succède au projet de règlement instruit sous VR-301.\nFAITS ÉTABLIS (source officielle CPTAQ, communiqué « Modifications apportées aux règlements r 1.1 et r 2 ») :\nPublication : Gazette officielle du Québec, Partie 2, 17 juin 2026, 158e année, n° 24.\n\nEntrée en vigueur : 2 juillet 2026.\n\nDeux règlements modificateurs :\nRèglement modifiant le Règlement sur l'autorisation d'aliénation ou d'utilisation d'un lot sans l'autorisation de la Commission (chapitre P-41.1, r. 1.1) ;\n\nRèglement modifiant le Règlement sur les déclarations requises en vertu de la Loi (chapitre P-41.1, r. 2) — déclarations requises, bâtiments sommaires, panneaux publicitaires, agrandissement d'emplacements résidentiels, démembrement.\n\n\nBase légale : Loi 86, Loi visant la pérennité du territoire agricole, sanctionnée le 25 mars 2025.\n\nÀ VÉRIFIER DANS LE TEXTE OFFICIEL :\nLes numéros de décret ne sont pas précisés dans le communiqué de la CPTAQ. Ils doivent être relevés à la Gazette officielle du Québec, Partie 2, n° 24 du 17 juin 2026.\n\nLe contenu final adopté n'a pas été comparé au projet de règlement (mémoire MCM 2026-0015/2026-0016 du 16 février 2026). Les écarts éventuels entre le projet et le texte édicté restent à établir.\n\nIMPACT EUROFINS : indirect. L'objet porte sur la protection du territoire agricole (CPTAQ) et non sur le contrôle qualité analytique. Aucune obligation analytique directe identifiée au projet ; à confirmer à la lecture du texte édicté.\nApplication de la règle R1 : la publication du texte final rend caduc le suivi du projet de règlement — VR-301 est clôturée avec renvoi vers la présente demande.",
+      "evaluation_impact": null,
+      "comments": [],
+      "parent_key": null,
+      "parent_url": null,
+      "jira_url": "https://labenvironex.atlassian.net/browse/VR-434",
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
