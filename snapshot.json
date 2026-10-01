@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T17:28:40.092Z",
+  "generatedAt": "2026-10-01T19:00:02.815Z",
   "issues": [
     {
       "key": "VR-137",
@@ -6986,7 +6986,7 @@
       "created": "2026-07-23T09:05:36.147-0400",
       "assignee": "Eric Deschenes",
       "responsable_action": "Jennifer Gagné",
-      "date_cible_resolution": "2027-07-17",
+      "date_cible_resolution": "2027-06-17",
       "date_completion_reelle": null,
       "description": "Décret 845-2026. Modifications au Règlement sur la qualité de l'eau potable (RQEP, RLRQ Q-2 r.40) publiées à la Gazette officielle du Québec, Partie 2, n°24 du 17-06-2026, p.3161. Issu du projet omnibus MELCCFP (optimiser la gestion de l'eau).\nObjet des modifications :\nAjuster et bonifier les normes de qualité de l'eau potable en cohérence avec les recommandations de Santé Canada\n\nAjuster le suivi de la qualité\n\nAjouter/bonifier des définitions\n\nAjuster la déclaration du responsable\n\nClarifier les obligations des établissements touristiques\n\nHarmoniser la terminologie\n\nIMPACT AQ DIRECT (normes/paramètres). Voir lettre laboratoires OR3 (p-j 2026-06-09). Changements majeurs additionnels à partir du 17 juin 2027.\nSource : vigie réglementaire Mai 2026 (Environnement).",
       "evaluation_impact": "Normes eau potable harmonisées Santé Canada - révision paramètres/suivi analytique. Évaluation AQ requise (méthodes, LDM, portée accréditation). Lettre laboratoires OR3 à traiter.",
@@ -7002,6 +7002,18 @@
           "created": "2026-07-29T10:56:45.350-0400",
           "public": true,
           "text": "Fermeture — caduc par décret (Plan de fermeture VR, catégorie 1)\nLe projet de règlement 86723 (RQEP), publié à la Gazette officielle du Québec P.II Vol.157 n°47 du 19 novembre 2025, a été adopté. Le texte final est le décret 845-2026, publié à la Gazette officielle du Québec P.II n°24 du 17 juin 2026 p.3161, en vigueur le 2 juillet 2026.\nLe suivi se poursuit sous VR-347 (vigie Mai 2026), qui porte le texte adopté — ajustement des normes de qualité de l'eau potable en cohérence avec les recommandations de Santé Canada. Changements additionnels à compter du 17 juin 2027.\nSous-tâches migrées vers VR-347 : VR-151 (audit conformité méthodes), VR-154 (extension accréditation ISO 17025 — PFAS, NDMA, strontium), VR-164 (cartographie clients-secteurs).\nFermeture exécutée dans le cadre de la revue de vigie Novembre 2025 — 2026-07-29."
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-10-01T13:43:57.546-0400",
+          "public": true,
+          "text": "Bonjour  à tous,                         Suivant la rencontre  01 Octobre 2026 13h avec l'équipe de gestion  pour le suivi  de la planification des changements  RQEP mise en vigueur du 17 Juin 2027 j’ai activer la demande dans la vigie règlementaires   pour le suivi des actions  à  compléter pour  la date échéance prévue.Je rappelle que le suivi des actions peuvent se faire via le tableau Bord VR Interactive -Vigie Règlementaire disponible sur le lien sur le portail:→ \nNous allons mettre à jour les  sous-tâches selon la discussion de notre rencontre je confirmerai lorsque ceci ser mise à jour.\nMerci et bonne journée"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-10-01T14:55:02.893-0400",
+          "public": true,
+          "text": "Bonjour,\nVoici les éléments ajustés en fonction de la rencontre d’aujourd’hui.\nÀ suivre dans Jira VR-347 \nMerci et bonne journée,"
         }
       ],
       "parent_key": null,
