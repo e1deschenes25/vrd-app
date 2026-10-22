@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T16:00:03.052Z",
+  "generatedAt": "2026-10-22T16:48:50.732Z",
   "issues": [
     {
       "key": "VR-137",
@@ -10069,7 +10069,7 @@
       "duedate": "2027-06-17",
       "created": "2026-10-07T17:19:15.438-0400",
       "assignee": null,
-      "responsable_action": null,
+      "responsable_action": "Eric Deschenes",
       "date_cible_resolution": null,
       "date_completion_reelle": null,
       "description": "Source : rencontre de planification du 1er octobre 2026 (notes de Jennifer Gagné) et lettre aux laboratoires OR3 de juin 2026, jointes à VR-347.\nExigence (décret 845-2026, lettre OR3)\nNouvelle norme de 0,04 µg/L pour la N-nitrosodiméthylamine (NDMA), établie sur la moyenne de quatre résultats trimestriels consécutifs. Échantillonnage trimestriel obligatoire uniquement pour les installations de distribution d'eaux chloraminées (nouvel article 18.1).\nEntrée en vigueur : 17 juin 2027.\nÉtat au 1er octobre 2026\nParamètre XDCNDMA01 déjà existant pour la sous-traitance externe.\n\nMéthode en validation : suivi sous VR-154.\n\nActions convenues\nRenommer le paramètre existant XDCNDMA01 en « NDMA hors RQEP » et créer un nouveau paramètre NDMA RQEP — responsable à désignerModifier le CP ministériel organique dans LabPlus — JenniferConfirmer le besoin d'un nouveau produit « NDMA seul », le préparer au préalable et l'activer le 17 juin 2027 — ÉricCréer les CP clients et évaluer la mention « Ne pas utiliser avant le 17 juin » — Isabelle, NadiaAjouter le NDMA aux calendriers annuels des clients — Isabelle, NadiaFixer le prix — IsabelleAjouter le NDMA aux grilles tarifaires — IsabelleEstimer les volumes et évaluer les ressources opérationnelles — IsabelleNote\nLes notes de rencontre indiquent « activer le 17 juin 2026 » pour le nouveau produit. La date est interprétée ici comme le 17 juin 2027, date d'entrée en vigueur.",
