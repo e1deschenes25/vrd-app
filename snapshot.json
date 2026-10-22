@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T19:00:03.440Z",
+  "generatedAt": "2026-10-22T21:00:03.555Z",
   "issues": [
     {
       "key": "VR-137",
@@ -10134,6 +10134,47 @@
       "parent_key": "VR-347",
       "parent_url": "https://labenvironex.atlassian.net/browse/VR-347",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-438",
+      "phase_pipeline": null,
+      "quadrant": null,
+      "unite_affaires": [],
+      "_anomalieDivision": false
+    },
+    {
+      "key": "VR-439",
+      "division": "Environnement",
+      "summary": "Documents relatifs à la transmission SEP des résultats d'analyses en vertu du RQEP",
+      "status": "À trier",
+      "priority": "Medium",
+      "type": "VR - Avis",
+      "subtask": false,
+      "criticite": "Moyenne",
+      "mois_vigie": "Septembre 2026",
+      "date_vigueur": null,
+      "duedate": null,
+      "created": "2026-10-22T15:44:03.839-0400",
+      "assignee": null,
+      "responsable_action": null,
+      "date_cible_resolution": null,
+      "date_completion_reelle": null,
+      "description": "Bonjour,Signalement que les documents suivants ont été mis à jour au niveau des directives pour les transmissions SEP des résultats d’analyse en vertu du RQEP : \nTransmission électronique de résultats d’analyse d’échantillons d’eau potable Guide de production d’un fichier XML pour une transmission électroniqueTransmission électronique de résultats d’analyse d’échantillons d’eau potable Guide d’interprétation des rapports de contrôle - Fichiers XMLTransmission électronique de résultats d’analyse d’échantillons d’eau potable Spécifications des paramètres d’analyseFormulaires de demande d’analyses; sections réservées au laboratoireActions requises immédiates requises : Modifier les produits suivants : *001002B*001003B*001011B*001012B*001020B*001021BPour le paramètre des entérocoques déjà présent dans les produits, le code de transfert SEP : STRFEC11 doit être ajouté (lié au paramètre *ACSF--01).Les autres éléments doivent être évalués.Merci et bonne journée,",
+      "evaluation_impact": null,
+      "comments": [
+        {
+          "author": "Jennifer Gagné",
+          "created": "2026-10-22T15:44:29.413-0400",
+          "public": true,
+          "text": "Guide d’interprétation des rapports de contrôle – Fichiers XMLSEP - Spécifications des paramètres d’analyse"
+        },
+        {
+          "author": "Jennifer Gagné",
+          "created": "2026-10-22T15:55:47.582-0400",
+          "public": true,
+          "text": "Autre changement à évaluer, qui demandera plus de temps :"
+        }
+      ],
+      "parent_key": null,
+      "parent_url": null,
+      "jira_url": "https://labenvironex.atlassian.net/browse/VR-439",
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
