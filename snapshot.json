@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T13:00:03.299Z",
+  "generatedAt": "2026-10-23T16:00:03.473Z",
   "issues": [
     {
       "key": "VR-137",
@@ -7020,6 +7020,12 @@
           "created": "2026-10-07T17:27:02.514-0400",
           "public": true,
           "text": "Bonjour à tous,\nSuivant la rencontre du 1er octobre 2026, les sous-tâches de VR-347 ont été mises à jour pour les changements au RQEP en vigueur le 17 juin 2027. Échéance commune : 17 juin 2027.\nSous-tâches actives :\nVR-435 : Coliformes totaux, retrait du seuil de 10 UFC/100 ml\n\nVR-195 : Hydrocarbures (éthylbenzène, toluène, xylène)\n\nVR-436 : NDMA, paramètre RQEP, produit, CP clients, calendriers et prix\n\nVR-154 : Accréditation NDMA et strontium\n\nVR-437 : Normes abaissées (tétrachloroéthylène, tétrachlorure de carbone)\n\nVR-438 : Strontium, super-paramètre, produits, transmission eau brute et CP clients\n\nVR-191 : Strontium, validation de la méthode\n\nSous-tâches fermées, non retenues dans le plan d'actions révisé : VR-151, VR-164, VR-192, VR-193, VR-194 et VR-196. VR-363 est fermée comme doublon de VR-381.\nHors portée, à traiter sur demande du client lors de l'envoi des calendriers : suivi du plomb et du cuivre (article 14.1 et annexe 4) et suivi des pesticides et autres substances organiques (article 19).\nChaque sous-tâche liste les actions et les responsables nommés à la rencontre. Merci de me signaler toute correction.\nMerci et bonne journée,"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-10-23T11:09:15.114-0400",
+          "public": true,
+          "text": "Mise à jour: \nCréation Nouveau Test NDMA:\nCréation du nouveau test NDMA  pour permettra la création de la demande de modification du CP Ministériel Organique au niveau de l'équipe de développement SA.LIMS-1329: Création d'un nouveau test NDMAActif\n\nMErci"
         }
       ],
       "parent_key": null,
@@ -10210,6 +10216,53 @@
       "parent_key": "VR-439",
       "parent_url": "https://labenvironex.atlassian.net/browse/VR-439",
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-440",
+      "phase_pipeline": null,
+      "quadrant": null,
+      "unite_affaires": [],
+      "_anomalieDivision": false
+    },
+    {
+      "key": "VR-441",
+      "division": "Environnement",
+      "summary": "Création Test NDMA LabPlus Pour Laboratoire de Longueuil",
+      "status": "Terminé",
+      "priority": "Medium",
+      "type": "Sous-tâche",
+      "subtask": true,
+      "criticite": null,
+      "mois_vigie": "Mai 2026",
+      "date_vigueur": null,
+      "duedate": null,
+      "created": "2026-10-23T10:59:32.453-0400",
+      "assignee": "Eric Deschenes",
+      "responsable_action": "Eric Deschenes",
+      "date_cible_resolution": "2027-06-17",
+      "date_completion_reelle": "2026-10-23",
+      "description": "Création Nouveau Test NDMA:Création du nouveau test NDMA  pour permettra la création de la demande de modification du CP Ministériel Organique au niveau de l'équipe de développement SA.",
+      "evaluation_impact": null,
+      "comments": [
+        {
+          "author": "Automation for Jira",
+          "created": "2026-10-23T11:01:25.797-0400",
+          "public": true,
+          "text": "Bonjour,Une nouvelle sous-tâche vous a été assignée dans le cadre du projet Vigies Réglementaires (VR). Veuillez en prendre connaissance et compléter le traitement dans les délais prescrits.\n— Détails de la sous-tâche —Ticket :  — Création Paramètre NDMA LabPlus Pour Laboratoire de Longueuil👤 Responsable : Eric Deschenes⚠️ Impact principal : 📅 Date cible : 📝 Description : # Création Nouveau Test NDMA:\nCréation du nouveau test NDMA  pour permettra la création de la demande de modification du CP Ministériel Organique au niveau de l'équipe de développement SA. \nProjet parent : RQEP – Modifications à la qualité de l'eau potable harmonisées avec Santé Canada (Décret 845-2026, en vigueur 2 juillet 2026)\nhttps://labenvironex.atlassian.net/browse/VR-441\n❗ACTION REQUISE IMPORTANTE❗Répondez à ce courriel lorsque la sous-tâche est complétée en incluant la confirmation que tout est conforme :Terminé Sous-tâche Création Paramètre NDMA LabPlus Pour Laboratoire de Longueuil\nAccéder au ticket principal : RQEP – Modifications à la qualité de l'eau potable harmonisées avec Santé Canada (Décret 845-2026, en vigueur 2 juillet 2026)Lien portail : https://labenvironex.atlassian.net/browse/VR-441\n────────────────────────Merci de votre collaboration.Équipe Vigies Réglementaires — Eurofins Environex"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-10-23T11:13:15.136-0400",
+          "public": true,
+          "text": "Bonjour  Création Nouveau Test NDMA: \n\n Création du nouveau test NDMA pour permettra la création de la demande de modification du CP Ministériel Organique au niveau de l'équipe de développement SA.https://labenvironex.atlassian.net/browse/LIMS-1329  \nEric Deschenes\n\n\n\nResponsable conformité, assurance qualité\n\n:\n\nCompliance and Quality Assurance Manager\n\n|Eurofins Essais Environnementaux Canada, inc. |\n\n4495 Boulevard Wilfrid‑Hamel\n\n•\nQuebec\n•\nQC\n•\nCANADA\nDirect: 15143326001 <tel:15143326001>\n\nExt. 6226\n\n: \n\n: \nEric.Deschenes@et.eurofinsca.com\n\nwww.ET.eurofinsca.com\n\n•\nFacebook\n•\nLinkedIn\n•\nInstagram\n <https://www.labenvironex.com/>\n <https://www.linkedin.com/feed/update/urn:li:activity:7516158636411473921>| \n\nMessages de confidentialité:Ce courriel (de même que les fichiers joints) est strictement réservé à l'usage de la personne ou de l'entité à qui il est adressé et peut contenir de l'information privilégiée et confidentielle. Toute divulgation, distribution ou copie de ce courriel (de même que les fichiers joints) est strictement prohibée. Si vous avez reçu ce courriel par erreur, veuillez nous en aviser sur-le-champ, détruire toutes les copies et le supprimer de votre système informatique.    Confidentiality Warning :This message and any attachments are only for the use of the intended recipient(s), are confidential, and may be privileged. If you are not the intended recipient, you are hereby notified that any review, retransmission, conversion to hard copy, copying, circulation or other use of this message and any attachments is strictly prohibited. If you are not the intended recipient, please notify the sender immediately by return e-mail, and delete this message and any attachments from your system. \n\nDe : Jira automation <jira@labenvironex.atlassian.net> Envoyé : 23 octobre 2026 11:01À : Eric Deschenes <Eric.Deschenes@et.eurofinsca.com>Objet :  ACTION REQUISE — Terminé Sous-tâche Création Paramètre NDMA LabPlus Pour Laboratoire de Longueuil \n\nUnverified Sender: The sender of this email has not been verified. Review the content of the message carefully and verify the identity of the sender before acting on this email: replying, opening attachments or clicking links. \n\nBonjour,Une nouvelle sous-tâche vous a été assignée dans le cadre du projet Vigies Réglementaires (VR). Veuillez en prendre connaissance et compléter le traitement dans les délais prescrits.\n— Détails de la sous-tâche —Ticket :  — Création Paramètre NDMA LabPlus Pour Laboratoire de Longueuil👤 Responsable : Eric Deschenes⚠️ Impact principal : 📅 Date cible : 📝 Description : # Création Nouveau Test NDMA:\nCréation du nouveau test NDMA pour permettra la création de la demande de modification du CP Ministériel Organique au niveau de l'équipe de développement SA. \n!image-20261023-140702.png|width=353,alt=\"image-20261023-140702.png\"!Projet parent : RQEP – Modifications à la qualité de l'eau potable harmonisées avec Santé Canada (Décret 845-2026, en vigueur 2 juillet 2026)https://labenvironex.atlassian.net/browse/VR-441\n❗ACTION REQUISE IMPORTANTE❗Répondez à ce courriel lorsque la sous-tâche est complétée en incluant la confirmation que tout est conforme :Terminé Sous-tâche Création Paramètre NDMA LabPlus Pour Laboratoire de Longueuil\nAccéder au ticket principal : RQEP – Modifications à la qualité de l'eau potable harmonisées avec Santé Canada (Décret 845-2026, en vigueur 2 juillet 2026)Lien portail : https://labenvironex.atlassian.net/browse/VR-441\n────────────────────────Merci de votre collaboration.Équipe Vigies Réglementaires — Eurofins Environex"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-10-23T11:32:30.130-0400",
+          "public": true,
+          "text": "Création Nouveau Test NDMA: \n\n Création du nouveau test NDMA pour permettra la création de la demande de modification du CP Ministériel Organique au niveau de l'équipe de développement SA.https://labenvironex.atlassian.net/browse/LIMS-1329 \nTerminé \nEric Deschenes\n\n\n\nResponsable conformité, assurance qualité\n\n:\n\nCompliance and Quality Assurance Manager\n\n|Eurofins Essais Environnementaux Canada, inc. |\n\n4495 Boulevard Wilfrid‑Hamel\n\n•\nQuebec\n•\nQC\n•\nCANADA\nDirect: 15143326001 <tel:15143326001>\n\nExt. 6226\n\n: \n\n: \nEric.Deschenes@et.eurofinsca.com\n\nwww.ET.eurofinsca.com\n\n•\nFacebook\n•\nLinkedIn\n•\nInstagram\n <https://www.labenvironex.com/>\n <https://www.linkedin.com/feed/update/urn:li:activity:7516158636411473921>| \n\nMessages de confidentialité:Ce courriel (de même que les fichiers joints) est strictement réservé à l'usage de la personne ou de l'entité à qui il est adressé et peut contenir de l'information privilégiée et confidentielle. Toute divulgation, distribution ou copie de ce courriel (de même que les fichiers joints) est strictement prohibée. Si vous avez reçu ce courriel par erreur, veuillez nous en aviser sur-le-champ, détruire toutes les copies et le supprimer de votre système informatique.    Confidentiality Warning :This message and any attachments are only for the use of the intended recipient(s), are confidential, and may be privileged. If you are not the intended recipient, you are hereby notified that any review, retransmission, conversion to hard copy, copying, circulation or other use of this message and any attachments is strictly prohibited. If you are not the intended recipient, please notify the sender immediately by return e-mail, and delete this message and any attachments from your system. \n\nDe : Jira automation <jira@labenvironex.atlassian.net> Envoyé : 23 octobre 2026 11:01À : Eric Deschenes <Eric.Deschenes@et.eurofinsca.com>Objet :  ACTION REQUISE — Terminé Sous-tâche Création Paramètre NDMA LabPlus Pour Laboratoire de Longueuil \n\nUnverified Sender: The sender of this email has not been verified. Review the content of the message carefully and verify the identity of the sender before acting on this email: replying, opening attachments or clicking links. \n\nBonjour,Une nouvelle sous-tâche vous a été assignée dans le cadre du projet Vigies Réglementaires (VR). Veuillez en prendre connaissance et compléter le traitement dans les délais prescrits.\n— Détails de la sous-tâche —Ticket :  — Création Paramètre NDMA LabPlus Pour Laboratoire de Longueuil👤 Responsable : Eric Deschenes⚠️ Impact principal : 📅 Date cible : 📝 Description : # Création Nouveau Test NDMA:\nCréation du nouveau test NDMA pour permettra la création de la demande de modification du CP Ministériel Organique au niveau de l'équipe de développement SA. \n!image-20261023-140702.png|width=353,alt=\"image-20261023-140702.png\"!Projet parent : RQEP – Modifications à la qualité de l'eau potable harmonisées avec Santé Canada (Décret 845-2026, en vigueur 2 juillet 2026)https://labenvironex.atlassian.net/browse/VR-441\n❗ACTION REQUISE IMPORTANTE❗Répondez à ce courriel lorsque la sous-tâche est complétée en incluant la confirmation que tout est conforme :Terminé Sous-tâche Création Paramètre NDMA LabPlus Pour Laboratoire de Longueuil\nAccéder au ticket principal : RQEP – Modifications à la qualité de l'eau potable harmonisées avec Santé Canada (Décret 845-2026, en vigueur 2 juillet 2026)Lien portail : https://labenvironex.atlassian.net/browse/VR-441\n────────────────────────Merci de votre collaboration.Équipe Vigies Réglementaires — Eurofins Environex"
+        }
+      ],
+      "parent_key": "VR-347",
+      "parent_url": "https://labenvironex.atlassian.net/browse/VR-347",
+      "jira_url": "https://labenvironex.atlassian.net/browse/VR-441",
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
