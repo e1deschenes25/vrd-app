@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:00:03.555Z",
+  "generatedAt": "2026-10-23T13:00:03.299Z",
   "issues": [
     {
       "key": "VR-137",
@@ -10143,7 +10143,7 @@
       "key": "VR-439",
       "division": "Environnement",
       "summary": "Documents relatifs à la transmission SEP des résultats d'analyses en vertu du RQEP",
-      "status": "À trier",
+      "status": "En analyse",
       "priority": "Medium",
       "type": "VR - Avis",
       "subtask": false,
@@ -10152,7 +10152,7 @@
       "date_vigueur": null,
       "duedate": null,
       "created": "2026-10-22T15:44:03.839-0400",
-      "assignee": null,
+      "assignee": "Eric Deschenes",
       "responsable_action": null,
       "date_cible_resolution": null,
       "date_completion_reelle": null,
@@ -10175,6 +10175,41 @@
       "parent_key": null,
       "parent_url": null,
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-439",
+      "phase_pipeline": null,
+      "quadrant": null,
+      "unite_affaires": [],
+      "_anomalieDivision": false
+    },
+    {
+      "key": "VR-440",
+      "division": "Environnement",
+      "summary": "Modification Produits Pour le paramètre des entérocoques déjà présent dans les produits, le code de transfert SEP : STRFEC11 doit être ajouté (lié au paramètre *ACSF--01).",
+      "status": "Work in progress",
+      "priority": "Medium",
+      "type": "Sous-tâche",
+      "subtask": true,
+      "criticite": "Critique",
+      "mois_vigie": "Septembre 2026",
+      "date_vigueur": null,
+      "duedate": null,
+      "created": "2026-10-22T17:16:47.190-0400",
+      "assignee": "Eric Deschenes",
+      "responsable_action": "Eric Deschenes",
+      "date_cible_resolution": "2026-10-23",
+      "date_completion_reelle": "2026-10-23",
+      "description": "Actions requises immédiates requises : Modifier les produits suivants : *001002B*001003B*001011B*001012B*001020B*001021BPour le paramètre des entérocoques déjà présent dans les produits, le code de transfert SEP : STRFEC11 doit être ajouté (lié au paramètre *ACSF--01).https://www.environnement.gouv.qc.ca/eau/potable/systeme-suivi/guide-production-fichiersXML-SEP.pdfRéférence Demande LIMS:",
+      "evaluation_impact": null,
+      "comments": [
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-10-22T17:25:01.952-0400",
+          "public": false,
+          "text": "https://labenvironex.atlassian.net/browse/LIMS-1330"
+        }
+      ],
+      "parent_key": "VR-439",
+      "parent_url": "https://labenvironex.atlassian.net/browse/VR-439",
+      "jira_url": "https://labenvironex.atlassian.net/browse/VR-440",
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
