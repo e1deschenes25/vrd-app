@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T16:00:02.890Z",
+  "generatedAt": "2026-10-28T21:00:02.785Z",
   "issues": [
     {
       "key": "VR-137",
@@ -10295,6 +10295,43 @@
       "quadrant": null,
       "unite_affaires": [
         "Autres"
+      ],
+      "_anomalieDivision": false
+    },
+    {
+      "key": "VR-443",
+      "division": "Environnement",
+      "summary": "Avis de modification du 14 octobre 2026",
+      "status": "À trier",
+      "priority": "Medium",
+      "type": "VR - Avis",
+      "subtask": false,
+      "criticite": "Moyenne",
+      "mois_vigie": "Septembre 2026",
+      "date_vigueur": null,
+      "duedate": null,
+      "created": "2026-10-28T13:08:51.814-0400",
+      "assignee": null,
+      "responsable_action": null,
+      "date_cible_resolution": null,
+      "date_completion_reelle": null,
+      "description": "Domaines 11, 226, 380, 406, 1020 et 1021 Certains domaines d’accréditation ont été modifiés pour répondre aux besoins d’analyse des laboratoires accrédités en fonction des exigences du Ministère.\nDomaines 24 et 149 Certains domaines d’accréditation ont été créés pour répondre aux besoins d’analyse des laboratoires accrédités en fonction des exigences du Ministère, notamment celles liées au RQEP. Chimie de l’eau • Domaine 24 : Le domaine 24 a été créé afin de répondre aux besoins du RQEP en matière d’analyse de « Strontium » dans l’eau de surface (eau brute). • Domaine 149 : Le domaine 149 a été créé pour répondre aux besoins du RQEP en matière d’analyses de « N-nitrosodiméthylamine (NDMA) ».\nLes domaines suivants ont été retirés de l’offre d’accréditation du Programme d’accréditation des laboratoires d’analyse : 233 et 234.De manière complémentaire, les documents suivants ont été modifiés : \nChamps et domaines d’accréditation en vigueur (DR-12-CDA) : o Une coquille a été corrigée pour le domaine 146 où le « Chloroforme » n’apparaissait pas dans les paramètres visés par le domaine; • Critères de variation relatifs (DR-12-CVR) : o Une coquille pour le CVR2 du paramètre « Nitrates » du domaine 155 a été corrigée. Sa valeur est de 10 et non de 0; • Directive sur la validation des méthodes d’analyse en chimie (DR-12-VAL); • Grille de correspondance entre les domaines d’accréditation et les règlements et autres documents normatifs (DR-12-GCDR) : o Le domaine 27 a été retiré de la liste des domaines s’appliquant au Règlement sur l’enfouissement et l’incinération de matières résiduelles (REIMR) pour le paramètre « Nickel ». Le domaine 82 est désormais le seul domaine valide pour ce paramètre dans le cadre de ce règlement; o Le domaine 187 est maintenant applicable au REIMR; • Lignes directrices sur les principes méthodologiques pour l'analyse des métaux (DR-12-MET); • Fascicule Correspondance entre les méthodes en référence au cahier 4 et les domaines d’accréditation applicables.",
+      "evaluation_impact": "Chimie environnement Longueuil : Données de validation des domaines 11-146-214-416 à soumettre pour le 5 avril (date demandée = 5 mars)Chimie environnement Québec : Données de validation des domaines 11 et 214 à soumettre pour le 5 avril (date demandée = 5 mars)Pour les nouveaux domaines, ils sont liés aux modifications à venir pour le RQEP. Québec et Longueuil doivent déposer une demande d’extension de portée pour le domaine 24. Le domaine 149 est toujours en évaluation.",
+      "comments": [
+        {
+          "author": "Jennifer Gagné",
+          "created": "2026-10-28T13:08:52.764-0400",
+          "public": true,
+          "text": ""
+        }
+      ],
+      "parent_key": null,
+      "parent_url": null,
+      "jira_url": "https://labenvironex.atlassian.net/browse/VR-443",
+      "phase_pipeline": null,
+      "quadrant": null,
+      "unite_affaires": [
+        "Op-Labo"
       ],
       "_anomalieDivision": false
     }
