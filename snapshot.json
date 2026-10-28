@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T13:00:03.916Z",
+  "generatedAt": "2026-10-28T16:00:02.890Z",
   "issues": [
     {
       "key": "VR-137",
@@ -10266,6 +10266,36 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
+      "_anomalieDivision": false
+    },
+    {
+      "key": "VR-442",
+      "division": "Environnement",
+      "summary": "Conseils sur les microorganismes pathogènes dans la plomberie résidentielle et sur la qualité de l’eau",
+      "status": "À trier",
+      "priority": "Medium",
+      "type": "VR - Projet",
+      "subtask": false,
+      "criticite": "Faible",
+      "mois_vigie": "Septembre 2026",
+      "date_vigueur": null,
+      "duedate": null,
+      "created": "2026-10-28T11:50:22.513-0400",
+      "assignee": null,
+      "responsable_action": null,
+      "date_cible_resolution": null,
+      "date_completion_reelle": null,
+      "description": "Ce document aborde la question de la détérioration de la qualité de l'eau dans la plomberie du bâtiment, ainsi que les répercussions possibles sur la santé des consommateurs. Le document se concentre sur la plomberie du bâtiment résidentiels, c'est-à-dire la plomberie dans les lieux résidentiels, aussi appelés habitations, qui sont alimentés par des réseaux municipaux d'alimentation d'eau potable et de petite échelle ainsi que par des puits privés. Ce document ne fournit pas de directives sur la plomberie du bâtiment pour les hôpitaux, les établissements de soins de longue durée, les résidences pour aînés ou les immeubles de bureaux. Il ne couvre pas non plus les systèmes de réutilisation de l'eau domestique.\nCe document offre une vue d'ensemble des éléments suivants :\ncauses de la détérioration de la qualité de l'eau dans la plomberie du bâtiment, avec un accent particulier sur les agents pathogènes opportunistes et le plomb;\n\nrépercussions de la détérioration;\n\nstratégies de gestion;\n\naspects importants de la surveillance dans les approches de gestion de la qualité de l'eau potable et dans les programmes de gestion de l'eau des bâtiments.\n\nLe document porte sur l'utilisation et les conditions courantes de plomberie des bâtiments résidentiels.\nLe document s'appuie sur les renseignements fournis dans les Conseils sur la surveillance de la stabilité biologique de l'eau potable dans les réseaux de distribution (Santé Canada, 2022a).\nLe document s'adresse aux autorités responsables, par exemple les municipalités et les exploitants des systèmes d'approvisionnement en eau, ainsi qu'aux propriétaires et gestionnaires de bâtiments.",
+      "evaluation_impact": null,
+      "comments": [],
+      "parent_key": null,
+      "parent_url": null,
+      "jira_url": "https://labenvironex.atlassian.net/browse/VR-442",
+      "phase_pipeline": null,
+      "quadrant": null,
+      "unite_affaires": [
+        "Autres"
+      ],
       "_anomalieDivision": false
     }
   ]
