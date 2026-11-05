@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T21:32:59.618Z",
+  "generatedAt": "2026-11-05T22:00:02.684Z",
   "issues": [
     {
       "key": "VR-137",
@@ -10235,7 +10235,7 @@
       "key": "VR-440",
       "division": "Environnement",
       "summary": "Modification Produits Pour le paramètre des entérocoques déjà présent dans les produits, le code de transfert SEP : STRFEC11 doit être ajouté (lié au paramètre *ACSF--01).",
-      "status": "Work in progress",
+      "status": "Terminé",
       "priority": "Medium",
       "type": "Sous-tâche",
       "subtask": true,
@@ -10256,6 +10256,12 @@
           "created": "2026-10-22T17:25:01.952-0400",
           "public": false,
           "text": "https://labenvironex.atlassian.net/browse/LIMS-1330"
+        },
+        {
+          "author": "Eric Deschenes",
+          "created": "2026-11-05T16:45:58.432-0500",
+          "public": true,
+          "text": "Clôture de la sous tâche   suivant la confirmation de la conformité des modifications demandées pour les produits concernés."
         }
       ],
       "parent_key": "VR-439",
