@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T17:00:03.446Z",
+  "generatedAt": "2026-11-18T20:00:03.771Z",
   "issues": [
     {
       "key": "VR-137",
@@ -10442,6 +10442,80 @@
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [],
+      "_anomalieDivision": false
+    },
+    {
+      "key": "VR-446",
+      "division": "Alimentaires",
+      "summary": "USDA Microbiology Laboratory Guidebook - MLG Annexe 1.15 (2026-10-26) – Milieux et réactifs ",
+      "status": "À trier",
+      "priority": "Medium",
+      "type": "VR - Avis",
+      "subtask": false,
+      "criticite": "Moyenne",
+      "mois_vigie": "Octobre 2026",
+      "date_vigueur": null,
+      "duedate": null,
+      "created": "2026-11-18T12:05:23.518-0500",
+      "assignee": null,
+      "responsable_action": null,
+      "date_cible_resolution": null,
+      "date_completion_reelle": null,
+      "description": "MLG Annexe 1.15 (2026-10-26) – Milieux et réactifs :\n Le milieu gélosé AL (Agar Listeria selon Ottaviani et Agosti) de Bio-Rad Laboratories — une gélose chromogénique sélective conçue pour la détection rapide de *Listeria monocytogenes* et d’autres espèces de *Listeria* — est ajouté en tant que milieu de culture alternatif au milieu Harlequin Listeria Chromogenic Agar (HLCA) (voir page 9 du document)",
+      "evaluation_impact": "L'ajout du milieu AL Agar comme alternative au (HLCA) offre une nouvelle option approuvée pour l'isolement et la différenciation des espèces de Listeria dans le cadre des méthodes MLG. Il s'agit principalement d'une augmentation de la flexibilité opérationnelle.\nÉléments à modifier ou à évaluer en priorité: \nVérifier si les fiches de préparation des milieux et listes de matériels font actuellement référence uniquement au HLCA.\n\nMettre à jour la documentation afin d'inclure l'AL Agar comme milieu alternatif autorisé, lorsque pertinent. \n\nDéterminer si l'introduction du milieu AL nécessite une vérification interne avant son utilisation de routine \n\nÉvaluer la nécessité de documenter une étude de comparabilité ou une vérification de performance avant sa mise en service. \n\nAjouter le nouveau produit Bio-Rad Laboratories aux listes de réactifs et fournisseurs approuvés.\n\nVérifier la disponibilité, les conditions d'approvisionnement, les coûts et les délais de livraison. \n\nInformer le personnel technique des caractéristiques de lecture et d'interprétation des colonies sur ce nouveau milieu afin d'assurer une application uniforme de la méthode\n\netc.",
+      "comments": [
+        {
+          "author": "Lahcen El Badaoui",
+          "created": "2026-11-18T12:05:24.550-0500",
+          "public": true,
+          "text": ""
+        }
+      ],
+      "parent_key": null,
+      "parent_url": null,
+      "jira_url": "https://labenvironex.atlassian.net/browse/VR-446",
+      "phase_pipeline": null,
+      "quadrant": null,
+      "unite_affaires": [
+        "Op-Labo"
+      ],
+      "_anomalieDivision": false
+    },
+    {
+      "key": "VR-447",
+      "division": "Alimentaires",
+      "summary": "Chapitre C-15  Loi sur les chimistes (modifications: titre de loi, définition de chimiste, articles abrogés, nouveau champ d'exercice, création d'activités réservées)",
+      "status": "À trier",
+      "priority": "Medium",
+      "type": "VR - Décret",
+      "subtask": false,
+      "criticite": "Élevée",
+      "mois_vigie": "Octobre 2026",
+      "date_vigueur": "2026-11-18",
+      "duedate": null,
+      "created": "2026-11-18T13:07:56.638-0500",
+      "assignee": null,
+      "responsable_action": null,
+      "date_cible_resolution": null,
+      "date_completion_reelle": null,
+      "description": "Ø Changement du titre de la loi : Loi sur les chimistes au lieu de Loi sur les chimistes professionnels\n Ø Nouvelle définition du chimiste :\nAuparavant, la loi définissait principalement :\nle « chimiste professionnel »;\n\nl'« exercice de la chimie professionnelle »;\n\nl'exercice moyennant rémunération des différentes branches de la chimie.\n\nDésormais, La définition repose sur :\nla possession d'un permis;\n\nl'inscription au tableau de l'Ordre.\n\n \nØ Les articles suivants ont été supprimés : articles 5, 6, 10, 11 et 16.1\n Ø Nouveau champ d'exercice du chimiste :\nAuparavant, Aucune description moderne du champ d'exercice n'était présente. Les anciens articles 12 et 13 étaient déjà abrogés.\nDésormais, Introduction d'un véritable champ d'exercice professionnel moderne (Art. 12) :\n« L'exercice de la chimie consiste à exercer une activité à caractère scientifique d'analyse, de conception, de détermination, de réalisation, de contrôle ou de certification de la composition, des propriétés et de la transformation d'une entité moléculaire... »\nLa loi introduit également la notion d'entité moléculaire et relie la profession à (Art. 12) :\n·        l'environnement;\n·        la protection des biens;\n·        la sécurité des personnes;\n·        la pérennité du patrimoine;\n·        l'efficacité économique.\nØ Création d'activités réservées (Art. 13) :\nAnalyser, concevoir et réaliser une instruction afférente à une entité moléculaire.\n\nAnalyser, concevoir et réaliser un processus.\n\nExécuter en laboratoire les étapes :\n\no   préanalytique;\no   analytique;\no   postanalytique.\nContrôler et certifier la qualité….\n\nDéterminer les paramètres de transport, d'entreposage, d'utilisation ou d'élimination.\n\nDonner des avis, préparer, signer et sceller des rapports.",
+      "evaluation_impact": "Ø Impact potentiel pour nos laboratoires d'analyses (chimie alimentaire et environnement)\nL'ajout du point « exécuter, en laboratoire, les étapes des phases préanalytique, analytique et postanalytique » est particulièrement important pour nos laboratoires, car c'est la première fois que ces activités de laboratoire sont explicitement mentionnées dans le texte de loi pour un chimiste.\nDe même, la réservation des activités de « contrôle qualité; certification; émission d'avis; signature et scellement de rapports » pourrait avoir des implications importantes quant au rôle d'un chimiste membre de l'Ordre dans les laboratoires d'analyses.\nCe sont notamment les articles 12 et 13 de la version en vigueur qui méritent une analyse approfondie, car ils peuvent avoir un impact sur la question de savoir quelles activités devraient être supervisées ou réalisées par un membre de l'OCQ (sujet à discuter avec le groupe de travail déjà en place, composé de chimistes et de l’AQ, et qui aborde et interprète les requis de l’OCQ **MEETING À VENIR**)",
+      "comments": [
+        {
+          "author": "Lahcen El Badaoui",
+          "created": "2026-11-18T13:07:57.731-0500",
+          "public": true,
+          "text": ""
+        }
+      ],
+      "parent_key": null,
+      "parent_url": null,
+      "jira_url": "https://labenvironex.atlassian.net/browse/VR-447",
+      "phase_pipeline": null,
+      "quadrant": null,
+      "unite_affaires": [
+        "Op-Labo"
+      ],
       "_anomalieDivision": false
     }
   ]
