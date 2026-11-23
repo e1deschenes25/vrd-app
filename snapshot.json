@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T17:00:02.940Z",
+  "generatedAt": "2026-11-23T20:00:02.656Z",
   "issues": [
     {
       "key": "VR-137",
@@ -10517,6 +10517,34 @@
         "Op-Labo"
       ],
       "_anomalieDivision": false
+    },
+    {
+      "key": "VR-448",
+      "division": "À régulariser",
+      "summary": "RE: [RGC-8] Action requise — sous-tâche RGC : Test-2: Sous-tâches: Analyse de risque à reprendre : nouveau réactif manipulé sous hotte.",
+      "status": "À trier",
+      "priority": "Medium",
+      "type": "VR - Avis",
+      "subtask": false,
+      "criticite": null,
+      "mois_vigie": null,
+      "date_vigueur": null,
+      "duedate": null,
+      "created": "2026-11-23T14:40:17.194-0500",
+      "assignee": null,
+      "responsable_action": null,
+      "date_cible_resolution": null,
+      "date_completion_reelle": null,
+      "description": "Terminé RGC \nEric Deschenes\n\n\n\nResponsable conformité, assurance qualité\n\n:\n\nCompliance and Quality Assurance Manager\n\n|Eurofins Essais Environnementaux Canada, inc. |\n\n4495 Boulevard Wilfrid‑Hamel\n\n•\nQuebec\n•\nQC\n•\nCANADA\nDirect: 15143326001 <tel:15143326001>\n\nExt. 6226\n\n: \n\n: \nEric.Deschenes@et.eurofinsca.com\n\nwww.ET.eurofinsca.com\n\n•\nFacebook\n•\nLinkedIn\n•\nInstagram\n <https://www.labenvironex.com/>\n <https://www.linkedin.com/feed/update/urn:li:activity:7516158636411473921>| \n\nMessages de confidentialité:Ce courriel (de même que les fichiers joints) est strictement réservé à l'usage de la personne ou de l'entité à qui il est adressé et peut contenir de l'information privilégiée et confidentielle. Toute divulgation, distribution ou copie de ce courriel (de même que les fichiers joints) est strictement prohibée. Si vous avez reçu ce courriel par erreur, veuillez nous en aviser sur-le-champ, détruire toutes les copies et le supprimer de votre système informatique.    Confidentiality Warning :This message and any attachments are only for the use of the intended recipient(s), are confidential, and may be privileged. If you are not the intended recipient, you are hereby notified that any review, retransmission, conversion to hard copy, copying, circulation or other use of this message and any attachments is strictly prohibited. If you are not the intended recipient, please notify the sender immediately by return e-mail, and delete this message and any attachments from your system. \n\nDe : Jira automation <jira@labenvironex.atlassian.net> Envoyé : 23 novembre 2026 14:39À : Eric Deschenes <Eric.Deschenes@et.eurofinsca.com>Objet :  Action requise — sous-tâche RGC : Test-2: Sous-tâches: Analyse de risque à reprendre : nouveau réactif manipulé sous hotte. \n\nUnverified Sender: The sender of this email has not been verified. Review the content of the message carefully and verify the identity of the sender before acting on this email: replying, opening attachments or clicking links. \n\nBonjour,Une nouvelle sous-tâche vous a été assignée dans le cadre du projet Gestion des changements (RGC). Veuillez en prendre connaissance et compléter le traitement dans les délais prescrits.\n— Détails de la sous-tâche —Ticket :  — Test-2: Sous-tâches: Analyse de risque à reprendre : nouveau réactif manipulé sous hotte.👤 Responsable : Eric Deschenes📅 Date cible : 📝 Description : Analyse de risque à reprendre : nouveau réactif manipulé sous hotte.Changement :  — ESSAI R7 — contexte envoyé aux approbateurshttps://labenvironex.atlassian.net/browse/RGC-8\n❗ACTION REQUISE IMPORTANTE❗Lorsque l’action est réalisée, confirmez-la par un commentaire dans la demande :Terminé Sous-tâche Test-2: Sous-tâches: Analyse de risque à reprendre : nouveau réactif manipulé sous hotte.\nSuivre la demande : https://labenvironex.atlassian.net/servicedesk/customer/portal/39/RGC-7\n────────────────────────Merci de votre collaboration.Équipe Assurance qualité — Eurofins Environex",
+      "evaluation_impact": null,
+      "comments": [],
+      "parent_key": null,
+      "parent_url": null,
+      "jira_url": "https://labenvironex.atlassian.net/browse/VR-448",
+      "phase_pipeline": null,
+      "quadrant": null,
+      "unite_affaires": [],
+      "_anomalieDivision": true
     }
   ]
 }
