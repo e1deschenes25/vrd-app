@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T20:00:04.295Z",
+  "generatedAt": "2026-11-24T22:00:02.619Z",
   "issues": [
     {
       "key": "VR-137",
@@ -10606,7 +10606,7 @@
       "key": "VR-451",
       "division": "Environnement",
       "summary": "Changement du nom du Ministère de l'Environnement",
-      "status": "À trier",
+      "status": "En analyse",
       "priority": "Medium",
       "type": "VR - Décret",
       "subtask": false,
@@ -10615,7 +10615,7 @@
       "date_vigueur": "2026-10-21",
       "duedate": null,
       "created": "2026-11-24T14:49:17.913-0500",
-      "assignee": null,
+      "assignee": "Eric Deschenes",
       "responsable_action": null,
       "date_cible_resolution": null,
       "date_completion_reelle": null,
