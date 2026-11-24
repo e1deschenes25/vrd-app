@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T17:00:02.685Z",
+  "generatedAt": "2026-11-24T20:00:04.295Z",
   "issues": [
     {
       "key": "VR-137",
@@ -10601,6 +10601,43 @@
       "quadrant": null,
       "unite_affaires": [],
       "_anomalieDivision": true
+    },
+    {
+      "key": "VR-451",
+      "division": "Environnement",
+      "summary": "Changement du nom du Ministère de l'Environnement",
+      "status": "À trier",
+      "priority": "Medium",
+      "type": "VR - Décret",
+      "subtask": false,
+      "criticite": "Moyenne",
+      "mois_vigie": "Octobre 2026",
+      "date_vigueur": "2026-10-21",
+      "duedate": null,
+      "created": "2026-11-24T14:49:17.913-0500",
+      "assignee": null,
+      "responsable_action": null,
+      "date_cible_resolution": null,
+      "date_completion_reelle": null,
+      "description": "Changement du nom du Ministère de l’environnement. Maintenant : Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Protection de la biodiversité, de la Faune et des Parcs (MELCCPBFP)",
+      "evaluation_impact": "Site internet et Brochures client : Lalatiana avisé le 2026-11-24 par Teams, Elle avisera Jennifer lorsque les changements seront fait pour contre-vérificationCP/CAP/CAO LabPlus/Custodia : DEV-1360 LabPlus : MaJ CP Ministériel Inorg, Ptot, Org et Pb-Cu (Pour CP et CAP Ministériel LabPlus)DEV-1363 LabPlus : MaJ CP Régulier et Legio (Pour CP régulier)DEV-1366 LabPlus et Custodia : MaJ CAO (Pour CAP régulier, CQ, CAO Régulier et consultant LabPlus, CAO Custodia)Autres actions à venir et à planifier",
+      "comments": [
+        {
+          "author": "Jennifer Gagné",
+          "created": "2026-11-24T14:49:18.797-0500",
+          "public": true,
+          "text": ""
+        }
+      ],
+      "parent_key": null,
+      "parent_url": null,
+      "jira_url": "https://labenvironex.atlassian.net/browse/VR-451",
+      "phase_pipeline": null,
+      "quadrant": null,
+      "unite_affaires": [
+        "Autres"
+      ],
+      "_anomalieDivision": false
     }
   ]
 }
