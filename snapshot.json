@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T17:00:02.724Z",
+  "generatedAt": "2026-11-27T20:00:02.859Z",
   "issues": [
     {
       "key": "VR-137",
@@ -10632,6 +10632,43 @@
       "parent_key": null,
       "parent_url": null,
       "jira_url": "https://labenvironex.atlassian.net/browse/VR-451",
+      "phase_pipeline": null,
+      "quadrant": null,
+      "unite_affaires": [
+        "Autres"
+      ],
+      "_anomalieDivision": false
+    },
+    {
+      "key": "VR-452",
+      "division": "Environnement",
+      "summary": "Projet de Règlement : Règlement modifiant le Règlement sur la santé et la sécurité du travail et le Code de sécurité pour les travaux de construction",
+      "status": "À trier",
+      "priority": "Medium",
+      "type": "VR - Projet",
+      "subtask": false,
+      "criticite": "Faible",
+      "mois_vigie": "Octobre 2026",
+      "date_vigueur": null,
+      "duedate": null,
+      "created": "2026-11-27T13:57:08.772-0500",
+      "assignee": null,
+      "responsable_action": null,
+      "date_cible_resolution": null,
+      "date_completion_reelle": null,
+      "description": "Le projet de règlement publié à la Gazette officielle du Québec du 11 novembre 2026 vise principalement deux objectifs : améliorer la sécurité des machines sur les chantiers de construction et mettre à jour les valeurs d'exposition aux contaminants de l'air applicables en milieu de travail.\n \nExtension des règles de sécurité des machines aux chantiers de construction\n\nLe changement le plus important consiste à rendre applicables aux chantiers de construction les articles 172 à 194 du Règlement sur la santé et la sécurité du travail (RSST), qui encadrent la sécurité des machines.\nCes dispositions couvrent notamment :\nles protecteurs et dispositifs de sécurité;\n\nla prévention de l'accès aux zones dangereuses;\n\nla mise en mouvement et l'arrêt sécuritaires des équipements;\n\nles dispositifs d'arrêt d'urgence;\n\nles interventions d'entretien, de réglage ou de déblocage;\n\nla maîtrise des énergies dangereuses (cadenassage et méthodes équivalentes).\n\nL'objectif est d'harmoniser les exigences entre le secteur industriel et les chantiers de construction, où la réglementation actuelle est jugée moins détaillée.\n \nModification du Code de sécurité pour les travaux de construction\n\nLe projet prévoit également de modifier le Code de sécurité pour les travaux de construction (CSTC) afin de préciser que certaines de ses dispositions sont complétées par celles du RSST.\nConcrètement :\ncertaines exigences actuellement inscrites au CSTC seraient retirées;\n\nplusieurs articles seraient remplacés par des renvois directs aux dispositions du RSST;\n\nles règles relatives aux machines deviendraient plus uniformes d'un secteur économique à l'autre.\n\n \n\nMise à jour des contaminants de l'air\n\nLe projet modifie également la partie 1 de l'annexe I du RSST concernant les valeurs d'exposition admissibles (VEA) et les notations associées aux contaminants de l'air.\nSelon le sommaire de la CNESST, les modifications touchent 141 substances. Parmi les substances mentionnées :\nacrylamide;\n\nbenzène;\n\niode;\n\npoussières de bois.\n\nL'objectif est d'harmoniser les limites québécoises avec celles utilisées dans les autres provinces canadiennes et d'assurer un niveau de protection comparable pour les travailleurs.",
+      "evaluation_impact": null,
+      "comments": [
+        {
+          "author": "Jennifer Gagné",
+          "created": "2026-11-27T13:57:09.543-0500",
+          "public": true,
+          "text": ""
+        }
+      ],
+      "parent_key": null,
+      "parent_url": null,
+      "jira_url": "https://labenvironex.atlassian.net/browse/VR-452",
       "phase_pipeline": null,
       "quadrant": null,
       "unite_affaires": [
